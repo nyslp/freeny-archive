@@ -1,0 +1,390 @@
+<title>Free New York Archive</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Articles from Free New York, the newsletter of the Libertarian Party of New York, 2023 to today.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800;900&family=Caveat:wght@700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+/* Layout: newsletter masthead over a two-column reading room (feed + archive rail); gold bars mark sections like the printed county headers. */
+:root {
+  --bg: #f6f6f4;
+  --panel: #ffffff;
+  --ink: #2b2b2c;
+  --muted: #66655f;
+  --rule: #dddcd6;
+  --gold: #e3c000;
+  --gold-ink: #2b2b2c;
+  --link: #6b5a00;
+  --chip: #efeee9;
+  --display: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --hand: "Caveat", "Bradley Hand", "Segoe Print", cursive;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #161617; --panel: #1f1f20; --ink: #ecebe6; --muted: #a3a29b; --rule: #34342f;
+  --gold: #e3c000; --gold-ink: #1b1b1b; --link: #f0d443; --chip: #2a2a29; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #161617; --panel: #1f1f20; --ink: #ecebe6; --muted: #a3a29b; --rule: #34342f;
+  --gold: #e3c000; --gold-ink: #1b1b1b; --link: #f0d443; --chip: #2a2a29; color-scheme: dark }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 400 17px/1.6 var(--body); }
+a { color: inherit; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.wrap { max-width: 1160px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+
+/* masthead */
+header.mast { background: var(--panel); border-bottom: 4px solid var(--ink); }
+.mast .wrap { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 12px 24px; padding-block: 18px 12px; }
+.brand { text-decoration: none; display: grid; gap: 2px; }
+.brand .name { font: 700 clamp(44px, 8vw, 76px)/0.9 var(--hand); letter-spacing: -0.5px; }
+.brand .sub { font: 700 12px/1.3 var(--display); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.search { display: flex; gap: 8px; flex: 1 1 260px; max-width: 380px; }
+.search input { flex: 1; min-width: 0; font: 500 15px var(--display); padding: 10px 12px; border: 2px solid var(--ink); border-radius: 0; background: var(--bg); color: var(--ink); }
+nav.bar { background: var(--ink); color: var(--bg); }
+nav.bar .wrap { display: flex; gap: 4px 20px; flex-wrap: wrap; padding-block: 8px; font: 700 13px/1.4 var(--display); letter-spacing: 0.06em; text-transform: uppercase; }
+nav.bar a { text-decoration: none; opacity: 0.85; }
+nav.bar a:hover, nav.bar a[aria-current="page"] { opacity: 1; box-shadow: inset 0 -3px 0 var(--gold); }
+
+main .wrap { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 40px; padding-block: 32px 64px; }
+@media (max-width: 900px) { main .wrap { grid-template-columns: minmax(0, 1fr); } }
+
+/* section labels: the yellow county bars from the print edition */
+.label { display: inline-block; background: var(--gold); color: var(--gold-ink); font: 800 13px/1 var(--display); letter-spacing: 0.08em; text-transform: uppercase; padding: 7px 10px 6px; }
+.kicker { font: 700 12.5px/1.4 var(--display); letter-spacing: 0.07em; text-transform: uppercase; color: var(--muted); }
+.kicker a { text-decoration: none; }
+.kicker a:hover { color: var(--ink); }
+h1, h2, h3 { font-family: var(--display); text-wrap: balance; margin: 0; }
+
+/* feed */
+.feed { display: grid; gap: 0; }
+.lead-story { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 24px; padding-bottom: 28px; border-bottom: 2px solid var(--ink); margin-bottom: 8px; }
+.lead-story.noimg { grid-template-columns: minmax(0, 1fr); }
+.lead-story img { width: 100%; height: auto; max-height: 400px; object-fit: contain; object-position: left top; display: block; }
+.lead-story h2 { font-weight: 900; font-size: clamp(28px, 3.6vw, 40px); line-height: 1.05; margin: 8px 0 12px; }
+.lead-story h2 a { text-decoration: none; }
+.lead-story p { margin: 0 0 10px; color: var(--muted); }
+@media (max-width: 640px) { .lead-story { grid-template-columns: minmax(0, 1fr); } }
+.item { display: grid; grid-template-columns: minmax(0, 1fr) 132px; gap: 18px; padding: 20px 0; border-bottom: 1px solid var(--rule); }
+.item.noimg { grid-template-columns: minmax(0, 1fr); }
+.item h3 { font-size: 21px; font-weight: 800; line-height: 1.2; margin: 4px 0 6px; }
+.item h3 a { text-decoration: none; }
+.item h3 a:hover, .lead-story h2 a:hover { text-decoration: underline; text-decoration-thickness: 3px; text-decoration-color: var(--gold); text-underline-offset: 3px; }
+.item p { margin: 0; font-size: 15.5px; color: var(--muted); line-height: 1.5; }
+.item img { width: 132px; height: 100px; object-fit: cover; display: block; background: var(--chip); }
+.by { font: 500 13px/1.4 var(--display); color: var(--muted); margin-top: 6px; }
+@media (max-width: 480px) { .item { grid-template-columns: minmax(0, 1fr) 88px; gap: 12px; } .item img { width: 88px; height: 72px; } }
+.more { margin-top: 20px; font: 800 14px var(--display); letter-spacing: 0.06em; text-transform: uppercase; background: none; border: 2px solid var(--ink); color: var(--ink); padding: 10px 16px; cursor: pointer; }
+.more:hover { background: var(--ink); color: var(--bg); }
+.pagehead { display: grid; gap: 8px; padding-bottom: 18px; border-bottom: 2px solid var(--ink); }
+.pagehead h1 { font-weight: 900; font-size: clamp(30px, 4.4vw, 46px); line-height: 1.05; }
+.pagehead p { margin: 0; color: var(--muted); }
+.pdfbtn { display: inline-flex; align-items: center; gap: 8px; font: 800 13px var(--display); letter-spacing: 0.06em; text-transform: uppercase; text-decoration: none; border: 2px solid var(--ink); padding: 8px 12px; justify-self: start; }
+.pdfbtn:hover { background: var(--gold); color: var(--gold-ink); border-color: var(--gold); }
+.section-row { padding: 22px 0 4px; }
+
+/* rail */
+aside { display: grid; gap: 30px; align-content: start; }
+aside section { display: grid; gap: 12px; }
+.years { display: grid; gap: 14px; }
+.year { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 8px; align-items: start; }
+.year b { font: 900 16px/26px var(--display); }
+.months { display: grid; grid-template-columns: repeat(6, 1fr); gap: 4px; }
+.months a, .months span { font: 700 12px/26px var(--display); text-align: center; text-decoration: none; text-transform: uppercase; }
+.months a { background: var(--chip); }
+.months a:hover, .months a[aria-current="page"] { background: var(--gold); color: var(--gold-ink); }
+.months span { color: var(--rule); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font: 600 13px/1 var(--display); text-decoration: none; background: var(--chip); padding: 7px 9px; }
+.chip small { color: var(--muted); font-weight: 500; margin-left: 4px; }
+.chip:hover, .chip[aria-current="page"] { background: var(--gold); color: var(--gold-ink); }
+.chip:hover small { color: inherit; }
+.about { font-size: 15px; color: var(--muted); line-height: 1.55; }
+.about p { margin: 0 0 8px; }
+
+/* article */
+article.story { max-width: 690px; }
+article.story header { display: grid; gap: 10px; padding-bottom: 18px; border-bottom: 2px solid var(--ink); margin-bottom: 24px; }
+article.story h1 { font-weight: 900; font-size: clamp(32px, 5vw, 50px); line-height: 1.03; }
+article.story .dek { font: italic 400 21px/1.4 var(--body); color: var(--muted); margin: 0; }
+article.story .byline { font: 600 14.5px/1.4 var(--display); }
+article.story .byline span { font-weight: 500; color: var(--muted); }
+.prose p { margin: 0 0 1.05em; }
+.prose h2 { font-size: 21px; font-weight: 800; margin: 1.6em 0 0.5em; }
+.prose.county h2 { margin-top: 1.4em; }
+.prose.county h2 span { display: inline-block; background: var(--gold); color: var(--gold-ink); font-size: 15px; letter-spacing: 0.06em; text-transform: uppercase; padding: 6px 10px 5px; }
+.prose ul.lines { list-style: none; padding: 0; margin: 0 0 1em; font-size: 16px; line-height: 1.5; }
+.prose ul.lines li { padding: 1px 0; overflow-wrap: anywhere; }
+.prose blockquote { margin: 1.4em 0; padding: 4px 0 4px 18px; border-left: 6px solid var(--gold); font: 700 22px/1.35 var(--display); }
+.prose figure { margin: 1.5em 0; }
+.prose figure img { display: block; width: auto; max-width: 100%; height: auto; max-height: 560px; margin: 0 auto; background: var(--chip); }
+.prose figcaption { font: 500 13.5px/1.45 var(--display); color: var(--muted); margin-top: 8px; }
+.prose a { color: var(--link); overflow-wrap: anywhere; }
+.cgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr)); gap: 22px 24px; }
+.cell { min-width: 0; }
+.cell h2 { margin: 0 0 8px !important; }
+.cell ul.lines { font-size: 15px; }
+.cell li.lbl { font: 800 11px/1 var(--display); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); padding-top: 9px; }
+.cell li.lbl:first-child { padding-top: 0; }
+article.story.wide { max-width: none; }
+.endnote { margin-top: 32px; padding: 16px 18px; background: var(--panel); border: 1px solid var(--rule); display: grid; gap: 10px; font: 500 14.5px/1.5 var(--display); }
+.endnote .chips { margin-top: 2px; }
+.pn { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 28px; }
+.pn a { text-decoration: none; display: grid; gap: 4px; padding: 14px 0; border-top: 2px solid var(--ink); font: 800 16px/1.25 var(--display); }
+.pn a.next { text-align: right; }
+.pn a span { font: 700 11.5px var(--display); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.pn a:hover { box-shadow: inset 0 3px 0 var(--gold); }
+.empty { padding: 40px 0; color: var(--muted); }
+footer { border-top: 1px solid var(--rule); color: var(--muted); font: 500 13px/1.5 var(--display); }
+footer .wrap { padding-block: 22px 32px; }
+mark { background: color-mix(in srgb, var(--gold) 45%, transparent); color: inherit; }
+@media (prefers-reduced-motion: no-preference) { .item, .lead-story { animation: none; } }
+</style>
+
+<header class="mast">
+  <div class="wrap">
+    <a class="brand" href="#home">
+      <span class="name">Free New York</span>
+      <span class="sub">Newsletter of the Libertarian Party of New York · Archive 2023–2026</span>
+    </a>
+    <form class="search" role="search" id="searchform">
+      <input id="q" type="search" placeholder="Search every article" aria-label="Search every article" autocomplete="off">
+    </form>
+  </div>
+</header>
+<nav class="bar" aria-label="Sections">
+  <div class="wrap">
+    <a href="#home" data-nav="home">Latest</a>
+    <a href="#issues" data-nav="issues">All issues</a>
+    <a href="#county-pages" data-nav="county-pages">County affiliates</a>
+    <a href="#updates" data-nav="updates">LPNY updates</a>
+    <a href="#topics" data-nav="topics">Topics</a>
+  </div>
+</nav>
+<main><div class="wrap">
+  <div id="view" aria-live="polite"><p class="empty">Loading the archive…</p></div>
+  <aside id="rail"></aside>
+</div></main>
+<footer><div class="wrap">
+  Text and photos are taken from the PDF issues of <i>Free New York</i> hosted on LPedia. Every article links to its original PDF page. Extraction can introduce errors; the PDF is the record.
+</div></footer>
+
+<script>
+(() => {
+  const $ = (s, r = document) => r.querySelector(s);
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const slug = s => String(s).toLowerCase().normalize("NFKD").replace(/[^\w\s-]/g, "").replace(/[\s_]+/g, "-").replace(/-+/g, "-").replace(/^-|-$/g, "");
+  const linkify = s => esc(s)
+    .replace(/\b(https?:\/\/[^\s<]+[^\s<.,;:)])/g, '<a href="$1" target="_blank" rel="noopener">$1</a>')
+    .replace(/(^|[\s(])((?:www\.)[a-z0-9.-]+\.[a-z]{2,}(?:\/[^\s<]*[^\s<.,;:)])?)/gi, '$1<a href="https://$2" target="_blank" rel="noopener">$2</a>')
+    .replace(/\b([A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,})\b/g, "<b>$1</b>");
+  const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  const KIND_LABEL = { article: "Article", updates: "LPNY Updates", "county-news": "County Affiliate News", directory: "Directory", ad: "Notice", other: "Other" };
+  const FEED_KINDS = new Set(["article", "updates", "other"]);
+  let D, A = {}, ISS = {}, order = [], feedShown = 12;
+
+  function issueOf(a) { return ISS[a.issue]; }
+  function kicker(a, withTags = true) {
+    const i = issueOf(a);
+    const bits = [`<a href="#issue-${i.key}">${esc(i.label)}</a>`];
+    if (a.kind !== "article") bits.push(esc(KIND_LABEL[a.kind]));
+    else if (withTags && a.tags[0]) bits.push(`<a href="#tag-${slug(a.tags[0])}">${esc(a.tags[0])}</a>`);
+    return `<div class="kicker">${bits.join(" · ")}</div>`;
+  }
+  function byline(a) {
+    return a.author ? `<div class="by">By ${esc(a.author)}${a.role ? ", " + esc(a.role) : ""}</div>` : "";
+  }
+  function item(a) {
+    return `<div class="item${a.lead ? "" : " noimg"}"><div>${kicker(a)}<h3><a href="#a-${a.slug}">${esc(a.title)}</a></h3>` +
+      `<p>${esc(a.summary || "")}</p>${byline(a)}</div>` +
+      (a.lead ? `<a href="#a-${a.slug}" tabindex="-1" aria-hidden="true"><img src="${a.lead}" alt="" loading="lazy"></a>` : "") + `</div>`;
+  }
+  function listView(title, intro, arts, opts = {}) {
+    const head = `<div class="pagehead">${opts.label ? `<span class="label">${esc(opts.label)}</span>` : ""}<h1>${esc(title)}</h1>${intro ? `<p>${intro}</p>` : ""}${opts.extra || ""}</div>`;
+    return head + (arts.length ? `<div class="feed">${arts.map(item).join("")}</div>` : `<p class="empty">Nothing here yet.</p>`);
+  }
+
+  function home() {
+    const feed = order.filter(a => FEED_KINDS.has(a.kind));
+    const newest = feed[0].issue;
+    const leadA = feed.find(a => a.lead && a.issue === newest) || feed[0];
+    const rest = feed.filter(a => a !== leadA).slice(0, feedShown);
+    let h = `<section class="lead-story${leadA.lead ? "" : " noimg"}">` +
+      (leadA.lead ? `<a href="#a-${leadA.slug}" tabindex="-1" aria-hidden="true"><img src="${leadA.lead}" alt=""></a>` : "") +
+      `<div>${kicker(leadA)}<h2><a href="#a-${leadA.slug}">${esc(leadA.title)}</a></h2><p>${esc(leadA.summary || "")}</p>${byline(leadA)}</div></section>`;
+    h += `<div class="feed">${rest.map(item).join("")}</div>`;
+    if (feed.length - 1 > feedShown) h += `<button class="more" id="more">Show more articles</button>`;
+    return h;
+  }
+
+  function issuesView() {
+    let h = `<div class="pagehead"><h1>All issues</h1><p>${D.issues.length} monthly issues of <i>Free New York</i>, newest first.</p></div>`;
+    h += D.issues.map(i => {
+      const arts = i.articles.map(s => A[s]).filter(a => a.kind !== "ad");
+      return `<div class="item${i.cover ? "" : " noimg"}"><div><div class="kicker">Vol. ${esc(i.volume ?? "–")}, No. ${esc(i.number ?? "–")} · ${i.pages} pages</div>` +
+        `<h3><a href="#issue-${i.key}">${esc(i.label)}</a></h3><p>${arts.slice(0, 5).map(a => esc(a.title)).join(" · ")}${arts.length > 5 ? " · …" : ""}</p></div>` +
+        (i.cover ? `<a href="#issue-${i.key}" tabindex="-1" aria-hidden="true"><img src="${i.cover}" alt="" loading="lazy"></a>` : "") + `</div>`;
+    }).join("");
+    return h;
+  }
+
+  function issueView(key) {
+    const i = ISS[key];
+    if (!i) return notFound();
+    const arts = i.articles.map(s => A[s]);
+    const extra = `<a class="pdfbtn" href="${i.pdf}" target="_blank" rel="noopener">Open the original PDF ↗</a>`;
+    return listView(i.label, `Vol. ${esc(i.volume ?? "–")}, No. ${esc(i.number ?? "–")} · ${i.pages} pages · ${arts.length} items`, arts, { label: "Issue", extra });
+  }
+
+
+  const LBL = /^(NEXT MEETINGS?|MONTHLY SOCIAL|CONTACTS?|LEARN MORE|MEETINGS?|EVENTS?|SOCIAL)\s*:?\s*/i;
+  function countyLine(l) {
+    const m = l.match(LBL);
+    if (m && m[1] === m[1].toUpperCase()) {
+      const rest = l.slice(m[0].length);
+      return `<li class="lbl">${esc(m[1].toLowerCase())}</li>` + (rest ? `<li>${linkify(rest)}</li>` : "");
+    }
+    return `<li>${linkify(l)}</li>`;
+  }
+  function countyGrid(a) {
+    const cells = []; let cur = null; const pre = [];
+    for (const b of a.body) {
+      if (b.t === "h") { cur = { h: b.text, parts: [] }; cells.push(cur); continue; }
+      const html = b.t === "list" ? `<ul class="lines">${b.lines.map(countyLine).join("")}</ul>`
+        : b.t === "img" ? `<figure><img src="${b.src}" alt="" loading="lazy"></figure>` : `<p>${linkify(b.text)}</p>`;
+      (cur ? cur.parts : pre).push(html);
+    }
+    return pre.join("") + `<div class="cgrid">${cells.map(c => `<section class="cell"><h2><span>${esc(c.h)}</span></h2>${c.parts.join("")}</section>`).join("")}</div>`;
+  }
+
+  function articleView(s) {
+    const a = A[s];
+    if (!a) return notFound();
+    const i = issueOf(a);
+    const county = a.kind === "county-news" || a.kind === "directory";
+    let body = "";
+    if (a.kind === "county-news") body = countyGrid(a);
+    else for (const b of a.body) {
+      if (b.t === "p") body += `<p>${linkify(b.text)}</p>`;
+      else if (b.t === "h") body += county ? `<h2><span>${esc(b.text)}</span></h2>` : `<h2>${esc(b.text)}</h2>`;
+      else if (b.t === "quote") body += `<blockquote>${esc(b.text)}</blockquote>`;
+      else if (b.t === "list") body += `<ul class="lines">${b.lines.map(l => `<li>${linkify(l)}</li>`).join("")}</ul>`;
+      else if (b.t === "img") body += `<figure><img src="${b.src}" width="${b.w}" height="${b.h}" alt="${esc(b.cap || "Photo from " + a.title)}" loading="lazy">${b.cap ? `<figcaption>${esc(b.cap)}</figcaption>` : ""}</figure>`;
+    }
+    const page = a.pages[0] || 1;
+    const pagesTxt = a.pages.length > 1 ? `pages ${a.pages[0]}–${a.pages[a.pages.length - 1]}` : `page ${page}`;
+    const chips = [...a.tags.map(t => `<a class="chip" href="#tag-${slug(t)}">${esc(t)}</a>`),
+                   ...a.counties.map(c => `<a class="chip" href="#county-${slug(c)}">${esc(c)} County</a>`)].join("");
+    const sib = i.articles.map(x => A[x]);
+    const k = sib.indexOf(a), prev = sib[k - 1], next = sib[k + 1];
+    return `<article class="story${a.kind === "county-news" ? " wide" : ""}"><header>${kicker(a)}<h1>${esc(a.title)}</h1>` +
+      (a.subtitle ? `<p class="dek">${esc(a.subtitle)}</p>` : "") +
+      (a.author ? `<div class="byline">By ${esc(a.author)}${a.role ? ` <span>· ${esc(a.role)}</span>` : ""}</div>` : "") +
+      `</header><div class="prose${county ? " county" : ""}">${body || `<p class="empty">This item is mostly graphics. See the PDF.</p>`}</div>` +
+      `<div class="endnote"><div>From <a href="#issue-${i.key}"><b>${esc(i.label)}</b></a>, ${pagesTxt}. <a href="${i.pdf}#page=${page}" target="_blank" rel="noopener">See it in the original PDF ↗</a></div>` +
+      (chips ? `<div class="chips">${chips}</div>` : "") + `</div>` +
+      `<nav class="pn" aria-label="More from this issue">${prev ? `<a href="#a-${prev.slug}"><span>← Previous in this issue</span>${esc(prev.title)}</a>` : "<span></span>"}` +
+      `${next ? `<a class="next" href="#a-${next.slug}"><span>Next in this issue →</span>${esc(next.title)}</a>` : "<span></span>"}</nav></article>`;
+  }
+
+  function counts(key) {
+    const m = new Map();
+    for (const a of order) for (const v of a[key]) m.set(v, (m.get(v) || 0) + 1);
+    return [...m].sort((x, y) => y[1] - x[1] || x[0].localeCompare(y[0]));
+  }
+  function topicsView() {
+    const t = counts("tags"), c = counts("counties");
+    return `<div class="pagehead"><h1>Topics</h1><p>Every article is tagged with a few topics and the counties it covers.</p></div>` +
+      `<div class="section-row"><span class="label">Topics</span></div><div class="chips">${t.map(([k, n]) => `<a class="chip" href="#tag-${slug(k)}">${esc(k)}<small>${n}</small></a>`).join("")}</div>` +
+      `<div class="section-row"><span class="label">Counties</span></div><div class="chips">${c.map(([k, n]) => `<a class="chip" href="#county-${slug(k)}">${esc(k)}<small>${n}</small></a>`).join("")}</div>`;
+  }
+  function tagView(s) {
+    const name = counts("tags").map(x => x[0]).find(t => slug(t) === s);
+    if (!name) return notFound();
+    return listView(name, "", order.filter(a => a.tags.includes(name)), { label: "Topic" });
+  }
+  function countyView(s) {
+    const name = counts("counties").map(x => x[0]).find(t => slug(t) === s);
+    if (!name) return notFound();
+    return listView(`${name} County`, "Articles about this county. Meeting times and contacts are on each issue's County Affiliate News page.", order.filter(a => a.counties.includes(name)), { label: "County" });
+  }
+  function kindView(kind, title, intro) {
+    return listView(title, intro, order.filter(a => a.kind === kind));
+  }
+
+  function searchView(q) {
+    const terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+    const hits = [];
+    for (const a of order) {
+      const hay = a._text || (a._text = [a.title, a.subtitle, a.author, a.summary, ...a.body.map(b => b.text || (b.lines || []).join(" ") || b.cap || "")].join(" ").toLowerCase());
+      if (terms.every(t => hay.includes(t))) {
+        const ti = a.title.toLowerCase();
+        hits.push([terms.reduce((s, t) => s + (ti.includes(t) ? 5 : 0), 0), a]);
+      }
+    }
+    hits.sort((x, y) => y[0] - x[0]);
+    return listView(`Search: “${q}”`, `${hits.length} article${hits.length === 1 ? "" : "s"} found.`, hits.map(h => h[1]).slice(0, 200));
+  }
+  function notFound() { return `<div class="pagehead"><h1>Page not found</h1><p>That link doesn't match anything in the archive. <a href="#home">Go to the latest articles</a>.</p></div>`; }
+
+  function rail(cur) {
+    const byYear = {};
+    for (const i of D.issues) (byYear[i.year] ||= {})[i.month] = i;
+    const years = Object.keys(byYear).sort((a, b) => b - a).map(y =>
+      `<div class="year"><b>${y}</b><div class="months">${MONTHS.map((m, k) => {
+        const i = byYear[y][k + 1];
+        return i ? `<a href="#issue-${i.key}" title="${esc(i.label)}"${cur === "issue-" + i.key ? ' aria-current="page"' : ""}>${m}</a>` : `<span aria-hidden="true">${m}</span>`;
+      }).join("")}</div></div>`).join("");
+    const t = counts("tags").slice(0, 14);
+    return `<section><span class="label">Issues</span><div class="years">${years}</div></section>` +
+      `<section><span class="label">Topics</span><div class="chips">${t.map(([k, n]) => `<a class="chip" href="#tag-${slug(k)}"${cur === "tag-" + slug(k) ? ' aria-current="page"' : ""}>${esc(k)}<small>${n}</small></a>`).join("")}</div></section>` +
+      `<section class="about"><span class="label">About</span><p><i>Free New York</i> is the monthly newsletter of the Libertarian Party of New York, published since 1972 under several names.</p>` +
+      `<p>This archive holds ${D.issues.length} issues and ${order.filter(a => FEED_KINDS.has(a.kind)).length} articles and updates.</p></section>`;
+  }
+
+  let lastQ = "";
+  function render() {
+    const h = decodeURIComponent(location.hash.slice(1)) || "home";
+    let html, nav = "";
+    if (h === "home") { html = home(); nav = "home"; }
+    else if (h === "issues") { html = issuesView(); nav = "issues"; }
+    else if (h === "topics") { html = topicsView(); nav = "topics"; }
+    else if (h === "county-pages") { html = kindView("county-news", "County affiliates", "Each issue's County Affiliate News: meeting times, places and contacts for every LPNY county affiliate."); nav = "county-pages"; }
+    else if (h === "updates") { html = kindView("updates", "LPNY updates", "The monthly round-ups of party business from the Secretary and the Chair."); nav = "updates"; }
+    else if (h.startsWith("issue-")) html = issueView(h.slice(6));
+    else if (h.startsWith("a-")) html = articleView(h.slice(2));
+    else if (h.startsWith("tag-")) html = tagView(h.slice(4));
+    else if (h.startsWith("county-")) html = countyView(h.slice(7));
+    else html = notFound();
+    $("#view").innerHTML = html;
+    $("#rail").innerHTML = rail(h);
+    document.querySelectorAll("nav.bar a").forEach(a => a.dataset.nav === nav ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
+    const t = h.startsWith("a-") && A[h.slice(2)] ? A[h.slice(2)].title : null;
+    document.title = t ? `${t} · Free New York Archive` : "Free New York Archive";
+    render.rebind();
+    window.scrollTo(0, 0);
+  }
+  render.rebind = () => { const more = $("#more"); if (more) more.onclick = () => { feedShown += 20; const y = scrollY; $("#view").innerHTML = home(); scrollTo(0, y); render.rebind(); }; };
+
+  $("#searchform").addEventListener("submit", e => {
+    e.preventDefault();
+    const q = $("#q").value.trim();
+    if (!q) return;
+    lastQ = q;
+    $("#view").innerHTML = searchView(q);
+    $("#rail").innerHTML = rail("");
+    document.querySelectorAll("nav.bar a").forEach(a => a.removeAttribute("aria-current"));
+    window.scrollTo(0, 0);
+  });
+  addEventListener("hashchange", render);
+
+  (window.FREENY_DATA ? Promise.resolve(window.FREENY_DATA) : fetch("data.json").then(r => r.json())).then(d => {
+    D = d;
+    for (const i of D.issues) ISS[i.key] = i;
+    for (const a of D.articles) A[a.slug] = a;
+    const pos = Object.fromEntries(D.issues.flatMap(i => i.articles.map((s, k) => [s, [i.key, k]])));
+    order = D.articles.slice().sort((x, y) => (pos[y.slug][0].localeCompare(pos[x.slug][0])) || (pos[x.slug][1] - pos[y.slug][1]));
+    render();
+  }).catch(() => { $("#view").innerHTML = `<p class="empty">The archive data didn't load. Reload the page to try again.</p>`; });
+})();
+</script>

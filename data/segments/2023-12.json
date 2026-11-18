@@ -1,0 +1,1209 @@
+{
+ "issue": "2023-12",
+ "volume": 52,
+ "number": 12,
+ "articles": [
+  {
+   "title": "LPNY Urges New York State Department of Taxation and Finance to Stop Surprise Visits",
+   "author": "Libertarian Party of New York",
+   "kind": "article",
+   "tags": [
+    "policy",
+    "legislation"
+   ],
+   "summary": "LPNY wrote to the state tax department urging it to follow the IRS in ending unannounced taxpayer visits, and offers a guide for contacting legislators.",
+   "title_blocks": [
+    "p1b11",
+    "p1b12",
+    "p1b13"
+   ],
+   "byline_blocks": [
+    "p1b14"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p1b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b7",
+      "p1b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b10",
+      "p1b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b16"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p1b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b18"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author_role": null,
+   "counties": []
+  },
+  {
+   "title": "Save the Date: 2024 LPNY Nominating Convention",
+   "kind": "ad",
+   "tags": [
+    "convention",
+    "events"
+   ],
+   "summary": "Save-the-date notice for the 2024 LPNY Nominating Convention, with details and registration opening in January 2024.",
+   "title_blocks": [
+    "p2b10"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p2b11",
+      "p2b12"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "Platform and Credentials Representatives Elected",
+   "author": "Andrew M. Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "party business",
+    "convention",
+    "national party"
+   ],
+   "summary": "The State Committee elected Rose Leatherman and Michael Rebmann, with alternates, to represent New York on the 2024 national convention Platform and Credentials committees.",
+   "title_blocks": [
+    "p2b6",
+    "p2b7"
+   ],
+   "byline_blocks": [
+    "p2b8",
+    "p2b9"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p2b1",
+      "p2b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b3",
+      "p2b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b5"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "Welcome to the State Committee: Justin Pelletier and Sam Hordeski",
+   "author": "Andrew M. Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "party business",
+    "candidates"
+   ],
+   "summary": "Profiles of Justin Pelletier and Sam Hordeski, elected at the December 4 meeting to fill State Committee vacancies.",
+   "title_blocks": [
+    "p3b12"
+   ],
+   "byline_blocks": [
+    "p3b13",
+    "p3b14"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p3b0"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b1"
+     ]
+    },
+    {
+     "type": "image",
+     "id": "p3i1",
+     "caption_blocks": [
+      "p3b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b4"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b5"
+     ]
+    },
+    {
+     "type": "image",
+     "id": "p3i0",
+     "caption_blocks": [
+      "p3b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b7",
+      "p3b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b9"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "Help Us Get A3312 Reintroduced",
+   "kind": "article",
+   "tags": [
+    "ballot access",
+    "legislation"
+   ],
+   "summary": "LPNY asks members to urge legislators to reintroduce bill A3312, which would lower the vote and petition-signature thresholds for ballot access, in the 2024 session.",
+   "title_blocks": [
+    "p4b1"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p4b2",
+      "p4b3",
+      "p4b4",
+      "p4b5",
+      "p4b6",
+      "p4b7",
+      "p4b8"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "2024 Libertarian National Convention",
+   "kind": "ad",
+   "tags": [
+    "national party",
+    "convention"
+   ],
+   "summary": "Full-page notice pointing readers to LNC2024.com for the 2024 Libertarian National Convention.",
+   "title_blocks": [],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p5b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b2"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "A Key Issue: Oppose New York’s Gas Ban",
+   "author": "Mark Braiman",
+   "author_role": "LPNY Secretary",
+   "kind": "article",
+   "tags": [
+    "opinion",
+    "policy",
+    "legislation"
+   ],
+   "counties": [
+    "Madison"
+   ],
+   "summary": "Mark Braiman argues against the statewide ban on gas in new buildings, citing energy projections for upstate New York and what the Cazenovia Town Council should do.",
+   "title_blocks": [
+    "p6b0",
+    "p6b1"
+   ],
+   "byline_blocks": [
+    "p6b9",
+    "p6b10"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p6b3",
+      "p6b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b6",
+      "p6b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b8",
+      "p7b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b3",
+      "p7b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b6",
+      "p7b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b8",
+      "p8b0"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b3",
+      "p9b0"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b1",
+      "p9b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b4",
+      "p9b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b6"
+     ]
+    }
+   ],
+   "subtitle": null
+  },
+  {
+   "title": "Donate to the LPNY",
+   "kind": "ad",
+   "tags": [
+    "fundraising"
+   ],
+   "summary": "Donation appeal pointing to lpny.org/donate.",
+   "title_blocks": [
+    "p10b1"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p10b2"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "Updates from the Chair",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "updates",
+   "tags": [
+    "party business",
+    "convention",
+    "national party",
+    "legislation"
+   ],
+   "summary": "The chair covers the January State Committee meeting, the March nominating convention in Watkins Glen, national convention delegates, legislation, the website, petitioning and platform committees.",
+   "title_blocks": [
+    "p11b23"
+   ],
+   "byline_blocks": [
+    "p11b21",
+    "p11b22"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p11b0"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p11b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p11b3",
+      "p11b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b6",
+      "p11b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b8"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p11b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b11"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p11b12"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b13",
+      "p11b14"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p11b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b16"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p11b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b18"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p11b19"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b20"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "County Affiliate News",
+   "kind": "county-news",
+   "tags": [
+    "county affiliates",
+    "events"
+   ],
+   "summary": "Meeting dates, places and contacts for LPNY county affiliates across the state.",
+   "title_blocks": [
+    "p12b0"
+   ],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p12b2"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b3",
+      "p12b4"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b5"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b6",
+      "p12b7",
+      "p12b8"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b9"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b10",
+      "p12b11",
+      "p12b12",
+      "p12b13",
+      "p12b14",
+      "p12b15",
+      "p12b16",
+      "p12b17"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b18"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b19",
+      "p12b20",
+      "p12b21",
+      "p12b23",
+      "p12b24",
+      "p12b25",
+      "p12b26",
+      "p12b27",
+      "p12b28",
+      "p12b29"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b30"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b31",
+      "p12b32"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b33"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b34",
+      "p12b35",
+      "p12b36",
+      "p12b37"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b38"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b39",
+      "p12b40",
+      "p12b41"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b42"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b43",
+      "p12b44",
+      "p12b45"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b46"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b47",
+      "p12b48"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b49"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b50",
+      "p12b51",
+      "p12b52",
+      "p12b53"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b54"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b55",
+      "p12b56"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p13b2"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b3",
+      "p13b4",
+      "p13b5",
+      "p13b6",
+      "p13b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b9",
+      "p13b10",
+      "p13b11",
+      "p13b12",
+      "p13b13",
+      "p13b14"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b15"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b16",
+      "p13b17"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b18"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b19",
+      "p13b20"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b21"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b22",
+      "p13b23",
+      "p13b24",
+      "p13b25",
+      "p13b26"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b27"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b28"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b29"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b30",
+      "p13b31",
+      "p13b32",
+      "p13b33"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b34"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b35",
+      "p13b36"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b37"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p13b38"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b39",
+      "p13b40",
+      "p13b41",
+      "p13b42"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b43"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b44",
+      "p13b45"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b46"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b47",
+      "p13b48"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b49"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b50",
+      "p13b51"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b52"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b53",
+      "p13b54"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b2",
+      "p14b3",
+      "p14b4"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b5"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b6",
+      "p14b7",
+      "p14b8",
+      "p14b9",
+      "p14b10",
+      "p14b11"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b12"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b13",
+      "p14b14"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b15"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b16",
+      "p14b17",
+      "p14b18",
+      "p14b19"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b20"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b21",
+      "p14b22"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b23"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b24",
+      "p14b25"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "Start a County Affiliate",
+   "kind": "ad",
+   "tags": [
+    "county affiliates"
+   ],
+   "summary": "LPNY is looking for Libertarians to organize new county affiliates and can be reached at affiliates@lpny.org.",
+   "title_blocks": [],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p14b26"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p14b27"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p14b28"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p14b29"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "Shop LPNY Merchandise",
+   "kind": "ad",
+   "tags": [
+    "fundraising"
+   ],
+   "summary": "Advertisement for the LPNY merchandise store at LPNYStore.com.",
+   "title_blocks": [
+    "p15b1"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p15b2"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "LPNY Directory",
+   "kind": "directory",
+   "tags": [
+    "party business"
+   ],
+   "summary": "LPNY's executive committee, directors and committee chairs, and state committee members.",
+   "title_blocks": [
+    "p16b0"
+   ],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p16b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p16b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p16b10"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p16b8",
+      "p16b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p16b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p16b4",
+      "p16b5",
+      "p16b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p16b11"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  }
+ ],
+ "skip": [
+  "p12b22",
+  "p1b0",
+  "p1b1",
+  "p1b2",
+  "p1b3",
+  "p1b4",
+  "p2b0",
+  "p3b11",
+  "p4b0",
+  "p5b0",
+  "p6b2",
+  "p6b11",
+  "p7b0",
+  "p7b9",
+  "p7b10",
+  "p8b4",
+  "p8b5",
+  "p8b6",
+  "p9b7",
+  "p9b8",
+  "p10b0",
+  "p11b24",
+  "p12b1",
+  "p13b0",
+  "p14b0",
+  "p15b0",
+  "p16b1"
+ ]
+}

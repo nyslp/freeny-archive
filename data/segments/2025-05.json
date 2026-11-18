@@ -1,0 +1,585 @@
+{
+ "issue": "2025-05",
+ "volume": 54,
+ "number": 5,
+ "articles": [
+  {
+   "title": "LPNY Updates, Spring 2025",
+   "subtitle": null,
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Secretary",
+   "kind": "updates",
+   "tags": [
+    "party business",
+    "ballot access",
+    "podcast",
+    "convention",
+    "fundraising"
+   ],
+   "counties": [],
+   "summary": "Spring round-up: State Fair volunteers, the podcast, ballot access bills, a fall event, 2026 convention delegates, a new donor benefit and multi-county affiliates.",
+   "title_blocks": [
+    "p1b13"
+   ],
+   "byline_blocks": [
+    "p1b23",
+    "p1b24"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p1b0"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p1b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p1b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b4"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p1b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b6",
+      "p1b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p1b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p1b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b12"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p1b19"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b20"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p1b21"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b22"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "County Affiliate News",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "county-news",
+   "tags": [
+    "county affiliates",
+    "events"
+   ],
+   "counties": [],
+   "summary": "Meeting times, places and contacts for LPNY's county affiliates.",
+   "title_blocks": [
+    "p2b1"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p2b2"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p2b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p2b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p2b5",
+      "p2b6",
+      "p2b7",
+      "p2b8",
+      "p2b9",
+      "p2b10"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p2b11"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p2b12",
+      "p2b13",
+      "p2b14"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p2b15"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p2b16",
+      "p2b17",
+      "p2b18"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p2b19"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p2b20",
+      "p2b21",
+      "p2b22"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p2b23"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p2b24",
+      "p2b25",
+      "p2b26",
+      "p2b27",
+      "p2b28",
+      "p2b29"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p2b30"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p2b31",
+      "p2b32"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p2b33"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p2b34",
+      "p2b35",
+      "p2b36",
+      "p2b37",
+      "p2b38"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p2b39"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p2b40",
+      "p2b41"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p2b42"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p2b43",
+      "p2b44",
+      "p2b45",
+      "p2b46",
+      "p2b47",
+      "p2b48"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p2b49"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p2b50",
+      "p2b51",
+      "p2b52",
+      "p2b53",
+      "p2b54",
+      "p2b55"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p2b56"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p2b57",
+      "p2b58",
+      "p2b59",
+      "p2b60"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b2",
+      "p3b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b5",
+      "p3b6",
+      "p3b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b9",
+      "p3b10",
+      "p3b11",
+      "p3b12",
+      "p3b13"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b14"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b15"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b16"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b17",
+      "p3b18",
+      "p3b19",
+      "p3b20"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b21"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b22",
+      "p3b23",
+      "p3b24",
+      "p3b25"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b26"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b27",
+      "p3b28",
+      "p3b29",
+      "p3b30"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b31"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b32",
+      "p3b33",
+      "p3b34",
+      "p3b35",
+      "p3b36"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b37"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b38",
+      "p3b39"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b40"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b41"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b42"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b43",
+      "p3b44",
+      "p3b45",
+      "p3b46",
+      "p3b47"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b48"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b49",
+      "p3b50",
+      "p3b51",
+      "p3b52",
+      "p3b53",
+      "p3b54",
+      "p3b55"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b56"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b57"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "LPNY Directory",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "directory",
+   "tags": [
+    "party business"
+   ],
+   "counties": [],
+   "summary": "LPNY's executive committee, committee chairs and state committee members.",
+   "title_blocks": [
+    "p4b0"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p4b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b6"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b4",
+      "p4b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b9"
+     ]
+    }
+   ]
+  }
+ ],
+ "skip": [
+  "p1b15",
+  "p1b16",
+  "p1b18",
+  "p1b14",
+  "p1b17",
+  "p2b0",
+  "p3b0",
+  "p4b1"
+ ]
+}

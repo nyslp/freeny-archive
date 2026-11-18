@@ -1,0 +1,849 @@
+{
+ "issue": "2023-09",
+ "volume": 52,
+ "number": 9,
+ "articles": [
+  {
+   "title": "Updates from the Chair",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "updates",
+   "tags": [
+    "party business",
+    "national party",
+    "ballot access",
+    "convention"
+   ],
+   "summary": "The chair reviews State Committee business, the 2024 national convention delegates, the Empire State Freedom Summit, candidates, the ballot access lawsuit, legislation and the website move.",
+   "title_blocks": [
+    "p1b16"
+   ],
+   "byline_blocks": [
+    "p1b17",
+    "p1b18"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p1b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b15",
+      "p1b0"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b2",
+      "p1b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b6",
+      "p2b12"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b13",
+      "p2b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b15",
+      "p2b16"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "Help Us Get A3312 Reintroduced",
+   "kind": "article",
+   "tags": [
+    "ballot access",
+    "legislation"
+   ],
+   "summary": "LPNY asks members to urge legislators to reintroduce bill A3312, which would lower the vote and petition-signature thresholds for ballot access, in the 2024 session.",
+   "title_blocks": [
+    "p2b1"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p2b2",
+      "p2b3",
+      "p2b4",
+      "p2b5",
+      "p2b6",
+      "p2b7",
+      "p2b8",
+      "p2b9",
+      "p2b10"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "2023 Candidates List",
+   "kind": "article",
+   "tags": [
+    "candidates",
+    "elections"
+   ],
+   "summary": "A list of the Libertarian candidates running for local offices across New York in 2023.",
+   "title_blocks": [
+    "p3b1"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p3b2"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b3",
+      "p3b4",
+      "p3b5",
+      "p3b6",
+      "p3b7",
+      "p3b8",
+      "p3b9",
+      "p3b10",
+      "p3b11",
+      "p3b12",
+      "p3b13",
+      "p3b14",
+      "p3b15",
+      "p3b16",
+      "p3b17",
+      "p3b18",
+      "p3b19",
+      "p3b20",
+      "p3b21"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "County Affiliate News",
+   "kind": "county-news",
+   "tags": [
+    "county affiliates",
+    "events"
+   ],
+   "summary": "Meeting dates, places, events and contacts for LPNY county affiliates across the state.",
+   "title_blocks": [
+    "p4b0"
+   ],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p4b2"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b5",
+      "p4b6",
+      "p4b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b9",
+      "p4b10",
+      "p4b11",
+      "p4b12",
+      "p4b13",
+      "p4b14",
+      "p4b15",
+      "p4b16",
+      "p4b17"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b18"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b19",
+      "p4b20",
+      "p4b21",
+      "p4b22",
+      "p4b23",
+      "p4b24",
+      "p4b26",
+      "p4b27",
+      "p4b28",
+      "p4b29"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b30"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b31"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b32",
+      "p4b33"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b34"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b35",
+      "p4b36",
+      "p4b37",
+      "p4b38",
+      "p4b39"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b40"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b41",
+      "p4b42",
+      "p4b43"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b44"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b45",
+      "p4b46",
+      "p4b47"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b48"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b49",
+      "p4b50"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b51"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b52",
+      "p4b53",
+      "p4b54"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b55"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b56",
+      "p4b57",
+      "p4b58",
+      "p4b59"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b2",
+      "p5b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b5",
+      "p5b6"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b9",
+      "p5b10",
+      "p5b11",
+      "p5b12",
+      "p5b13"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b14"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b15",
+      "p5b16",
+      "p5b17",
+      "p5b18",
+      "p5b19",
+      "p5b20"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b21"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b22",
+      "p5b23",
+      "p5b24"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b25"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b26",
+      "p5b27",
+      "p5b28"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b29"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b30",
+      "p5b31",
+      "p5b32",
+      "p5b33"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b34"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b35",
+      "p5b36",
+      "p5b37",
+      "p5b38"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b39"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b40",
+      "p5b41",
+      "p5b42",
+      "p5b43"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b44"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b45",
+      "p5b46",
+      "p5b47",
+      "p5b48",
+      "p5b49",
+      "p5b50"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b51"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b52"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b53",
+      "p5b54",
+      "p5b55",
+      "p5b56"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b2",
+      "p6b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b5",
+      "p6b6"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b8",
+      "p6b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b10"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b11",
+      "p6b12"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b13"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b14",
+      "p6b15",
+      "p6b16"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b17"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b18",
+      "p6b19",
+      "p6b20",
+      "p6b21",
+      "p6b22",
+      "p6b23",
+      "p6b24"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b25"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b26",
+      "p6b27"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b28"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b29",
+      "p6b30"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b31"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b32",
+      "p6b33",
+      "p6b34",
+      "p6b35",
+      "p6b36",
+      "p6b37"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b38"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b39",
+      "p6b40"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b41"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b42",
+      "p6b43"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "Orange County Libertarians Announce Golf Scramble",
+   "kind": "article",
+   "tags": [
+    "events",
+    "fundraising",
+    "county affiliates"
+   ],
+   "counties": [
+    "Orange"
+   ],
+   "summary": "The Orange County Libertarian Party announces its first Live Free Golf Scramble at Mansion Ridge Golf Club on October 13, 2023.",
+   "title_blocks": [
+    "p6b48",
+    "p6b49"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p6i0",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b44"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b45",
+      "p6b46"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b47"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "byline_blocks": []
+  },
+  {
+   "title": "Shop LPNY Merchandise",
+   "kind": "ad",
+   "tags": [
+    "fundraising"
+   ],
+   "summary": "Advertisement for the LPNY merchandise store at LPNYStore.com.",
+   "title_blocks": [
+    "p7b1"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p7b2"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "LPNY Directory",
+   "kind": "directory",
+   "tags": [
+    "party business"
+   ],
+   "summary": "LPNY's executive committee, directors and committee chairs, and state committee members.",
+   "title_blocks": [
+    "p8b0"
+   ],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p8b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b10"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b8",
+      "p8b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b4",
+      "p8b5",
+      "p8b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b11"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  }
+ ],
+ "skip": [
+  "p4b25",
+  "p1b7",
+  "p1b8",
+  "p1b9",
+  "p1b10",
+  "p1b11",
+  "p1b12",
+  "p2b0",
+  "p2b11",
+  "p3b0",
+  "p4b1",
+  "p5b0",
+  "p6b0",
+  "p7b0",
+  "p8b1"
+ ]
+}

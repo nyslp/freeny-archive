@@ -1,0 +1,1145 @@
+{
+ "issue": "2023-01",
+ "volume": 52,
+ "number": 1,
+ "articles": [
+  {
+   "title": "Free New York Reborn",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "party business",
+    "party history"
+   ],
+   "summary": "The LPNY newsletter returns online after more than a decade, with plans for candidate and activist spotlights, county reports, and an explanation of why this is volume 52.",
+   "title_blocks": [
+    "p1b11"
+   ],
+   "byline_blocks": [
+    "p1b12",
+    "p1b13"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p1b0"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b2",
+      "p1b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b8",
+      "p8b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b16"
+     ]
+    },
+    {
+     "type": "image",
+     "id": "p8i0",
+     "caption_blocks": [
+      "p8b17"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "2022 Election Write-In Results Gradually Arrive",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "elections",
+    "candidates"
+   ],
+   "summary": "County boards of elections are slowly releasing 2022 write-in totals for the Libertarian statewide candidates, with Larry Sharpe leading the write-ins gathered so far.",
+   "title_blocks": [
+    "p2b0",
+    "p2b1"
+   ],
+   "byline_blocks": [
+    "p2b8",
+    "p2b9"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p2b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b6"
+     ]
+    },
+    {
+     "type": "image",
+     "id": "p2i0",
+     "caption_blocks": []
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "Steve Felano Appointed Outreach Director",
+   "author": "Duane Whitmer",
+   "author_role": "LPNY 1st Vice-Chair",
+   "kind": "article",
+   "tags": [
+    "party business"
+   ],
+   "counties": [
+    "Erie"
+   ],
+   "summary": "The Executive Committee appointed Steve Felano, an Erie County firearms instructor and tax-defense partner, as Director of the Outreach Division.",
+   "title_blocks": [
+    "p3b1",
+    "p3b2"
+   ],
+   "byline_blocks": [
+    "p3b8",
+    "p3b9"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p3i1",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b4",
+      "p3b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b6",
+      "p3b7"
+     ]
+    }
+   ],
+   "subtitle": null
+  },
+  {
+   "title": "County Affiliate News",
+   "kind": "county-news",
+   "tags": [
+    "county affiliates",
+    "events"
+   ],
+   "summary": "Meeting dates, conventions, events and contacts for LPNY county affiliates across the state.",
+   "title_blocks": [
+    "p4b0"
+   ],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p4b2"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b3",
+      "p4b4"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b6"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b7",
+      "p4b8"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b12"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b13",
+      "p4b14",
+      "p4b15"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b17"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b18",
+      "p4b19"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b20"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b21",
+      "p4b22"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b23"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b24"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b25"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b26"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b27"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b28",
+      "p5b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b2",
+      "p5b3",
+      "p5b4"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b12"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b13"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b14"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b16"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b17",
+      "p5b18"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b19"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b20"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b21"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b22"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b23",
+      "p5b24"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b25"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b26",
+      "p5b27"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b28"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b29"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b30",
+      "p5b31"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b2",
+      "p6b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b5",
+      "p6b6",
+      "p6b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b9"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b10"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b12"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b13"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b15",
+      "p6b16"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b17"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b18"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b19"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b20"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b21"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b22"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b23"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b24"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b25"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b26"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b27"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b28"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b29",
+      "p6b30"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b31"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b32",
+      "p6b33"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b34"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b35",
+      "p6b36"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b37"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b38",
+      "p6b39"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b40"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b41",
+      "p6b42"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b43"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b44",
+      "p6b45"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b46"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b47"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b2"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b5"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b8"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b10",
+      "p7b11"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b12",
+      "p7b13"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b15"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b16",
+      "p7b17"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b18"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b19",
+      "p7b20"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "LPNY Seeks Political and Finance Directors",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "party business"
+   ],
+   "summary": "LPNY is accepting applications for Political Director and Finance Director and describes the duties of each division.",
+   "title_blocks": [
+    "p7b21",
+    "p7b22"
+   ],
+   "byline_blocks": [
+    "p7b27",
+    "p7b28"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p7b23"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b24"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b25",
+      "p7b26"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "Mark Glogowski Appointed Platform Committee Chair",
+   "author": "Mark Glogowski",
+   "author_role": "Platform Committee Chair",
+   "kind": "article",
+   "tags": [
+    "party business",
+    "policy"
+   ],
+   "summary": "The new Platform Committee chair asks Libertarians to help rewrite the party platform in more memorable language, using abortion as an example.",
+   "title_blocks": [
+    "p8b1"
+   ],
+   "byline_blocks": [
+    "p8b12"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p8b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b4",
+      "p8b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b6"
+     ]
+    },
+    {
+     "type": "quote",
+     "blocks": [
+      "p8b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b8",
+      "p8b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b11"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "Cazenovia College’s Sudden Closing This Year",
+   "subtitle": "Unintended Consequences of Government Actions Pulled the Rug Out After Nearly Two Centuries",
+   "author": "Mark Braiman",
+   "author_role": "LPNY Secretary, Madison County Chair",
+   "kind": "article",
+   "tags": [
+    "opinion",
+    "policy"
+   ],
+   "counties": [
+    "Madison"
+   ],
+   "summary": "Madison County Chair Mark Braiman examines how Cazenovia College came to close, and asks what the closure means for zoning, the Excelsior Scholarship and local policy.",
+   "title_blocks": [
+    "p10b0",
+    "p10b1",
+    "p10b2"
+   ],
+   "byline_blocks": [
+    "p10b6",
+    "p10b7"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p10i0",
+     "caption_blocks": [
+      "p10b9",
+      "p10b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b3",
+      "p10b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b0"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b8",
+      "p11b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b11"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "LPNY Directory",
+   "kind": "directory",
+   "tags": [
+    "party business"
+   ],
+   "summary": "LPNY's executive committee, directors and committee chairs, and state committee members.",
+   "title_blocks": [
+    "p12b0"
+   ],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p12b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b10"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b8",
+      "p12b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b4",
+      "p12b5",
+      "p12b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p12b11"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  }
+ ],
+ "skip": [
+  "p1b9",
+  "p1b10",
+  "p1b14",
+  "p1b15",
+  "p1b16",
+  "p1b17",
+  "p2b7",
+  "p3b0",
+  "p4b1",
+  "p5b0",
+  "p6b0",
+  "p7b0",
+  "p8b0",
+  "p8b13",
+  "p8b14",
+  "p9b0",
+  "p10b8",
+  "p10b11",
+  "p11b12",
+  "p11b13",
+  "p12b1"
+ ]
+}

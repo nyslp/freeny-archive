@@ -1,0 +1,9830 @@
+{
+ "issue": "2026-08",
+ "pages": 8,
+ "blocks": [
+  {
+   "id": "p1b0",
+   "page": 1,
+   "bbox": [
+    36,
+    501,
+    210,
+    745
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Dear Fellow Libertarians and Liberty Lovers, You are warmly invited to join us for the Libertarian Party of New York’s 2026 Convention on Saturday, October 24, 2026, at Hotel MTK in Mount Kisco, New York. Check in for the daytime program opens at 9:30 a.m. with business set to start sharply at 10:00 a.m. Our daytime programming includes our LPNY business meeting with lunch being served at noon in the company of our lunchtime speaker Diane Sare. LPNY business is scheduled to conclude at 4:30 p.m. with Jim",
+   "lines": [
+    "Dear Fellow Libertarians and Lib",
+    "erty Lovers,",
+    "You are warmly invited to join us",
+    "for the Libertarian Party of New",
+    "York’s 2026 Convention on Sat",
+    "urday, October 24, 2026, at Hotel",
+    "MTK in Mount Kisco, New York.",
+    "Check in for the daytime program",
+    "opens at 9:30 a.m. with business set",
+    "to start sharply at 10:00 a.m. Our",
+    "daytime programming includes our",
+    "LPNY business meeting with lunch",
+    "being served at noon in the compa",
+    "ny of our lunchtime speaker Diane",
+    "Sare. LPNY business is scheduled",
+    "to conclude at 4:30 p.m. with Jim"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     207,
+     false,
+     true
+    ],
+    [
+     36,
+     93,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     207,
+     false,
+     true
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     194,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     207,
+     false,
+     true
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p1b1",
+   "page": 1,
+   "bbox": [
+    221,
+    468,
+    395,
+    739
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Ostrowski joining us as our end of business speaker, followed by closing remarks from the Chair. The evening program will feature a special Candidate Training Breakout Session and dinner with our keynote speaker, Eric Brakey. Eric Brakey is a former Maine State Senator and current Executive Director of the Free State Project. Eric will share critical lessons and practical takeaways from his book, The Liberty Candidate’s Practical Guide to Door Knocking. This training is especially important as the Libertarian Party of New York announces its plan to run 50",
+   "lines": [
+    "Ostrowski joining us as our end of",
+    "business speaker, followed by clos",
+    "ing remarks from the Chair.",
+    "The evening program will feature a",
+    "special Candidate Training Break",
+    "out Session and dinner with our",
+    "keynote speaker, Eric Brakey.",
+    "Eric Brakey is a former Maine State",
+    "Senator and current Executive Di",
+    "rector of the Free State Project. Eric",
+    "will share critical lessons and prac",
+    "tical takeaways from his book, The",
+    "Liberty Candidate’s Practical Guide",
+    "to Door Knocking.",
+    "This training is especially import",
+    "ant as the Libertarian Party of New",
+    "York announces its plan to run 50"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     221,
+     395,
+     false,
+     false
+    ],
+    [
+     221,
+     392,
+     false,
+     true
+    ],
+    [
+     221,
+     356,
+     false,
+     false
+    ],
+    [
+     221,
+     395,
+     false,
+     false
+    ],
+    [
+     221,
+     392,
+     false,
+     true
+    ],
+    [
+     221,
+     395,
+     false,
+     false
+    ],
+    [
+     221,
+     364,
+     false,
+     false
+    ],
+    [
+     221,
+     395,
+     false,
+     false
+    ],
+    [
+     221,
+     392,
+     false,
+     true
+    ],
+    [
+     221,
+     395,
+     false,
+     false
+    ],
+    [
+     221,
+     392,
+     false,
+     true
+    ],
+    [
+     221,
+     395,
+     false,
+     false
+    ],
+    [
+     221,
+     395,
+     false,
+     false
+    ],
+    [
+     221,
+     310,
+     false,
+     false
+    ],
+    [
+     221,
+     392,
+     false,
+     true
+    ],
+    [
+     221,
+     395,
+     false,
+     false
+    ],
+    [
+     221,
+     395,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p1b2",
+   "page": 1,
+   "bbox": [
+    409,
+    501,
+    570,
+    561
+   ],
+   "font": "Roboto-Bold",
+   "size": 9.0,
+   "bold": true,
+   "italic": false,
+   "text": "2026 LPNY Convention.................... 1-2 A Call to Action................................... 2 Election Integrity.............................. 3-5 County Affiliates.............................. 6-7 LPNY Directory................................... 8",
+   "lines": [
+    "2026 LPNY Convention.................... 1-2",
+    "A Call to Action................................... 2",
+    "Election Integrity.............................. 3-5",
+    "County Affiliates.............................. 6-7",
+    "LPNY Directory................................... 8"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     409,
+     570,
+     false,
+     false
+    ],
+    [
+     409,
+     570,
+     false,
+     false
+    ],
+    [
+     409,
+     570,
+     false,
+     false
+    ],
+    [
+     409,
+     570,
+     false,
+     false
+    ],
+    [
+     409,
+     570,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p1b3",
+   "page": 1,
+   "bbox": [
+    130,
+    6,
+    577,
+    177
+   ],
+   "font": "Journal",
+   "size": 128.0,
+   "bold": false,
+   "italic": false,
+   "text": "Free New York",
+   "lines": [
+    "Free New York"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     130,
+     577,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p1b4",
+   "page": 1,
+   "bbox": [
+    36,
+    147,
+    576,
+    163
+   ],
+   "font": "Roboto-BoldItalic",
+   "size": 12.0,
+   "bold": true,
+   "italic": true,
+   "text": "The Official Newsletter of the Libertarian Party of New York Vol. 55, No. 8 August 2026",
+   "lines": [
+    "The Official Newsletter of the Libertarian Party of New York",
+    "Vol. 55, No. 8",
+    "August 2026"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     155,
+     457,
+     true,
+     false
+    ],
+    [
+     36,
+     108,
+     true,
+     false
+    ],
+    [
+     507,
+     576,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p1b5",
+   "page": 1,
+   "bbox": [
+    452,
+    756,
+    576,
+    777
+   ],
+   "font": "Roboto-Bold",
+   "size": 16.0,
+   "bold": true,
+   "italic": false,
+   "text": "AUGUST 2026 | 1",
+   "lines": [
+    "AUGUST 2026 | 1"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     452,
+     576,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p1b6",
+   "page": 1,
+   "bbox": [
+    422,
+    475,
+    558,
+    494
+   ],
+   "font": "Roboto-Bold",
+   "size": 14.0,
+   "bold": true,
+   "italic": false,
+   "text": "TABLE OF CONTENTS",
+   "lines": [
+    "TABLE OF CONTENTS"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     422,
+     558,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p1b7",
+   "page": 1,
+   "bbox": [
+    404,
+    570,
+    579,
+    720
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Libertarian candidates for local offices across the state in 2027. County Affiliates, We Need You! Then, It’s Time for Liberty After Dark! Following dinner and candidate training, we’ll keep the energy going during our Liberty After Dark party that will feature a candidate",
+   "lines": [
+    "Libertarian candidates for local of",
+    "fices across the state in 2027. Coun",
+    "ty Affiliates, We Need You!",
+    "Then, It’s Time for Liberty After",
+    "Dark!",
+    "Following dinner and candidate",
+    "training, we’ll keep the energy go",
+    "ing during our Liberty After Dark",
+    "party that will feature a candidate"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     534,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     432,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p1b8",
+   "page": 1,
+   "bbox": [
+    61,
+    471,
+    182,
+    498
+   ],
+   "font": "Roboto-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "by Catrina Rocco LPNY Volunteer Director",
+   "lines": [
+    "by Catrina Rocco",
+    "LPNY Volunteer Director"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     79,
+     163,
+     true,
+     false
+    ],
+    [
+     61,
+     182,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p1b9",
+   "page": 1,
+   "bbox": [
+    431,
+    727,
+    549,
+    743
+   ],
+   "font": "Roboto-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "(continued on page 2)",
+   "lines": [
+    "(continued on page 2)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     431,
+     549,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b0",
+   "page": 2,
+   "bbox": [
+    36,
+    756,
+    180,
+    777
+   ],
+   "font": "Roboto-Bold",
+   "size": 16.0,
+   "bold": true,
+   "italic": false,
+   "text": "2 | FREE NEW YORK",
+   "lines": [
+    "2 | FREE NEW YORK"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     180,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b1",
+   "page": 2,
+   "bbox": [
+    36,
+    62,
+    211,
+    212
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "meet and greet to introduce you to candidates endorsed by local county affiliates. Brett Yarris, running for Putnam County Executive, will be attending. Afterwards, you can take the mic and roast a Libertarian. Have something you’ve always wanted to say about your fellow Libertarians? This is your chance to take the mi",
+   "lines": [
+    "meet and greet to introduce you to",
+    "candidates endorsed by local coun",
+    "ty affiliates. Brett Yarris, running",
+    "for Putnam County Executive, will",
+    "be attending.",
+    "Afterwards, you can take the mic",
+    "and roast a Libertarian. Have",
+    "something you’ve always wanted to",
+    "say about your fellow Libertarians?",
+    "This is your chance to take the mi"
+   ],
+   "hyph_end": true,
+   "lmeta": [
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     100,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ]
+   ]
+  },
+  {
+   "id": "p2b2",
+   "page": 2,
+   "bbox": [
+    220,
+    39,
+    395,
+    203
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "crophone and let it fly! Check out the Liberty’s Elite Sponsor package about how to make it to the top of the roast line up. Roasts will continue throughout the evening after every three or four songs played. Your Liberty After Dark Ticket also includes an evening full of sweet treats, cash bar and access to our table auction so you can bid on unique items and experiences while",
+   "lines": [
+    "crophone and let it fly! Check out",
+    "the Liberty’s Elite Sponsor package",
+    "about how to make it to the top of",
+    "the roast line up. Roasts will con",
+    "tinue throughout the evening after",
+    "every three or four songs played.",
+    "Your Liberty After Dark Ticket also",
+    "includes an evening full of sweet",
+    "treats, cash bar and access to our",
+    "table auction so you can bid on",
+    "unique items and experiences while"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     378,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b3",
+   "page": 2,
+   "bbox": [
+    404,
+    39,
+    579,
+    189
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "supporting the Libertarian Party of New York. Please visit lpny. org/2026-lpny-convention to reserve your package and stay. Discounted rooms are available now thru September 23, and reduced priced packages are on sale until August 31. We look forward to seeing you!",
+   "lines": [
+    "supporting the Libertarian Party of",
+    "New York.",
+    "Please",
+    "visit",
+    "lpny.",
+    "org/2026-lpny-convention to re",
+    "serve your package and stay. Dis",
+    "counted rooms are available now",
+    "thru September 23, and reduced",
+    "priced packages are on sale until",
+    "August 31. We look forward to see",
+    "ing you!"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     455,
+     false,
+     false
+    ],
+    [
+     404,
+     437,
+     false,
+     false
+    ],
+    [
+     483,
+     506,
+     false,
+     false
+    ],
+    [
+     552,
+     576,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     443,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b4",
+   "page": 2,
+   "bbox": [
+    57,
+    42,
+    187,
+    58
+   ],
+   "font": "Roboto-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "(continued from page 1)",
+   "lines": [
+    "(continued from page 1)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     57,
+     187,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b5",
+   "page": 2,
+   "bbox": [
+    173,
+    213,
+    439,
+    259
+   ],
+   "font": "Avenir-Black",
+   "size": 28.0,
+   "bold": true,
+   "italic": false,
+   "text": "A CALL TO ACTION",
+   "lines": [
+    "A CALL TO ACTION"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     173,
+     439,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b6",
+   "page": 2,
+   "bbox": [
+    41,
+    237,
+    571,
+    312
+   ],
+   "font": "Avenir-Black",
+   "size": 45.0,
+   "bold": true,
+   "italic": false,
+   "text": "TO COUNTY AFFILIATES",
+   "lines": [
+    "TO COUNTY AFFILIATES"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     41,
+     571,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b7",
+   "page": 2,
+   "bbox": [
+    36,
+    324,
+    207,
+    353
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Dear County Affiliates & NY Libertarians,",
+   "lines": [
+    "Dear County Affiliates & NY Liber",
+    "tarians,"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     207,
+     false,
+     true
+    ],
+    [
+     36,
+     75,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b8",
+   "page": 2,
+   "bbox": [
+    36,
+    365,
+    210,
+    583
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "We can’t assume that many of our state legislators are fully aware or have a clear understanding of the grievances and concerns of libertarians in New York State. But we can safely assume that our elected officials will continue to remain in the dark or happily discount the cruciality of matters that we proclaim are important to us until we are willing to make it our duty to engage in regular contact with our elected officials via face-to-face conversations, phone calls, and letter-writing campaigns to their district offices.",
+   "lines": [
+    "We can’t assume that many of our",
+    "state legislators are fully aware or",
+    "have a clear understanding of the",
+    "grievances and concerns of liber",
+    "tarians in New York State. But we",
+    "can safely assume that our elected",
+    "officials will continue to remain in",
+    "the dark or happily discount the",
+    "cruciality of matters that we pro",
+    "claim are important to us until we",
+    "are willing to make it our duty to",
+    "engage in regular contact with our",
+    "elected officials via face-to-face",
+    "conversations, phone calls, and let",
+    "ter-writing campaigns to their dis",
+    "trict offices."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     207,
+     false,
+     true
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     207,
+     false,
+     true
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     207,
+     false,
+     true
+    ],
+    [
+     36,
+     207,
+     false,
+     true
+    ],
+    [
+     36,
+     92,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b9",
+   "page": 2,
+   "bbox": [
+    36,
+    594,
+    210,
+    745
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "This past winter the Libertarian Party of New York asked its affiliates to take part in a call to action. We urgently asked our affiliates to get involved by reaching out to their local state legislators to voice their concerns about matters such as ballot access rules, qualified immunity, the prevention of a mandatory adult vaccine database, and allowing homeschooled children to",
+   "lines": [
+    "This past winter the Libertarian",
+    "Party of New York asked its affili",
+    "ates to take part in a call to action.",
+    "We urgently asked our affiliates",
+    "to get involved by reaching out to",
+    "their local state legislators to voice",
+    "their concerns about matters such",
+    "as ballot access rules, qualified im",
+    "munity, the prevention of a man",
+    "datory adult vaccine database, and",
+    "allowing homeschooled children to"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     207,
+     false,
+     true
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     207,
+     false,
+     true
+    ],
+    [
+     36,
+     207,
+     false,
+     true
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b10",
+   "page": 2,
+   "bbox": [
+    220,
+    297,
+    394,
+    340
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "participate in district sports. However, we received only a handful of returned reports this time around.",
+   "lines": [
+    "participate in district sports. How",
+    "ever, we received only a handful of",
+    "returned reports this time around."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     391,
+     false,
+     true
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     390,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b11",
+   "page": 2,
+   "bbox": [
+    220,
+    351,
+    394,
+    515
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The LPNY has extended its deadline to October 3, 2026 to provide more time for county affiliates to engage with their elected state representatives and to return their reports to us. We hope that members of each county affiliate will take the time to visit, write, call or email their state assembly members and senators about these issues and mention any additional concerns that are relevant to them.",
+   "lines": [
+    "The LPNY has extended its deadline",
+    "to October 3, 2026 to provide more",
+    "time for county affiliates to engage",
+    "with their elected state representa",
+    "tives and to return their reports to",
+    "us. We hope that members of each",
+    "county affiliate will take the time to",
+    "visit, write, call or email their state",
+    "assembly members and senators",
+    "about these issues and mention",
+    "any additional concerns that are",
+    "relevant to them."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     391,
+     false,
+     true
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     303,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b12",
+   "page": 2,
+   "bbox": [
+    220,
+    527,
+    394,
+    745
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "At this time we encourage you to emphasize the need for a minor-party nominating petition. In 39 states there is a clearer distinction between the “independent” and “minor party” concepts and after what we are seeing in Putnam County where the County Executive failed to secure an endorsement from the local affiliate and yet is running on a ballot line named libertarian (with our torch!) we need this more than ever. Let’s take the appropriate small steps toward regaining our ballot access. You’re encouraged to discuss the",
+   "lines": [
+    "At this time we encourage you",
+    "to emphasize the need for a mi",
+    "nor-party nominating petition. In",
+    "39 states there is a clearer distinc",
+    "tion between the “independent”",
+    "and “minor party” concepts and",
+    "after what we are seeing in Put",
+    "nam County where the County",
+    "Executive failed to secure an en",
+    "dorsement from the local affiliate",
+    "and yet is running on a ballot line",
+    "named libertarian (with our torch!)",
+    "we need this more than ever. Let’s",
+    "take the appropriate small steps",
+    "toward regaining our ballot access.",
+    "You’re encouraged to discuss the"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     391,
+     false,
+     true
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     391,
+     false,
+     true
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     391,
+     false,
+     true
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     391,
+     false,
+     true
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b13",
+   "page": 2,
+   "bbox": [
+    405,
+    297,
+    579,
+    380
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "issue,- but not bombard -your legislators for a signature requirement change. The first step is to secure a minor party nominating petition that is distinctly ours. Recognition is key.",
+   "lines": [
+    "issue,- but not bombard -your leg",
+    "islators for a signature requirement",
+    "change. The first step is to secure",
+    "a minor party nominating petition",
+    "that is distinctly ours. Recognition",
+    "is key."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     405,
+     576,
+     false,
+     true
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     438,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b14",
+   "page": 2,
+   "bbox": [
+    405,
+    392,
+    579,
+    488
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Please refer to the Quick Guide to Meeting with Your State Legislators for brief talking points and a list of district office addresses and phone numbers. If you need another copy, don’t hesitate to email crocco@ lpny.org for one.",
+   "lines": [
+    "Please refer to the Quick Guide to",
+    "Meeting with Your State Legislators",
+    "for brief talking points and a list of",
+    "district office addresses and phone",
+    "numbers. If you need another copy,",
+    "don’t hesitate to email crocco@",
+    "lpny.org for one."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     576,
+     false,
+     false
+    ],
+    [
+     405,
+     488,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b15",
+   "page": 2,
+   "bbox": [
+    405,
+    500,
+    579,
+    596
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "We thank you for contributing your valuable time to support this very important endeavor. As county leaders and active libertarians, you are the backbone of the Libertarian Party and your efforts continually kindle the flame of liberty!",
+   "lines": [
+    "We thank you for contributing your",
+    "valuable time to support this very",
+    "important endeavor. As county",
+    "leaders and active libertarians, you",
+    "are the backbone of the Libertarian",
+    "Party and your efforts continually",
+    "kindle the flame of liberty!"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     533,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b16",
+   "page": 2,
+   "bbox": [
+    405,
+    608,
+    579,
+    664
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Kindly return the accompanying form to the LPNY by email to the individuals listed below by Saturday, October 3, 2026.",
+   "lines": [
+    "Kindly return the accompanying",
+    "form to the LPNY by email to the",
+    "individuals listed below by Satur",
+    "day, October 3, 2026."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     576,
+     false,
+     true
+    ],
+    [
+     405,
+     509,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b17",
+   "page": 2,
+   "bbox": [
+    405,
+    675,
+    459,
+    691
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "In Liberty,",
+   "lines": [
+    "In Liberty,"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     405,
+     459,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b18",
+   "page": 2,
+   "bbox": [
+    405,
+    694,
+    552,
+    723
+   ],
+   "font": "Georgia",
+   "size": 10.4,
+   "bold": false,
+   "italic": false,
+   "text": "Catrina Rocco. Volunteer Director crocco@lpny.org",
+   "lines": [
+    "Catrina Rocco. Volunteer Director",
+    "crocco@lpny.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     405,
+     552,
+     false,
+     false
+    ],
+    [
+     405,
+     478,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b19",
+   "page": 2,
+   "bbox": [
+    405,
+    726,
+    576,
+    755
+   ],
+   "font": "Georgia",
+   "size": 10.4,
+   "bold": false,
+   "italic": false,
+   "text": "Rich Purtell. Legislative Affairs Director rpurtell@lpny.org",
+   "lines": [
+    "Rich Purtell. Legislative Affairs Director",
+    "rpurtell@lpny.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     405,
+     576,
+     false,
+     false
+    ],
+    [
+     405,
+     483,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p2b20",
+   "page": 2,
+   "bbox": [
+    61,
+    295,
+    182,
+    321
+   ],
+   "font": "Roboto-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "by Catrina Rocco LPNY Volunteer Director",
+   "lines": [
+    "by Catrina Rocco",
+    "LPNY Volunteer Director"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     79,
+     163,
+     true,
+     false
+    ],
+    [
+     61,
+     182,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b0",
+   "page": 3,
+   "bbox": [
+    452,
+    756,
+    576,
+    777
+   ],
+   "font": "Roboto-Bold",
+   "size": 16.0,
+   "bold": true,
+   "italic": false,
+   "text": "AUGUST 2026 | 3",
+   "lines": [
+    "AUGUST 2026 | 3"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     452,
+     576,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b1",
+   "page": 3,
+   "bbox": [
+    37,
+    29,
+    575,
+    113
+   ],
+   "font": "Avenir-Black",
+   "size": 51.0,
+   "bold": true,
+   "italic": false,
+   "text": "ELECTION INTEGRITY",
+   "lines": [
+    "ELECTION INTEGRITY"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     37,
+     575,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b2",
+   "page": 3,
+   "bbox": [
+    36,
+    133,
+    210,
+    270
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "“There is a way of asking us for our reasons that leads us not only to forget our best reasons but also to conceive a stubborn aversion to all reasons. This way of asking makes people very stupid and is a trick used by tyrannical people.” - Friedrich Nietzsche, “The Gay Science,” P. 208. Note: “The Gay Science” is Philosophy.",
+   "lines": [
+    "“There is a way of asking us for our",
+    "reasons that leads us not only to",
+    "forget our best reasons but also to",
+    "conceive a stubborn aversion to all",
+    "reasons. This way of asking makes",
+    "people very stupid and is a trick",
+    "used by tyrannical people.” - Frie",
+    "drich Nietzsche, “The Gay Science,”",
+    "P. 208. Note: “The Gay Science” is",
+    "Philosophy."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     207,
+     false,
+     true
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     93,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b3",
+   "page": 3,
+   "bbox": [
+    36,
+    281,
+    210,
+    324
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "A comprehensive approach must be used to provide an outline for honest government, and it follows.",
+   "lines": [
+    "A comprehensive approach must",
+    "be used to provide an outline for",
+    "honest government, and it follows."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     210,
+     false,
+     false
+    ],
+    [
+     36,
+     204,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b4",
+   "page": 3,
+   "bbox": [
+    39,
+    335,
+    207,
+    351
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "1. Creating and Guaranteeing",
+   "lines": [
+    "1. Creating and Guaranteeing"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     39,
+     207,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b5",
+   "page": 3,
+   "bbox": [
+    71,
+    349,
+    174,
+    364
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "Honest Elections:",
+   "lines": [
+    "Honest Elections:"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     71,
+     174,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b6",
+   "page": 3,
+   "bbox": [
+    36,
+    376,
+    194,
+    391
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The Electoral Process in General",
+   "lines": [
+    "The Electoral Process in General"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     194,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b7",
+   "page": 3,
+   "bbox": [
+    220,
+    100,
+    394,
+    183
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "A process must be in place for peaceful, orderly, and honest elections, as well as the transfer of power. The process should be simple, and should not resemble World War II.",
+   "lines": [
+    "A process must be in place for",
+    "peaceful, orderly, and honest elec",
+    "tions, as well as the transfer of pow",
+    "er. The process should be simple,",
+    "and should not resemble World",
+    "War II."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     391,
+     false,
+     true
+    ],
+    [
+     220,
+     391,
+     false,
+     true
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     255,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b8",
+   "page": 3,
+   "bbox": [
+    220,
+    194,
+    391,
+    223
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The following are a few requirements.",
+   "lines": [
+    "The following are a few require",
+    "ments."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     391,
+     false,
+     true
+    ],
+    [
+     220,
+     254,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b9",
+   "page": 3,
+   "bbox": [
+    220,
+    235,
+    394,
+    291
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "All advantages Republicans and Democrats have given themselves against potential Competition will be ended.",
+   "lines": [
+    "All advantages Republicans and",
+    "Democrats have given themselves",
+    "against potential Competition will",
+    "be ended."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     267,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b10",
+   "page": 3,
+   "bbox": [
+    220,
+    302,
+    392,
+    331
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "A. End taxpayer-funded primaries.",
+   "lines": [
+    "A. End taxpayer-funded pri",
+    "maries."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     392,
+     true,
+     true
+    ],
+    [
+     220,
+     266,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b11",
+   "page": 3,
+   "bbox": [
+    220,
+    343,
+    394,
+    399
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Political parties are private entities, not the ‘government’, and must select their candidates privately in whatever manner they choose, at",
+   "lines": [
+    "Political parties are private entities,",
+    "not the ‘government’, and must se",
+    "lect their candidates privately in",
+    "whatever manner they choose, at"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     391,
+     false,
+     true
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ],
+    [
+     220,
+     394,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b12",
+   "page": 3,
+   "bbox": [
+    405,
+    100,
+    499,
+    115
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "their own expense.",
+   "lines": [
+    "their own expense."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     405,
+     499,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b13",
+   "page": 3,
+   "bbox": [
+    405,
+    127,
+    579,
+    250
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Ending taxpayer-funded primaries will create an interesting situation. Will private political parties allow ‘absentee ballots,’ ‘early voting,’ and ‘mail-in voting,” or recognize their obvious enabling of dishonest elections? Would the Democrats retain the concept of “super-delegates’ and weighted voting?",
+   "lines": [
+    "Ending taxpayer-funded primaries",
+    "will create an interesting situation.",
+    "Will private political parties allow",
+    "‘absentee ballots,’ ‘early voting,’",
+    "and ‘mail-in voting,” or recognize",
+    "their obvious enabling of dishonest",
+    "elections? Would the Democrats",
+    "retain the concept of “super-dele",
+    "gates’ and weighted voting?"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     576,
+     false,
+     true
+    ],
+    [
+     405,
+     539,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b14",
+   "page": 3,
+   "bbox": [
+    405,
+    262,
+    579,
+    318
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "B. All ‘ballot access’ requirements must be the same for all political parties and individuals.",
+   "lines": [
+    "B. All ‘ballot access’ require",
+    "ments must be the same for all",
+    "political parties and individu",
+    "als."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     405,
+     576,
+     true,
+     true
+    ],
+    [
+     405,
+     579,
+     true,
+     false
+    ],
+    [
+     405,
+     576,
+     true,
+     true
+    ],
+    [
+     405,
+     425,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b15",
+   "page": 3,
+   "bbox": [
+    405,
+    329,
+    579,
+    372
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "They also must be reduced tremendously and quickly. Some are state, some are national, but the same",
+   "lines": [
+    "They also must be reduced tremen",
+    "dously and quickly. Some are state,",
+    "some are national, but the same"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     405,
+     576,
+     false,
+     true
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ],
+    [
+     405,
+     579,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b16",
+   "page": 3,
+   "bbox": [
+    40,
+    103,
+    203,
+    130
+   ],
+   "font": "Roboto-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "by Vincent O’Neill State Committee Member (JD10)",
+   "lines": [
+    "by Vincent O’Neill",
+    "State Committee Member (JD10)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     78,
+     165,
+     true,
+     false
+    ],
+    [
+     40,
+     203,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p3b17",
+   "page": 3,
+   "bbox": [
+    431,
+    376,
+    549,
+    392
+   ],
+   "font": "Roboto-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "(continued on page 4)",
+   "lines": [
+    "(continued on page 4)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     431,
+     549,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b0",
+   "page": 4,
+   "bbox": [
+    36,
+    756,
+    180,
+    777
+   ],
+   "font": "Roboto-Bold",
+   "size": 16.0,
+   "bold": true,
+   "italic": false,
+   "text": "4 | FREE NEW YORK",
+   "lines": [
+    "4 | FREE NEW YORK"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     180,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b1",
+   "page": 4,
+   "bbox": [
+    36,
+    63,
+    211,
+    105
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "procedure should apply. Reduce all requirements by 50%, 3 years in a row.",
+   "lines": [
+    "procedure should apply. Reduce all",
+    "requirements by 50%, 3 years in a",
+    "row."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     58,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b2",
+   "page": 4,
+   "bbox": [
+    36,
+    117,
+    211,
+    213
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "An alternative would be to require all independent candidates for an office to file nominating petitions with the names of 1,000 registered voters, acquired over the two months from May 1 to July 1, in order to qualify for ballot status.",
+   "lines": [
+    "An alternative would be to require",
+    "all independent candidates for an",
+    "office to file nominating petitions",
+    "with the names of 1,000 regis",
+    "tered voters, acquired over the two",
+    "months from May 1 to July 1, in or",
+    "der to qualify for ballot status."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     182,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b3",
+   "page": 4,
+   "bbox": [
+    36,
+    225,
+    211,
+    253
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Registered voters would be allowed to sign for more than one candidate.",
+   "lines": [
+    "Registered voters would be allowed",
+    "to sign for more than one candidate."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b4",
+   "page": 4,
+   "bbox": [
+    36,
+    265,
+    211,
+    307
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Individual political parties could then set their own rules for nominating a candidate.",
+   "lines": [
+    "Individual political parties could",
+    "then set their own rules for nomi",
+    "nating a candidate."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     129,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b5",
+   "page": 4,
+   "bbox": [
+    36,
+    319,
+    96,
+    334
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "C. Debates",
+   "lines": [
+    "C. Debates"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     96,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b6",
+   "page": 4,
+   "bbox": [
+    36,
+    346,
+    211,
+    496
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Public debate on issues should be expanded, not limited. The actions of the Republicans and the Democrats have been reprehensible. Their primary version of public policy communication consists of outright lies and the occasional resort to slander. A logical conclusion is that they have nothing worthwhile to offer on any policy issue and are afraid of any competition.",
+   "lines": [
+    "Public debate on issues should be",
+    "expanded, not limited. The actions",
+    "of the Republicans and the Dem",
+    "ocrats have been reprehensible.",
+    "Their primary version of public pol",
+    "icy communication consists of out",
+    "right lies and the occasional resort",
+    "to slander. A logical conclusion is",
+    "that they have nothing worthwhile",
+    "to offer on any policy issue and are",
+    "afraid of any competition."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     161,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b7",
+   "page": 4,
+   "bbox": [
+    36,
+    508,
+    211,
+    577
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "All incumbents must offer to debate their challengers. There must be at least one public debate among them in the month preceding the vote provided their challenger’s accept.",
+   "lines": [
+    "All incumbents must offer to debate",
+    "their challengers. There must be at",
+    "least one public debate among them",
+    "in the month preceding the vote",
+    "provided their challenger’s accept."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     205,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b8",
+   "page": 4,
+   "bbox": [
+    36,
+    589,
+    211,
+    658
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Unless the challenger(s) refuse to debate, failure to do so will result in the elimination of that party’s candidate for that office until the next election.",
+   "lines": [
+    "Unless the challenger(s) refuse to",
+    "debate, failure to do so will result in",
+    "the elimination of that party’s can",
+    "didate for that office until the next",
+    "election."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     77,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b9",
+   "page": 4,
+   "bbox": [
+    36,
+    670,
+    211,
+    739
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Everyone satisfying ballot access requirements will be eligible to be included in state and local debates. Presidential debates will include all candidates eligible to receive",
+   "lines": [
+    "Everyone satisfying ballot access",
+    "requirements will be eligible to be",
+    "included in state and local debates.",
+    "Presidential debates will include",
+    "all candidates eligible to receive"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b10",
+   "page": 4,
+   "bbox": [
+    220,
+    40,
+    395,
+    95
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "enough Electoral Votes to win the presidency will be included. A candidates’ “standing in the polls” is irrelevant.",
+   "lines": [
+    "enough Electoral Votes to win the",
+    "presidency will be included. A can",
+    "didates’ “standing in the polls” is",
+    "irrelevant."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     273,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b11",
+   "page": 4,
+   "bbox": [
+    220,
+    107,
+    395,
+    190
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The reliance on ‘polls’ displays the shallow level of public debate in this country. You can get any result you want from a poll, depending on how you frame the question. (Also, most people refuse to respond.)",
+   "lines": [
+    "The reliance on ‘polls’ displays the",
+    "shallow level of public debate in",
+    "this country. You can get any result",
+    "you want from a poll, depending on",
+    "how you frame the question. (Also,",
+    "most people refuse to respond.)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     373,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b12",
+   "page": 4,
+   "bbox": [
+    220,
+    201,
+    395,
+    257
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "D. The Electoral College and State’s Rights must be preserved. This is also important for honest elections.",
+   "lines": [
+    "D. The Electoral College and",
+    "State’s Rights must be pre",
+    "served. This is also important for",
+    "honest elections."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     true,
+     false
+    ],
+    [
+     220,
+     392,
+     true,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     301,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b13",
+   "page": 4,
+   "bbox": [
+    220,
+    269,
+    395,
+    298
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "E. “Absentee Voting”, “Early Voting” and “Mail-In Votes”",
+   "lines": [
+    "E. “Absentee Voting”, “Early",
+    "Voting” and “Mail-In Votes”"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     true,
+     false
+    ],
+    [
+     220,
+     378,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b14",
+   "page": 4,
+   "bbox": [
+    220,
+    310,
+    395,
+    635
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "“Sixteen years ago, in 2005, the Carter-Baker Commission on Federal Election Reform issued a report that proposed a uniform system of requiring a photo ID in order to vote in U.S. elections. The report also pointed out that widespread absentee voting makes fraud more likely. Voter files contain ineligible, duplicate, fictional, and deceased voters, a fact more easily exploited using absentee voters to commit fraud. Citizens who vote absentee are more susceptible to pressure and intimidation. And vote-buying schemes are far easier when citizens vote by mail. The committee’s two ranking members were former President Jimmy Carter, a Democrat, and former Secretary of State James Baker III, a Republican.” - John R. Lott, “Is Ensuring Election Integrity Anti-Democratic”, Imprimis, October 2021, p.1",
+   "lines": [
+    "“Sixteen years ago, in 2005, the",
+    "Carter-Baker Commission on Fed",
+    "eral Election Reform issued a re",
+    "port that proposed a uniform sys",
+    "tem of requiring a photo ID in order",
+    "to vote in U.S. elections. The report",
+    "also pointed out that widespread",
+    "absentee voting makes fraud more",
+    "likely. Voter files contain ineligible,",
+    "duplicate, fictional, and deceased",
+    "voters, a fact more easily exploited",
+    "using absentee voters to commit",
+    "fraud. Citizens who vote absentee",
+    "are more susceptible to pressure",
+    "and intimidation. And vote-buying",
+    "schemes are far easier when citi",
+    "zens vote by mail. The committee’s",
+    "two ranking members were former",
+    "President Jimmy Carter, a Demo",
+    "crat, and former Secretary of State",
+    "James Baker III, a Republican.” -",
+    "John R. Lott, “Is Ensuring Election",
+    "Integrity Anti-Democratic”, Impri",
+    "mis, October 2021, p.1"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     331,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b15",
+   "page": 4,
+   "bbox": [
+    220,
+    647,
+    395,
+    730
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "That common sense outlook has now been turned on its head. The political establishment has been working hard to create DISHONEST ELECTIONS. Their actions must be countered.",
+   "lines": [
+    "That common sense outlook has",
+    "now been turned on its head. The",
+    "political establishment has been",
+    "working hard to create DISHON",
+    "EST ELECTIONS. Their actions",
+    "must be countered."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     313,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b16",
+   "page": 4,
+   "bbox": [
+    404,
+    40,
+    579,
+    149
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "A Picture ID should be necessary to vote. For example, a picture ID is currently necessary to purchase the allergy pill Claritin. (purchases are also limited to a maximum of 15 at a time). Displaying a picture ID takes no time at all.",
+   "lines": [
+    "A Picture ID should be necessary to",
+    "vote.",
+    "For example, a picture ID is cur",
+    "rently necessary to purchase the",
+    "allergy pill Claritin. (purchases are",
+    "also limited to a maximum of 15 at a",
+    "time). Displaying a picture ID takes",
+    "no time at all."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     427,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     471,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b17",
+   "page": 4,
+   "bbox": [
+    404,
+    161,
+    579,
+    190
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The vote would occur on one day only.",
+   "lines": [
+    "The vote would occur on one day",
+    "only."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     431,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b18",
+   "page": 4,
+   "bbox": [
+    404,
+    202,
+    579,
+    244
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The only citizens entitled to an absentee ballot should be active duty military personnel.",
+   "lines": [
+    "The only citizens entitled to an ab",
+    "sentee ballot should be active duty",
+    "military personnel."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     496,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b19",
+   "page": 4,
+   "bbox": [
+    404,
+    256,
+    579,
+    311
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "If someone wants to spend November in Florida but vote in New York, they will have to return to New York to do so.",
+   "lines": [
+    "If someone wants to spend Novem",
+    "ber in Florida but vote in New York,",
+    "they will have to return to New York",
+    "to do so."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     448,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b20",
+   "page": 4,
+   "bbox": [
+    404,
+    323,
+    530,
+    338
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "“Vote Chaos” in New York",
+   "lines": [
+    "“Vote Chaos” in New York"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     530,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b21",
+   "page": 4,
+   "bbox": [
+    404,
+    350,
+    579,
+    473
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "“It wasn’t just Brooklyn voters who received absentee envelopes with the wrong name and address on them-hundreds of voters on Long Island were affected as well. Now New York has to resend more than 100,000 ballots before the election.” - New York Post, Page 1, October 1, 2020.",
+   "lines": [
+    "“It wasn’t just Brooklyn voters who",
+    "received absentee envelopes with",
+    "the wrong name and address on",
+    "them-hundreds of voters on Long",
+    "Island were affected as well. Now",
+    "New York has to resend more than",
+    "100,000 ballots before the elec",
+    "tion.” - New York Post, Page 1, Oc",
+    "tober 1, 2020."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     474,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b22",
+   "page": 4,
+   "bbox": [
+    404,
+    485,
+    579,
+    514
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "F. Cleaning Voter Rolls and addressing Mail-in Voting",
+   "lines": [
+    "F. Cleaning Voter Rolls and",
+    "addressing Mail-in Voting"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     579,
+     true,
+     false
+    ],
+    [
+     404,
+     551,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b23",
+   "page": 4,
+   "bbox": [
+    404,
+    526,
+    579,
+    622
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Judicial Watch has been actively doing both. The August, 2020 “Verdict”, among other months of this publication, details much that they have done, including suing California Governor Gavin Newsom for violating the State Constitution.",
+   "lines": [
+    "Judicial Watch has been actively",
+    "doing both. The August, 2020 “Ver",
+    "dict”, among other months of this",
+    "publication, details much that they",
+    "have done, including suing Califor",
+    "nia Governor Gavin Newsom for vi",
+    "olating the State Constitution."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     550,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b24",
+   "page": 4,
+   "bbox": [
+    404,
+    634,
+    579,
+    716
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The January, 2021 issue of “The Verdict” reported that Judicial Watch found 353 counties in 29 states with Voter Registration Rates over 100%. Fourteen other states either don’t post voter registra",
+   "lines": [
+    "The January, 2021 issue of “The",
+    "Verdict” reported that Judicial",
+    "Watch found 353 counties in 29",
+    "states with Voter Registration Rates",
+    "over 100%. Fourteen other states",
+    "either don’t post voter registra"
+   ],
+   "hyph_end": true,
+   "lmeta": [
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ]
+   ]
+  },
+  {
+   "id": "p4b25",
+   "page": 4,
+   "bbox": [
+    431,
+    717,
+    549,
+    733
+   ],
+   "font": "Roboto-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "(continued on page 5)",
+   "lines": [
+    "(continued on page 5)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     431,
+     549,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p4b26",
+   "page": 4,
+   "bbox": [
+    57,
+    43,
+    187,
+    59
+   ],
+   "font": "Roboto-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "(continued from page 3)",
+   "lines": [
+    "(continued from page 3)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     57,
+     187,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b0",
+   "page": 5,
+   "bbox": [
+    452,
+    756,
+    576,
+    777
+   ],
+   "font": "Roboto-Bold",
+   "size": 16.0,
+   "bold": true,
+   "italic": false,
+   "text": "AUGUST 2026 | 5",
+   "lines": [
+    "AUGUST 2026 | 5"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     452,
+     576,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b1",
+   "page": 5,
+   "bbox": [
+    36,
+    66,
+    211,
+    121
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "tion data online at all or don’t post enough information to determine registration rates compared to the general population.",
+   "lines": [
+    "tion data online at all or don’t post",
+    "enough information to determine",
+    "registration rates compared to the",
+    "general population."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     131,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b2",
+   "page": 5,
+   "bbox": [
+    36,
+    133,
+    191,
+    162
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "G. End Gerrymandering / Unnecessary Re-Districting",
+   "lines": [
+    "G. End Gerrymandering /",
+    "Unnecessary Re-Districting"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     180,
+     true,
+     false
+    ],
+    [
+     36,
+     191,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b3",
+   "page": 5,
+   "bbox": [
+    36,
+    174,
+    211,
+    351
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Districts should be based on easily recognized geography. Population density is a secondary consideration. Party registration should not figure in the process at all. The Motor Voter laws can stay, as long as no party registration occurs at the same time. The concept of government agencies collecting party registration information must end. Registering with a political party, or no political party at all, must become a purely private decision.",
+   "lines": [
+    "Districts should be based on easily",
+    "recognized geography. Population",
+    "density is a secondary consider",
+    "ation. Party registration should",
+    "not figure in the process at all. The",
+    "Motor Voter laws can stay, as long",
+    "as no party registration occurs at",
+    "the same time. The concept of gov",
+    "ernment agencies collecting party",
+    "registration information must end.",
+    "Registering with a political party,",
+    "or no political party at all, must be",
+    "come a purely private decision."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     189,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b4",
+   "page": 5,
+   "bbox": [
+    36,
+    363,
+    211,
+    432
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Once this has been done successfully, there will rarely be a need to re-draw districts unless there is a major earthquake, or if part of the earth falls into the sea.",
+   "lines": [
+    "Once this has been done success",
+    "fully, there will rarely be a need to",
+    "re-draw districts unless there is a",
+    "major earthquake, or if part of the",
+    "earth falls into the sea."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     146,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b5",
+   "page": 5,
+   "bbox": [
+    36,
+    444,
+    208,
+    472
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The starting point will be the current districts.",
+   "lines": [
+    "The starting point will be the cur",
+    "rent districts."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     101,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b6",
+   "page": 5,
+   "bbox": [
+    44,
+    484,
+    200,
+    513
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "2. Procedural Changes for Operation of a Government",
+   "lines": [
+    "2. Procedural Changes for",
+    "Operation of a Government"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     48,
+     196,
+     true,
+     false
+    ],
+    [
+     44,
+     200,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b7",
+   "page": 5,
+   "bbox": [
+    36,
+    525,
+    211,
+    594
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "A comprehensive approach to problems from a free market perspective will go a long way to countering this. Addressing elected officials and voting on issues once elected.",
+   "lines": [
+    "A comprehensive approach to prob",
+    "lems from a free market perspective",
+    "will go a long way to countering this.",
+    "Addressing elected officials and",
+    "voting on issues once elected."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     179,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b8",
+   "page": 5,
+   "bbox": [
+    36,
+    606,
+    211,
+    729
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "You recall the absurd number of times and number of co-sponsors Ron Paul needed to bring End the Fed and related issues to a discussion and votes. This type of thing happens all the time, and it happens at the national and state level. A few suggestions follow to change this:",
+   "lines": [
+    "You recall the absurd number of",
+    "times and number of co-sponsors",
+    "Ron Paul needed to bring End the",
+    "Fed and related issues to a discus",
+    "sion and votes. This type of thing",
+    "happens all the time, and it hap",
+    "pens at the national and state level.",
+    "A few suggestions follow to change",
+    "this:"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     true
+    ],
+    [
+     36,
+     207,
+     false,
+     false
+    ],
+    [
+     36,
+     211,
+     false,
+     false
+    ],
+    [
+     36,
+     58,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b9",
+   "page": 5,
+   "bbox": [
+    220,
+    44,
+    395,
+    99
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "A. Any item brought up by a member must be discussed and voted on in the current session, within reason.",
+   "lines": [
+    "A. Any item brought up by a mem",
+    "ber must be discussed and voted on",
+    "in the current session, within rea",
+    "son."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     240,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b10",
+   "page": 5,
+   "bbox": [
+    220,
+    111,
+    395,
+    140
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "B. Exactly One co-sponsor will be required to bring this about.",
+   "lines": [
+    "B. Exactly One co-sponsor will be",
+    "required to bring this about."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     357,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b11",
+   "page": 5,
+   "bbox": [
+    220,
+    152,
+    395,
+    248
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "C. Members can only vote on an issue if they certify, under penalty of perjury, that they have read the bill in its entirety before casting their vote. A member can vote ‘present’ if they haven’t read the bill in its entirety.",
+   "lines": [
+    "C. Members can only vote on an is",
+    "sue if they certify, under penalty of",
+    "perjury, that they have read the bill",
+    "in its entirety before casting their",
+    "vote. A member can vote ‘present’ if",
+    "they haven’t read the bill in its en",
+    "tirety."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     249,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b12",
+   "page": 5,
+   "bbox": [
+    220,
+    260,
+    395,
+    288
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "They can also ask for a one week postponement votes.",
+   "lines": [
+    "They can also ask for a one week",
+    "postponement votes."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     321,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b13",
+   "page": 5,
+   "bbox": [
+    220,
+    300,
+    311,
+    315
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "D. End Filibusters.",
+   "lines": [
+    "D. End Filibusters."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     311,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b14",
+   "page": 5,
+   "bbox": [
+    220,
+    327,
+    395,
+    383
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Any member will be able to simply ask to postpone a vote for a reasonable time to allow more discussion. One week, for example.",
+   "lines": [
+    "Any member will be able to simply",
+    "ask to postpone a vote for a reason",
+    "able time to allow more discussion.",
+    "One week, for example."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     333,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b15",
+   "page": 5,
+   "bbox": [
+    220,
+    395,
+    395,
+    423
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The focus should be on addressing issues, not avoiding them.",
+   "lines": [
+    "The focus should be on addressing",
+    "issues, not avoiding them."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     346,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b16",
+   "page": 5,
+   "bbox": [
+    247,
+    435,
+    365,
+    450
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "3. Campaign Finance",
+   "lines": [
+    "3. Campaign Finance"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     247,
+     365,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b17",
+   "page": 5,
+   "bbox": [
+    220,
+    462,
+    395,
+    531
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Incumbents will only be permitted to raise money for one year before a vote for re-election will occur. Currently, they raise money every day of the year.",
+   "lines": [
+    "Incumbents will only be permitted",
+    "to raise money for one year before a",
+    "vote for re-election will occur. Cur",
+    "rently, they raise money every day",
+    "of the year."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     274,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b18",
+   "page": 5,
+   "bbox": [
+    220,
+    543,
+    395,
+    639
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Any money left over after the election must be dispersed. This can be given to anyone they see fit to disperse it to, with the exception of members of their family. Dispersal will not count as a charitable contribution.",
+   "lines": [
+    "Any money left over after the elec",
+    "tion must be dispersed. This can",
+    "be given to anyone they see fit to",
+    "disperse it to, with the exception of",
+    "members of their family. Dispersal",
+    "will not count as a charitable con",
+    "tribution."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     266,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b19",
+   "page": 5,
+   "bbox": [
+    220,
+    651,
+    395,
+    693
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Any individual will be permitted to donate any amount of money to any candidate they choose.",
+   "lines": [
+    "Any individual will be permitted to",
+    "donate any amount of money to any",
+    "candidate they choose."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ],
+    [
+     220,
+     333,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b20",
+   "page": 5,
+   "bbox": [
+    220,
+    705,
+    395,
+    734
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "Keep in mind that the major political reform to come out of Watergate",
+   "lines": [
+    "Keep in mind that the major politi",
+    "cal reform to come out of Watergate"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     220,
+     392,
+     false,
+     true
+    ],
+    [
+     220,
+     395,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b21",
+   "page": 5,
+   "bbox": [
+    404,
+    44,
+    579,
+    113
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "was to create campaign finance restrictions in order to make sure that a Eugene McCarthy would never again be allowed to challenge the establishment candidate.",
+   "lines": [
+    "was to create campaign finance re",
+    "strictions in order to make sure that",
+    "a Eugene McCarthy would never",
+    "again be allowed to challenge the",
+    "establishment candidate."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     526,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b22",
+   "page": 5,
+   "bbox": [
+    456,
+    124,
+    524,
+    140
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.0,
+   "bold": true,
+   "italic": false,
+   "text": "Conclusion:",
+   "lines": [
+    "Conclusion:"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     456,
+     524,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b23",
+   "page": 5,
+   "bbox": [
+    404,
+    152,
+    579,
+    194
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The hindering of ballot access is the largest problem in the political process, and it must be addressed.",
+   "lines": [
+    "The hindering of ballot access is the",
+    "largest problem in the political pro",
+    "cess, and it must be addressed."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     554,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b24",
+   "page": 5,
+   "bbox": [
+    404,
+    206,
+    579,
+    275
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The proper and necessary response is to call for a boycott of all Republican and Democrat candidates, at least until or unless ballot access problems are properly addressed.",
+   "lines": [
+    "The proper and necessary response",
+    "is to call for a boycott of all Repub",
+    "lican and Democrat candidates, at",
+    "least until or unless ballot access",
+    "problems are properly addressed."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     569,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b25",
+   "page": 5,
+   "bbox": [
+    404,
+    287,
+    579,
+    356
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "After that, it is unlikely that anyone will be able to find any reason to vote for one of their candidates. Meanwhile, the Libertarian Party will be addressing issues in detail.",
+   "lines": [
+    "After that, it is unlikely that any",
+    "one will be able to find any reason",
+    "to vote for one of their candidates.",
+    "Meanwhile, the Libertarian Party",
+    "will be addressing issues in detail."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     568,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b26",
+   "page": 5,
+   "bbox": [
+    404,
+    368,
+    579,
+    450
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The Republicans and Democrats have nothing positive to offer. The country is $40 trillion in debt, a number that is expanding by $2 trillion plus per year. They have no plans to address this issue.",
+   "lines": [
+    "The Republicans and Democrats",
+    "have nothing positive to offer. The",
+    "country is $40 trillion in debt, a",
+    "number that is expanding by $2",
+    "trillion plus per year. They have no",
+    "plans to address this issue."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     534,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b27",
+   "page": 5,
+   "bbox": [
+    404,
+    462,
+    579,
+    531
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "The U.S. has bombed 32 countries without a declaration of war since the end of World War II. This is more than one-third of the people on Earth.",
+   "lines": [
+    "The U.S. has bombed 32 countries",
+    "without a declaration of war since",
+    "the end of World War II. This is",
+    "more than one-third of the people",
+    "on Earth."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     449,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b28",
+   "page": 5,
+   "bbox": [
+    404,
+    543,
+    579,
+    666
+   ],
+   "font": "Georgia",
+   "size": 11.0,
+   "bold": false,
+   "italic": false,
+   "text": "And World War II, it should be pointed out, ended when the United States government committed the biggest war crime in the history of the universe, the dropping of atomic bombs on the Japanese civilian centers of Hiroshima and Nagasaki. No one has ever been held accountable for this atrocity.",
+   "lines": [
+    "And World War II, it should be",
+    "pointed out, ended when the Unit",
+    "ed States government committed",
+    "the biggest war crime in the histo",
+    "ry of the universe, the dropping of",
+    "atomic bombs on the Japanese ci",
+    "vilian centers of Hiroshima and Na",
+    "gasaki. No one has ever been held",
+    "accountable for this atrocity."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     576,
+     false,
+     true
+    ],
+    [
+     404,
+     579,
+     false,
+     false
+    ],
+    [
+     404,
+     543,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p5b29",
+   "page": 5,
+   "bbox": [
+    57,
+    46,
+    187,
+    62
+   ],
+   "font": "Roboto-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "(continued from page 4)",
+   "lines": [
+    "(continued from page 4)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     57,
+     187,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b0",
+   "page": 6,
+   "bbox": [
+    36,
+    756,
+    180,
+    777
+   ],
+   "font": "Roboto-Bold",
+   "size": 16.0,
+   "bold": true,
+   "italic": false,
+   "text": "6 | FREE NEW YORK",
+   "lines": [
+    "6 | FREE NEW YORK"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     180,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b1",
+   "page": 6,
+   "bbox": [
+    37,
+    25,
+    575,
+    94
+   ],
+   "font": "Avenir-Black",
+   "size": 42.0,
+   "bold": true,
+   "italic": false,
+   "text": "COUNTY AFFILIATE NEWS",
+   "lines": [
+    "COUNTY AFFILIATE NEWS"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     37,
+     575,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b2",
+   "page": 6,
+   "bbox": [
+    63,
+    82,
+    181,
+    106
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "CHAUTAUQUA",
+   "lines": [
+    "CHAUTAUQUA"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     63,
+     181,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b3",
+   "page": 6,
+   "bbox": [
+    36,
+    109,
+    208,
+    140
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "NEXT MEETING: Thurs., Sep. 10, 2026 @ 6:30 PM",
+   "lines": [
+    "NEXT MEETING:",
+    "Thurs., Sep. 10, 2026 @ 6:30 PM"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     69,
+     175,
+     true,
+     false
+    ],
+    [
+     36,
+     208,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b4",
+   "page": 6,
+   "bbox": [
+    77,
+    137,
+    167,
+    182
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "at 14 Main 14 Main Street, Bemus Point, NY",
+   "lines": [
+    "at 14 Main",
+    "14 Main Street,",
+    "Bemus Point, NY"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     94,
+     150,
+     false,
+     false
+    ],
+    [
+     82,
+     162,
+     false,
+     false
+    ],
+    [
+     77,
+     167,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b5",
+   "page": 6,
+   "bbox": [
+    73,
+    179,
+    171,
+    210
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "and on Zoom (second Tuesdays)",
+   "lines": [
+    "and on Zoom",
+    "(second Tuesdays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     87,
+     157,
+     false,
+     false
+    ],
+    [
+     73,
+     171,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b6",
+   "page": 6,
+   "bbox": [
+    52,
+    221,
+    192,
+    252
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Andrew Kolstee, Chair",
+   "lines": [
+    "CONTACT:",
+    "Andrew Kolstee, Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     88,
+     155,
+     true,
+     false
+    ],
+    [
+     52,
+     192,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b7",
+   "page": 6,
+   "bbox": [
+    73,
+    249,
+    171,
+    266
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "akolstee@lpny.org",
+   "lines": [
+    "akolstee@lpny.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     73,
+     171,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b8",
+   "page": 6,
+   "bbox": [
+    58,
+    277,
+    186,
+    308
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "LEARN MORE: www.chautauquaLP.org",
+   "lines": [
+    "LEARN MORE:",
+    "www.chautauquaLP.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     75,
+     169,
+     true,
+     false
+    ],
+    [
+     58,
+     186,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b9",
+   "page": 6,
+   "bbox": [
+    63,
+    305,
+    181,
+    322
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "fb.com/chautauquaLP",
+   "lines": [
+    "fb.com/chautauquaLP"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     63,
+     181,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b10",
+   "page": 6,
+   "bbox": [
+    78,
+    334,
+    166,
+    358
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "CHEMUNG",
+   "lines": [
+    "CHEMUNG"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     78,
+     166,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b11",
+   "page": 6,
+   "bbox": [
+    60,
+    361,
+    184,
+    406
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Nick Grasso, Chair ngrasso89@yahoo.com",
+   "lines": [
+    "CONTACT:",
+    "Nick Grasso, Chair",
+    "ngrasso89@yahoo.com"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     88,
+     155,
+     true,
+     false
+    ],
+    [
+     64,
+     180,
+     true,
+     false
+    ],
+    [
+     60,
+     184,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b12",
+   "page": 6,
+   "bbox": [
+    75,
+    417,
+    169,
+    434
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "LEARN MORE:",
+   "lines": [
+    "LEARN MORE:"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     75,
+     169,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b13",
+   "page": 6,
+   "bbox": [
+    82,
+    431,
+    162,
+    448
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "lpchemung.org",
+   "lines": [
+    "lpchemung.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     82,
+     162,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b14",
+   "page": 6,
+   "bbox": [
+    77,
+    460,
+    167,
+    484
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "COLUMBIA",
+   "lines": [
+    "COLUMBIA"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     77,
+     167,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b15",
+   "page": 6,
+   "bbox": [
+    47,
+    487,
+    197,
+    518
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "NEXT MEETING: Wed., Sep. 16, 2026 @ 7 PM",
+   "lines": [
+    "NEXT MEETING:",
+    "Wed., Sep. 16, 2026 @ 7 PM"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     69,
+     175,
+     true,
+     false
+    ],
+    [
+     47,
+     197,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b16",
+   "page": 6,
+   "bbox": [
+    70,
+    515,
+    174,
+    546
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "Google Meet (third Wednesdays)",
+   "lines": [
+    "Google Meet",
+    "(third Wednesdays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     89,
+     155,
+     false,
+     false
+    ],
+    [
+     70,
+     174,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b17",
+   "page": 6,
+   "bbox": [
+    52,
+    557,
+    192,
+    602
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Scott Hoskins, Chair scottdhoskins@gmail.com",
+   "lines": [
+    "CONTACT:",
+    "Scott Hoskins, Chair",
+    "scottdhoskins@gmail.com"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     88,
+     155,
+     true,
+     false
+    ],
+    [
+     59,
+     185,
+     true,
+     false
+    ],
+    [
+     52,
+     192,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b18",
+   "page": 6,
+   "bbox": [
+    260,
+    82,
+    352,
+    106
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "DUTCHESS",
+   "lines": [
+    "DUTCHESS"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     260,
+     352,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b19",
+   "page": 6,
+   "bbox": [
+    235,
+    109,
+    377,
+    140
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "NEXT MEETING: Sat., Sep. 19, 2026 @ 5 PM",
+   "lines": [
+    "NEXT MEETING:",
+    "Sat., Sep. 19, 2026 @ 5 PM"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     253,
+     359,
+     true,
+     false
+    ],
+    [
+     235,
+     377,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b20",
+   "page": 6,
+   "bbox": [
+    224,
+    137,
+    388,
+    182
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "Village Restaurant & Pancake Factory 1540 Route 44, Pleasant Valley",
+   "lines": [
+    "Village Restaurant",
+    "& Pancake Factory",
+    "1540 Route 44, Pleasant Valley"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     257,
+     355,
+     false,
+     false
+    ],
+    [
+     257,
+     355,
+     false,
+     false
+    ],
+    [
+     224,
+     388,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b21",
+   "page": 6,
+   "bbox": [
+    264,
+    179,
+    348,
+    196
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "(3rd Saturdays)",
+   "lines": [
+    "(3rd Saturdays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     264,
+     348,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b22",
+   "page": 6,
+   "bbox": [
+    232,
+    207,
+    380,
+    252
+   ],
+   "font": "Georgia-Bold",
+   "size": 11.6,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Robert Cocomello, Chair Catrina Rocco, Vice-Chair",
+   "lines": [
+    "CONTACT:",
+    "Robert Cocomello, Chair",
+    "Catrina Rocco, Vice-Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     272,
+     339,
+     true,
+     false
+    ],
+    [
+     234,
+     378,
+     true,
+     false
+    ],
+    [
+     232,
+     380,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b23",
+   "page": 6,
+   "bbox": [
+    233,
+    249,
+    379,
+    266
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "info@dutchesscountylp.org",
+   "lines": [
+    "info@dutchesscountylp.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     233,
+     379,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b24",
+   "page": 6,
+   "bbox": [
+    249,
+    277,
+    363,
+    308
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "LEARN MORE: dutchesscountylp.org",
+   "lines": [
+    "LEARN MORE:",
+    "dutchesscountylp.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     259,
+     353,
+     true,
+     false
+    ],
+    [
+     249,
+     363,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b25",
+   "page": 6,
+   "bbox": [
+    287,
+    320,
+    325,
+    344
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "ERIE",
+   "lines": [
+    "ERIE"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     287,
+     325,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b26",
+   "page": 6,
+   "bbox": [
+    232,
+    347,
+    380,
+    392
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Duane Whitmer, Chair chairman@eriecountylp.org",
+   "lines": [
+    "CONTACT:",
+    "Duane Whitmer, Chair",
+    "chairman@eriecountylp.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     272,
+     339,
+     true,
+     false
+    ],
+    [
+     236,
+     376,
+     true,
+     false
+    ],
+    [
+     232,
+     380,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b27",
+   "page": 6,
+   "bbox": [
+    225,
+    404,
+    387,
+    428
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "KINGS (BROOKLYN)",
+   "lines": [
+    "KINGS (BROOKLYN)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     225,
+     387,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b28",
+   "page": 6,
+   "bbox": [
+    231,
+    431,
+    381,
+    462
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "NEXT MEETING: Tues., Sep. 15, 2026 at 3 PM",
+   "lines": [
+    "NEXT MEETING:",
+    "Tues., Sep. 15, 2026 at 3 PM"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     253,
+     359,
+     true,
+     false
+    ],
+    [
+     231,
+     381,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b29",
+   "page": 6,
+   "bbox": [
+    224,
+    459,
+    388,
+    490
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "@ Fourth Avenue Pub 76 4th Ave, Brooklyn, NY 11217",
+   "lines": [
+    "@ Fourth Avenue Pub",
+    "76 4th Ave, Brooklyn, NY 11217"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     248,
+     364,
+     false,
+     false
+    ],
+    [
+     224,
+     388,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b30",
+   "page": 6,
+   "bbox": [
+    266,
+    487,
+    346,
+    504
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "(3rd Tuesdays)",
+   "lines": [
+    "(3rd Tuesdays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     266,
+     346,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b31",
+   "page": 6,
+   "bbox": [
+    228,
+    515,
+    384,
+    546
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Christopher Skelly, Chair",
+   "lines": [
+    "CONTACT:",
+    "Christopher Skelly, Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     272,
+     339,
+     true,
+     false
+    ],
+    [
+     228,
+     384,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b32",
+   "page": 6,
+   "bbox": [
+    261,
+    543,
+    351,
+    560
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "cskelly@lpny.org",
+   "lines": [
+    "cskelly@lpny.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     261,
+     351,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b33",
+   "page": 6,
+   "bbox": [
+    266,
+    572,
+    346,
+    596
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "MADISON",
+   "lines": [
+    "MADISON"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     266,
+     346,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b34",
+   "page": 6,
+   "bbox": [
+    240,
+    599,
+    372,
+    630
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Mark Braiman, Chair",
+   "lines": [
+    "CONTACT:",
+    "Mark Braiman, Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     272,
+     339,
+     true,
+     false
+    ],
+    [
+     240,
+     372,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b35",
+   "page": 6,
+   "bbox": [
+    251,
+    627,
+    361,
+    644
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "mbraiman@lpny.org",
+   "lines": [
+    "mbraiman@lpny.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     251,
+     361,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b36",
+   "page": 6,
+   "bbox": [
+    452,
+    85,
+    528,
+    109
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "MONROE",
+   "lines": [
+    "MONROE"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     452,
+     528,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b37",
+   "page": 6,
+   "bbox": [
+    415,
+    112,
+    565,
+    143
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "NEXT MEETING: Thurs., Sep. 3, 2026 @ 7 PM",
+   "lines": [
+    "NEXT MEETING:",
+    "Thurs., Sep. 3, 2026 @ 7 PM"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     437,
+     543,
+     true,
+     false
+    ],
+    [
+     415,
+     565,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b38",
+   "page": 6,
+   "bbox": [
+    430,
+    141,
+    550,
+    171
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "(first Thursdays) Contact us for the link.",
+   "lines": [
+    "(first Thursdays)",
+    "Contact us for the link."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     446,
+     534,
+     false,
+     false
+    ],
+    [
+     430,
+     550,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b39",
+   "page": 6,
+   "bbox": [
+    430,
+    182,
+    550,
+    213
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Steve Becker, Chair",
+   "lines": [
+    "CONTACT:",
+    "Steve Becker, Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     456,
+     523,
+     true,
+     false
+    ],
+    [
+     430,
+     550,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b40",
+   "page": 6,
+   "bbox": [
+    438,
+    211,
+    542,
+    227
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "drsbecker@aol.com",
+   "lines": [
+    "drsbecker@aol.com"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     438,
+     542,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b41",
+   "page": 6,
+   "bbox": [
+    415,
+    238,
+    565,
+    283
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "LEARN MORE: monroecountylp.org Ask about the Google Group",
+   "lines": [
+    "LEARN MORE:",
+    "monroecountylp.org",
+    "Ask about the Google Group"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     443,
+     537,
+     true,
+     false
+    ],
+    [
+     436,
+     544,
+     false,
+     false
+    ],
+    [
+     415,
+     565,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b42",
+   "page": 6,
+   "bbox": [
+    438,
+    281,
+    542,
+    297
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "and social meetings",
+   "lines": [
+    "and social meetings"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     438,
+     542,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b43",
+   "page": 6,
+   "bbox": [
+    455,
+    309,
+    525,
+    333
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "NASSAU",
+   "lines": [
+    "NASSAU"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     455,
+     525,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b44",
+   "page": 6,
+   "bbox": [
+    412,
+    336,
+    568,
+    367
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "NEXT MEETING: Thurs., Sep. 10, 2026 at 7 PM",
+   "lines": [
+    "NEXT MEETING:",
+    "Thurs., Sep. 10, 2026 at 7 PM"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     437,
+     543,
+     true,
+     false
+    ],
+    [
+     412,
+     568,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b45",
+   "page": 6,
+   "bbox": [
+    439,
+    365,
+    541,
+    381
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "@ Landmark Diner",
+   "lines": [
+    "@ Landmark Diner"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     439,
+     541,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b46",
+   "page": 6,
+   "bbox": [
+    446,
+    379,
+    534,
+    395
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "(2nd Thursdays)",
+   "lines": [
+    "(2nd Thursdays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     446,
+     534,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b47",
+   "page": 6,
+   "bbox": [
+    405,
+    406,
+    575,
+    465
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Jon Gunther, Executive Committee Chair jonguntherlibertarian@gmail.com",
+   "lines": [
+    "CONTACT:",
+    "Jon Gunther,",
+    "Executive Committee Chair",
+    "jonguntherlibertarian@gmail.com"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     456,
+     523,
+     true,
+     false
+    ],
+    [
+     449,
+     531,
+     true,
+     false
+    ],
+    [
+     406,
+     574,
+     true,
+     false
+    ],
+    [
+     405,
+     575,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b48",
+   "page": 6,
+   "bbox": [
+    414,
+    476,
+    566,
+    507
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "Blay Tarnoff, County Committee Chair",
+   "lines": [
+    "Blay Tarnoff,",
+    "County Committee Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     449,
+     531,
+     true,
+     false
+    ],
+    [
+     414,
+     566,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b49",
+   "page": 6,
+   "bbox": [
+    442,
+    505,
+    538,
+    521
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "LPNY@eblay.com",
+   "lines": [
+    "LPNY@eblay.com"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     442,
+     538,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b50",
+   "page": 6,
+   "bbox": [
+    406,
+    536,
+    574,
+    555
+   ],
+   "font": "Roboto-Bold",
+   "size": 14.0,
+   "bold": true,
+   "italic": false,
+   "text": "NEW YORK (MANHATTAN)",
+   "lines": [
+    "NEW YORK (MANHATTAN)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     406,
+     574,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b51",
+   "page": 6,
+   "bbox": [
+    416,
+    574,
+    564,
+    605
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Chance Haywood, Chair",
+   "lines": [
+    "CONTACT:",
+    "Chance Haywood, Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     456,
+     523,
+     true,
+     false
+    ],
+    [
+     416,
+     564,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b52",
+   "page": 6,
+   "bbox": [
+    436,
+    603,
+    544,
+    619
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "chaywood@lpny.org",
+   "lines": [
+    "chaywood@lpny.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     436,
+     544,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b53",
+   "page": 6,
+   "bbox": [
+    446,
+    645,
+    534,
+    661
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "(2nd Thursdays)",
+   "lines": [
+    "(2nd Thursdays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     446,
+     534,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b54",
+   "page": 6,
+   "bbox": [
+    458,
+    645,
+    522,
+    669
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "ONEIDA",
+   "lines": [
+    "ONEIDA"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     458,
+     522,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b55",
+   "page": 6,
+   "bbox": [
+    424,
+    672,
+    556,
+    703
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Keith Redhead, Chair",
+   "lines": [
+    "CONTACT:",
+    "Keith Redhead, Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     456,
+     523,
+     true,
+     false
+    ],
+    [
+     424,
+     556,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p6b56",
+   "page": 6,
+   "bbox": [
+    438,
+    701,
+    542,
+    717
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "kredhead@lpny.org",
+   "lines": [
+    "kredhead@lpny.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     438,
+     542,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b0",
+   "page": 7,
+   "bbox": [
+    452,
+    756,
+    576,
+    777
+   ],
+   "font": "Roboto-Bold",
+   "size": 16.0,
+   "bold": true,
+   "italic": false,
+   "text": "AUGUST 2026 | 7",
+   "lines": [
+    "AUGUST 2026 | 7"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     452,
+     576,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b1",
+   "page": 7,
+   "bbox": [
+    74,
+    44,
+    170,
+    68
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "ONONDAGA",
+   "lines": [
+    "ONONDAGA"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     74,
+     170,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b2",
+   "page": 7,
+   "bbox": [
+    39,
+    71,
+    205,
+    101
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "NEXT MEETING: Wed., Sep. 16, 2026 at 6:30 PM",
+   "lines": [
+    "NEXT MEETING:",
+    "Wed., Sep. 16, 2026 at 6:30 PM"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     69,
+     175,
+     true,
+     false
+    ],
+    [
+     39,
+     205,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b3",
+   "page": 7,
+   "bbox": [
+    57,
+    99,
+    187,
+    115
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "Liverpool Public Library",
+   "lines": [
+    "Liverpool Public Library"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     57,
+     187,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b4",
+   "page": 7,
+   "bbox": [
+    74,
+    113,
+    170,
+    129
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "(3rd Wednesdays)",
+   "lines": [
+    "(3rd Wednesdays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     74,
+     170,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b5",
+   "page": 7,
+   "bbox": [
+    57,
+    141,
+    187,
+    171
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Rachel Becker, Chair",
+   "lines": [
+    "CONTACT:",
+    "Rachel Becker, Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     88,
+     155,
+     true,
+     false
+    ],
+    [
+     57,
+     187,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b6",
+   "page": 7,
+   "bbox": [
+    39,
+    169,
+    204,
+    199
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "reb4128@rit.edu onondagacountylp@gmail.com",
+   "lines": [
+    "reb4128@rit.edu",
+    "onondagacountylp@gmail.com"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     77,
+     167,
+     false,
+     false
+    ],
+    [
+     39,
+     204,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b7",
+   "page": 7,
+   "bbox": [
+    87,
+    212,
+    157,
+    236
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "ORANGE",
+   "lines": [
+    "ORANGE"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     87,
+     157,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b8",
+   "page": 7,
+   "bbox": [
+    43,
+    239,
+    204,
+    269
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "NEXT MEETING: Held 4th Thursdays. Location",
+   "lines": [
+    "NEXT MEETING:",
+    "Held 4th Thursdays. Location"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     69,
+     175,
+     true,
+     false
+    ],
+    [
+     43,
+     204,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b9",
+   "page": 7,
+   "bbox": [
+    46,
+    267,
+    201,
+    283
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "varies. Contact us for details.",
+   "lines": [
+    "varies. Contact us for details."
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     46,
+     201,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b10",
+   "page": 7,
+   "bbox": [
+    56,
+    295,
+    188,
+    339
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Juan Ayala, Chair livefree@juanrayala.com",
+   "lines": [
+    "CONTACT:",
+    "Juan Ayala, Chair",
+    "livefree@juanrayala.com"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     88,
+     155,
+     true,
+     false
+    ],
+    [
+     67,
+     177,
+     true,
+     false
+    ],
+    [
+     56,
+     188,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b11",
+   "page": 7,
+   "bbox": [
+    87,
+    352,
+    157,
+    376
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "QUEENS",
+   "lines": [
+    "QUEENS"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     87,
+     157,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b12",
+   "page": 7,
+   "bbox": [
+    49,
+    379,
+    195,
+    409
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "NEXT MEETING: Sat., Sep. 12, 2026 at 12 PM",
+   "lines": [
+    "NEXT MEETING:",
+    "Sat., Sep. 12, 2026 at 12 PM"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     69,
+     175,
+     true,
+     false
+    ],
+    [
+     49,
+     195,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b13",
+   "page": 7,
+   "bbox": [
+    40,
+    407,
+    204,
+    437
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "Stamatis Greek and Mediterranean Restaurant",
+   "lines": [
+    "Stamatis Greek",
+    "and Mediterranean Restaurant"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     82,
+     162,
+     false,
+     false
+    ],
+    [
+     40,
+     204,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b14",
+   "page": 7,
+   "bbox": [
+    57,
+    435,
+    187,
+    451
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "29-09 23rd Ave., Astoria",
+   "lines": [
+    "29-09 23rd Ave., Astoria"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     57,
+     187,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b15",
+   "page": 7,
+   "bbox": [
+    79,
+    449,
+    165,
+    465
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "(2nd Saturdays)",
+   "lines": [
+    "(2nd Saturdays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     79,
+     165,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b16",
+   "page": 7,
+   "bbox": [
+    49,
+    477,
+    195,
+    507
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Francisco Olvera, Chair",
+   "lines": [
+    "CONTACT:",
+    "Francisco Olvera, Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     88,
+     155,
+     true,
+     false
+    ],
+    [
+     49,
+     195,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b17",
+   "page": 7,
+   "bbox": [
+    76,
+    505,
+    168,
+    521
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "folvera@lpny.org",
+   "lines": [
+    "folvera@lpny.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     76,
+     168,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b18",
+   "page": 7,
+   "bbox": [
+    66,
+    534,
+    178,
+    558
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "RENSSELAER",
+   "lines": [
+    "RENSSELAER"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     66,
+     178,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b19",
+   "page": 7,
+   "bbox": [
+    40,
+    561,
+    204,
+    605
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "NEXT MEETING: Wed., Sep. 2, 2026 at 6:30 PM Alexis Diner, North Greenbush",
+   "lines": [
+    "NEXT MEETING:",
+    "Wed., Sep. 2, 2026 at 6:30 PM",
+    "Alexis Diner, North Greenbush"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     69,
+     175,
+     true,
+     false
+    ],
+    [
+     41,
+     203,
+     false,
+     false
+    ],
+    [
+     40,
+     204,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b20",
+   "page": 7,
+   "bbox": [
+    76,
+    603,
+    168,
+    619
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "(1st Wednesdays)",
+   "lines": [
+    "(1st Wednesdays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     76,
+     168,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b21",
+   "page": 7,
+   "bbox": [
+    60,
+    631,
+    184,
+    675
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Jennifer O’Connor, Acting County Chair",
+   "lines": [
+    "CONTACT:",
+    "Jennifer O’Connor,",
+    "Acting County Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     88,
+     155,
+     true,
+     false
+    ],
+    [
+     62,
+     182,
+     true,
+     false
+    ],
+    [
+     60,
+     184,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b22",
+   "page": 7,
+   "bbox": [
+    71,
+    673,
+    173,
+    689
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "joconnor@lpny.org",
+   "lines": [
+    "joconnor@lpny.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     71,
+     173,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b23",
+   "page": 7,
+   "bbox": [
+    222,
+    40,
+    390,
+    64
+   ],
+   "font": "Roboto-Bold",
+   "size": 15.0,
+   "bold": true,
+   "italic": false,
+   "text": "RICHMOND (STATEN ISLAND)",
+   "lines": [
+    "RICHMOND (STATEN ISLAND)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     222,
+     390,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b24",
+   "page": 7,
+   "bbox": [
+    228,
+    67,
+    384,
+    98
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "NEXT MEETING: Thurs., Sep. 17, 2026 @ 7 PM",
+   "lines": [
+    "NEXT MEETING:",
+    "Thurs., Sep. 17, 2026 @ 7 PM"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     253,
+     359,
+     true,
+     false
+    ],
+    [
+     228,
+     384,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b25",
+   "page": 7,
+   "bbox": [
+    239,
+    95,
+    373,
+    112
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "@ Coffee and Collectibles",
+   "lines": [
+    "@ Coffee and Collectibles"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     239,
+     373,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b26",
+   "page": 7,
+   "bbox": [
+    263,
+    109,
+    349,
+    126
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "(3rd Thursdays)",
+   "lines": [
+    "(3rd Thursdays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     263,
+     349,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b27",
+   "page": 7,
+   "bbox": [
+    221,
+    137,
+    391,
+    168
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Susan Overeem Cummings,",
+   "lines": [
+    "CONTACT:",
+    "Susan Overeem Cummings,"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     272,
+     339,
+     true,
+     false
+    ],
+    [
+     221,
+     391,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b28",
+   "page": 7,
+   "bbox": [
+    235,
+    165,
+    377,
+    196
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "Chair susanovereem@gmail.com",
+   "lines": [
+    "Chair",
+    "susanovereem@gmail.com"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     289,
+     323,
+     true,
+     false
+    ],
+    [
+     235,
+     377,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b29",
+   "page": 7,
+   "bbox": [
+    260,
+    208,
+    352,
+    232
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "SARATOGA",
+   "lines": [
+    "SARATOGA"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     260,
+     352,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b30",
+   "page": 7,
+   "bbox": [
+    236,
+    235,
+    376,
+    266
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Naz Garabedien, Chair",
+   "lines": [
+    "CONTACT:",
+    "Naz Garabedien, Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     272,
+     339,
+     true,
+     false
+    ],
+    [
+     236,
+     376,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b31",
+   "page": 7,
+   "bbox": [
+    246,
+    263,
+    366,
+    294
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "nazareth.garabedian @lawsonproducts.com",
+   "lines": [
+    "nazareth.garabedian",
+    "@lawsonproducts.com"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     252,
+     360,
+     false,
+     false
+    ],
+    [
+     246,
+     366,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b32",
+   "page": 7,
+   "bbox": [
+    256,
+    306,
+    356,
+    330
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "SCHOHARIE",
+   "lines": [
+    "SCHOHARIE"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     256,
+     356,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b33",
+   "page": 7,
+   "bbox": [
+    244,
+    333,
+    368,
+    378
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Mason Hovack, Acting County Chair",
+   "lines": [
+    "CONTACT:",
+    "Mason Hovack,",
+    "Acting County Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     272,
+     339,
+     true,
+     false
+    ],
+    [
+     259,
+     353,
+     true,
+     false
+    ],
+    [
+     244,
+     368,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b34",
+   "page": 7,
+   "bbox": [
+    267,
+    404,
+    345,
+    428
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "SUFFOLK",
+   "lines": [
+    "SUFFOLK"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     267,
+     345,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b35",
+   "page": 7,
+   "bbox": [
+    253,
+    431,
+    359,
+    448
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "NEXT MEETING:",
+   "lines": [
+    "NEXT MEETING:"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     253,
+     359,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b36",
+   "page": 7,
+   "bbox": [
+    241,
+    445,
+    371,
+    476
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "TBD Panera Bread, Deer Park",
+   "lines": [
+    "TBD",
+    "Panera Bread, Deer Park"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     294,
+     318,
+     false,
+     false
+    ],
+    [
+     241,
+     371,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b37",
+   "page": 7,
+   "bbox": [
+    243,
+    473,
+    369,
+    490
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "(usually 4th Thursdays)",
+   "lines": [
+    "(usually 4th Thursdays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     243,
+     369,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b38",
+   "page": 7,
+   "bbox": [
+    235,
+    501,
+    377,
+    546
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Robert Schuon, Chair rschuon@mindspring.com",
+   "lines": [
+    "CONTACT:",
+    "Robert Schuon, Chair",
+    "rschuon@mindspring.com"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     272,
+     339,
+     true,
+     false
+    ],
+    [
+     239,
+     373,
+     true,
+     false
+    ],
+    [
+     235,
+     377,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b39",
+   "page": 7,
+   "bbox": [
+    273,
+    558,
+    339,
+    582
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "ULSTER",
+   "lines": [
+    "ULSTER"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     273,
+     339,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b40",
+   "page": 7,
+   "bbox": [
+    223,
+    585,
+    389,
+    616
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "NEXT MEETING: Mon., Sep. 17, 2026 at 6:30 PM",
+   "lines": [
+    "NEXT MEETING:",
+    "Mon., Sep. 17, 2026 at 6:30 PM"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     253,
+     359,
+     true,
+     false
+    ],
+    [
+     223,
+     389,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b41",
+   "page": 7,
+   "bbox": [
+    233,
+    613,
+    379,
+    630
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "Hickory BBQ, Kingston, NY",
+   "lines": [
+    "Hickory BBQ, Kingston, NY"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     233,
+     379,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b42",
+   "page": 7,
+   "bbox": [
+    257,
+    627,
+    355,
+    644
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "(second Mondays)",
+   "lines": [
+    "(second Mondays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     257,
+     355,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b43",
+   "page": 7,
+   "bbox": [
+    237,
+    655,
+    375,
+    700
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Sam Kniffen, Chair samkniffen01@gmail.com",
+   "lines": [
+    "CONTACT:",
+    "Sam Kniffen, Chair",
+    "samkniffen01@gmail.com"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     272,
+     339,
+     true,
+     false
+    ],
+    [
+     247,
+     365,
+     true,
+     false
+    ],
+    [
+     237,
+     375,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b44",
+   "page": 7,
+   "bbox": [
+    257,
+    711,
+    355,
+    742
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "LEARN MORE: www.UlsterLP.org",
+   "lines": [
+    "LEARN MORE:",
+    "www.UlsterLP.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     259,
+     353,
+     true,
+     false
+    ],
+    [
+     257,
+     355,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b45",
+   "page": 7,
+   "bbox": [
+    459,
+    40,
+    521,
+    64
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "WAYNE",
+   "lines": [
+    "WAYNE"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     459,
+     521,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b46",
+   "page": 7,
+   "bbox": [
+    414,
+    67,
+    566,
+    98
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "MONTHLY SOCIAL: Sat., Aug. 29, 2026 at 10 AM",
+   "lines": [
+    "MONTHLY SOCIAL:",
+    "Sat., Aug. 29, 2026 at 10 AM"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     428,
+     552,
+     true,
+     false
+    ],
+    [
+     414,
+     566,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b47",
+   "page": 7,
+   "bbox": [
+    405,
+    95,
+    575,
+    126
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "Yellow Mills Diner 2534 NY-31, Palmyra, NY 14522",
+   "lines": [
+    "Yellow Mills Diner",
+    "2534 NY-31, Palmyra, NY 14522"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     441,
+     539,
+     false,
+     false
+    ],
+    [
+     405,
+     575,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b48",
+   "page": 7,
+   "bbox": [
+    448,
+    123,
+    532,
+    140
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "(last Saturdays)",
+   "lines": [
+    "(last Saturdays)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     448,
+     532,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b49",
+   "page": 7,
+   "bbox": [
+    434,
+    151,
+    546,
+    182
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Jim Dayton, Chair",
+   "lines": [
+    "CONTACT:",
+    "Jim Dayton, Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     456,
+     523,
+     true,
+     false
+    ],
+    [
+     434,
+     546,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b50",
+   "page": 7,
+   "bbox": [
+    442,
+    179,
+    538,
+    196
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "jdayton@lpny.org",
+   "lines": [
+    "jdayton@lpny.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     442,
+     538,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b51",
+   "page": 7,
+   "bbox": [
+    440,
+    207,
+    540,
+    238
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "LEARN MORE: lpwaynecounty.org",
+   "lines": [
+    "LEARN MORE:",
+    "lpwaynecounty.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     443,
+     537,
+     true,
+     false
+    ],
+    [
+     440,
+     540,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b52",
+   "page": 7,
+   "bbox": [
+    440,
+    249,
+    540,
+    266
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "lpwaynecounty.org",
+   "lines": [
+    "lpwaynecounty.org"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     440,
+     540,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b53",
+   "page": 7,
+   "bbox": [
+    407,
+    250,
+    579,
+    280
+   ],
+   "font": "Roboto-Bold",
+   "size": 16.1,
+   "bold": true,
+   "italic": false,
+   "text": "WESTCHESTER-PUTNAM",
+   "lines": [
+    "WESTCHESTER-PUTNAM"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     407,
+     579,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b54",
+   "page": 7,
+   "bbox": [
+    437,
+    291,
+    543,
+    308
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "NEXT MEETING:",
+   "lines": [
+    "NEXT MEETING:"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     437,
+     543,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b55",
+   "page": 7,
+   "bbox": [
+    478,
+    305,
+    502,
+    322
+   ],
+   "font": "Georgia",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "TBD",
+   "lines": [
+    "TBD"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     478,
+     502,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p7b56",
+   "page": 7,
+   "bbox": [
+    423,
+    333,
+    557,
+    378
+   ],
+   "font": "Georgia-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "CONTACT: Rajib Maitra, Chair rajib.maitra1@gmail.com",
+   "lines": [
+    "CONTACT:",
+    "Rajib Maitra, Chair",
+    "rajib.maitra1@gmail.com"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     456,
+     523,
+     true,
+     false
+    ],
+    [
+     430,
+     550,
+     true,
+     false
+    ],
+    [
+     423,
+     557,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p8b0",
+   "page": 8,
+   "bbox": [
+    37,
+    12,
+    575,
+    116
+   ],
+   "font": "Avenir-Black",
+   "size": 62.5,
+   "bold": true,
+   "italic": false,
+   "text": "LPNY DIRECTORY",
+   "lines": [
+    "LPNY DIRECTORY"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     37,
+     575,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p8b1",
+   "page": 8,
+   "bbox": [
+    36,
+    756,
+    180,
+    777
+   ],
+   "font": "Roboto-Bold",
+   "size": 16.0,
+   "bold": true,
+   "italic": false,
+   "text": "8 | FREE NEW YORK",
+   "lines": [
+    "8 | FREE NEW YORK"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     36,
+     180,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p8b2",
+   "page": 8,
+   "bbox": [
+    48,
+    135,
+    288,
+    321
+   ],
+   "font": "Roboto-Regular",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "Duane Whitmer Chair Daniel Castello Vice Chair Andrew Kolstee Secretary Chance Haywood Treasurer Christopher Skelly Communications Director Mark Axinn Fundraising Director Justin Carman IT Director Richard Purtell Legislative Affairs Director Pietro Geraci Outreach Director Paul Grindle Political Director Catrina Rocco Volunteer Director",
+   "lines": [
+    "Duane Whitmer Chair",
+    "Daniel Castello Vice Chair",
+    "Andrew Kolstee Secretary",
+    "Chance Haywood Treasurer",
+    "Christopher Skelly Communications Director",
+    "Mark Axinn Fundraising Director",
+    "Justin Carman IT Director",
+    "Richard Purtell Legislative Affairs Director",
+    "Pietro Geraci Outreach Director",
+    "Paul Grindle Political Director",
+    "Catrina Rocco Volunteer Director"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     48,
+     162,
+     false,
+     false
+    ],
+    [
+     48,
+     186,
+     false,
+     false
+    ],
+    [
+     48,
+     187,
+     false,
+     false
+    ],
+    [
+     48,
+     195,
+     false,
+     false
+    ],
+    [
+     48,
+     288,
+     false,
+     false
+    ],
+    [
+     48,
+     222,
+     false,
+     false
+    ],
+    [
+     48,
+     186,
+     false,
+     false
+    ],
+    [
+     48,
+     274,
+     false,
+     false
+    ],
+    [
+     48,
+     216,
+     false,
+     false
+    ],
+    [
+     48,
+     206,
+     false,
+     false
+    ],
+    [
+     48,
+     224,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p8b3",
+   "page": 8,
+   "bbox": [
+    74,
+    101,
+    273,
+    125
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "EXECUTIVE COMMITTEE",
+   "lines": [
+    "EXECUTIVE COMMITTEE"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     74,
+     273,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p8b4",
+   "page": 8,
+   "bbox": [
+    54,
+    373,
+    194,
+    712
+   ],
+   "font": "Roboto-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "Mark Axinn (JD1) Morry Davis (JD1) Paul Grindle (JD2) Gary Popkin (JD2) Evan Lebrecht (JD3) Justin Carman (JD3) Vacant (JD4) Vacant (JD4) Vacant (JD4) Daniel Castello (JD5) James Fitch (JD5) E. Rose Leatherman (JD5) Mark Braiman (JD6) Charles Dorgan (JD6) Samuel Hordeski (JD6) Steven Becker (JD7) Justin Pelletier (JD7) Sean Phelan (JD7) Vacant (JD7) Maura Botsford (JD8)",
+   "lines": [
+    "Mark Axinn (JD1)",
+    "Morry Davis (JD1)",
+    "Paul Grindle (JD2)",
+    "Gary Popkin (JD2)",
+    "Evan Lebrecht (JD3)",
+    "Justin Carman (JD3)",
+    "Vacant (JD4)",
+    "Vacant (JD4)",
+    "Vacant (JD4)",
+    "Daniel Castello (JD5)",
+    "James Fitch (JD5)",
+    "E. Rose Leatherman (JD5)",
+    "Mark Braiman (JD6)",
+    "Charles Dorgan (JD6)",
+    "Samuel Hordeski (JD6)",
+    "Steven Becker (JD7)",
+    "Justin Pelletier (JD7)",
+    "Sean Phelan (JD7)",
+    "Vacant (JD7)",
+    "Maura Botsford (JD8)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     54,
+     147,
+     false,
+     false
+    ],
+    [
+     54,
+     151,
+     false,
+     false
+    ],
+    [
+     54,
+     152,
+     false,
+     false
+    ],
+    [
+     54,
+     152,
+     false,
+     false
+    ],
+    [
+     54,
+     163,
+     false,
+     false
+    ],
+    [
+     54,
+     165,
+     false,
+     false
+    ],
+    [
+     54,
+     122,
+     false,
+     false
+    ],
+    [
+     54,
+     122,
+     false,
+     false
+    ],
+    [
+     54,
+     122,
+     false,
+     false
+    ],
+    [
+     54,
+     167,
+     false,
+     false
+    ],
+    [
+     54,
+     153,
+     false,
+     false
+    ],
+    [
+     54,
+     194,
+     false,
+     false
+    ],
+    [
+     54,
+     162,
+     false,
+     false
+    ],
+    [
+     54,
+     169,
+     false,
+     false
+    ],
+    [
+     54,
+     178,
+     false,
+     false
+    ],
+    [
+     54,
+     164,
+     false,
+     false
+    ],
+    [
+     54,
+     168,
+     false,
+     false
+    ],
+    [
+     54,
+     154,
+     false,
+     false
+    ],
+    [
+     54,
+     125,
+     false,
+     false
+    ],
+    [
+     54,
+     170,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p8b5",
+   "page": 8,
+   "bbox": [
+    312,
+    373,
+    499,
+    712
+   ],
+   "font": "Roboto-Bold",
+   "size": 12.0,
+   "bold": true,
+   "italic": false,
+   "text": "Andrew Kolstee (JD8) Wendi Szabo (JD8) Duane Whitmer (JD8) Vacant (JD8) Pietro Geraci (JD9) Catrina Rocco (JD9) William Schmidt (JD9) Jonathan Gunther (JD10) Vincent O’Neill (JD10) Christian Padgett (JD10) Robert Schuon (JD10) Blay Tarnoff (JD10) Vacant (JD10) Irwin Mark Weinblatt (JD11) Vacant (JD11) Vacant (JD12) Susan Overeem-Cummings (JD13) Chance Haywood (ex-officio) Richard Purtell (ex-officio) Christopher Skelly (ex-officio)",
+   "lines": [
+    "Andrew Kolstee (JD8)",
+    "Wendi Szabo (JD8)",
+    "Duane Whitmer (JD8)",
+    "Vacant (JD8)",
+    "Pietro Geraci (JD9)",
+    "Catrina Rocco (JD9)",
+    "William Schmidt (JD9)",
+    "Jonathan Gunther (JD10)",
+    "Vincent O’Neill (JD10)",
+    "Christian Padgett (JD10)",
+    "Robert Schuon (JD10)",
+    "Blay Tarnoff (JD10)",
+    "Vacant (JD10)",
+    "Irwin Mark Weinblatt (JD11)",
+    "Vacant (JD11)",
+    "Vacant (JD12)",
+    "Susan Overeem-Cummings (JD13)",
+    "Chance Haywood (ex-officio)",
+    "Richard Purtell (ex-officio)",
+    "Christopher Skelly (ex-officio)"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     312,
+     429,
+     false,
+     false
+    ],
+    [
+     312,
+     418,
+     false,
+     false
+    ],
+    [
+     312,
+     427,
+     false,
+     false
+    ],
+    [
+     312,
+     380,
+     false,
+     false
+    ],
+    [
+     312,
+     414,
+     false,
+     false
+    ],
+    [
+     312,
+     420,
+     false,
+     false
+    ],
+    [
+     312,
+     433,
+     false,
+     false
+    ],
+    [
+     312,
+     448,
+     false,
+     false
+    ],
+    [
+     312,
+     430,
+     false,
+     false
+    ],
+    [
+     312,
+     445,
+     false,
+     false
+    ],
+    [
+     312,
+     431,
+     false,
+     false
+    ],
+    [
+     312,
+     416,
+     false,
+     false
+    ],
+    [
+     312,
+     386,
+     false,
+     false
+    ],
+    [
+     312,
+     463,
+     false,
+     false
+    ],
+    [
+     312,
+     386,
+     false,
+     false
+    ],
+    [
+     312,
+     386,
+     false,
+     false
+    ],
+    [
+     312,
+     499,
+     false,
+     false
+    ],
+    [
+     312,
+     466,
+     false,
+     false
+    ],
+    [
+     312,
+     453,
+     false,
+     false
+    ],
+    [
+     312,
+     471,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p8b6",
+   "page": 8,
+   "bbox": [
+    226,
+    340,
+    386,
+    364
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "STATE COMMITTEE",
+   "lines": [
+    "STATE COMMITTEE"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     226,
+     386,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p8b7",
+   "page": 8,
+   "bbox": [
+    322,
+    135,
+    546,
+    252
+   ],
+   "font": "Roboto-Regular",
+   "size": 12.0,
+   "bold": false,
+   "italic": false,
+   "text": "Daniel Castello Platform Committee Chair Andrew Kolstee Rules Committee Chair Daniel Castello Strategic Planning Committee Chair Catrina Rocco Conventions Oversight Committee Chair",
+   "lines": [
+    "Daniel Castello",
+    "Platform Committee Chair",
+    "Andrew Kolstee",
+    "Rules Committee Chair",
+    "Daniel Castello",
+    "Strategic Planning Committee Chair",
+    "Catrina Rocco",
+    "Conventions Oversight Committee Chair"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     322,
+     403,
+     true,
+     false
+    ],
+    [
+     322,
+     471,
+     false,
+     false
+    ],
+    [
+     322,
+     406,
+     true,
+     false
+    ],
+    [
+     322,
+     455,
+     false,
+     false
+    ],
+    [
+     322,
+     403,
+     true,
+     false
+    ],
+    [
+     322,
+     524,
+     false,
+     false
+    ],
+    [
+     322,
+     398,
+     true,
+     false
+    ],
+    [
+     322,
+     546,
+     false,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p8b8",
+   "page": 8,
+   "bbox": [
+    362,
+    101,
+    533,
+    125
+   ],
+   "font": "Roboto-Bold",
+   "size": 18.0,
+   "bold": true,
+   "italic": false,
+   "text": "COMMITTEE CHAIRS",
+   "lines": [
+    "COMMITTEE CHAIRS"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     362,
+     533,
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "id": "p8b9",
+   "page": 8,
+   "bbox": [
+    62,
+    721,
+    555,
+    748
+   ],
+   "font": "Roboto-Bold",
+   "size": 20.0,
+   "bold": true,
+   "italic": false,
+   "text": "info@lpny.org www.LPNY.org 866-336-3120",
+   "lines": [
+    "info@lpny.org www.LPNY.org 866-336-3120"
+   ],
+   "hyph_end": false,
+   "lmeta": [
+    [
+     62,
+     555,
+     true,
+     false
+    ]
+   ]
+  }
+ ],
+ "images": [
+  {
+   "id": "p3i0",
+   "page": 3,
+   "bbox": [
+    32,
+    407,
+    580,
+    762
+   ],
+   "hash": "335fd9d5dc368c1b7a4d32599b27deac",
+   "w": 1400,
+   "h": 900,
+   "file": "img/2026-08/p3i0.jpg"
+  }
+ ]
+}

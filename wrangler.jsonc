@@ -1,0 +1,16 @@
+{
+  // Static-assets-only Worker: Cloudflare serves dist/ directly, no Worker code runs.
+  "name": "freeny-archive",
+  // No account_id here, so the repo can stay public: set CLOUDFLARE_ACCOUNT_ID in the shell
+  // (or pick the account when wrangler asks) before deploying. See DEPLOY.md.
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    // /2025/07/ed-clark-1930-2025/ serves that folder's index.html; /about redirects to /about/
+    "html_handling": "auto-trailing-slash",
+    // unknown paths get dist/404.html with a 404 status
+    "not_found_handling": "404-page"
+  },
+  "workers_dev": true,
+  "observability": { "enabled": true }
+}

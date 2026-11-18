@@ -1,0 +1,841 @@
+{
+ "issue": "2026-04",
+ "volume": 55,
+ "number": 4,
+ "articles": [
+  {
+   "title": "Spring 2026 News",
+   "subtitle": null,
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Secretary",
+   "kind": "updates",
+   "tags": [
+    "party business",
+    "convention",
+    "ballot access"
+   ],
+   "counties": [],
+   "summary": "Updates on State Committee applications and elections, the 2026 national convention delegation, the October state convention in Mount Kisco and ballot access bills.",
+   "title_blocks": [
+    "p1b20"
+   ],
+   "byline_blocks": [
+    "p1b21",
+    "p1b22"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p1b0"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p1b1",
+      "p1b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b5",
+      "p1b6"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p1b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b8"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p1b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b11",
+      "p1b17"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p1b18"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b19"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Case for Equalizing All 12 Federal Reserve Banks",
+   "subtitle": null,
+   "author": "Richard Purtell",
+   "author_role": "Legislative Affairs Director",
+   "kind": "article",
+   "tags": [
+    "policy",
+    "opinion"
+   ],
+   "counties": [],
+   "summary": "Richard Purtell argues that giving all 12 regional Federal Reserve Banks equal weight would improve representation, transparency, financial stability and public trust.",
+   "title_blocks": [
+    "p2b0",
+    "p2b1"
+   ],
+   "byline_blocks": [
+    "p2b11"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p2i0",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b4",
+      "p2b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b7",
+      "p2b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b10"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "New York State's Delegation to 2026 Libertarian National Convention",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "article",
+   "tags": [
+    "convention",
+    "national party"
+   ],
+   "counties": [],
+   "summary": "List of New York's 33 delegates and four alternates to the 2026 Libertarian National Convention.",
+   "title_blocks": [
+    "p3b7"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p3b5",
+      "p3b6"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b1",
+      "p3b2",
+      "p3b3",
+      "p3b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b9"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Support the LPNY!",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "ad",
+   "tags": [
+    "fundraising"
+   ],
+   "counties": [],
+   "summary": "A donation ask pointing to LPNY.org/donate.",
+   "title_blocks": [
+    "p3b10"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p3b11"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Three Paths to Ballot Access in New York",
+   "subtitle": null,
+   "author": "James Harris",
+   "author_role": "Suffolk County 2nd Vice-Chair",
+   "kind": "article",
+   "tags": [
+    "ballot access",
+    "opinion"
+   ],
+   "counties": [
+    "Suffolk"
+   ],
+   "summary": "James Harris outlines three ways to gather roughly 60,000 petition signatures: a traveling advocate, grassroots bootstrapping and a lottery-ticket gamble.",
+   "title_blocks": [
+    "p4b0",
+    "p4b1"
+   ],
+   "byline_blocks": [
+    "p4b15"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p4b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b6"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b9",
+      "p4b10"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b12"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b14"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Help Us Get A3312 Passed",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "ad",
+   "tags": [
+    "ballot access",
+    "legislation"
+   ],
+   "counties": [],
+   "summary": "LPNY asks members to urge legislators to pass a bill restoring lower ballot access thresholds.",
+   "title_blocks": [
+    "p4b16"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p4b17",
+      "p4b18",
+      "p4b19",
+      "p4b20",
+      "p4b21",
+      "p4b22",
+      "p4b23"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Start a County Affiliate",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "ad",
+   "tags": [
+    "county affiliates"
+   ],
+   "counties": [],
+   "summary": "LPNY is looking for Libertarians to organize new county affiliates.",
+   "title_blocks": [],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p5b1",
+      "p5b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b3",
+      "p5b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b6"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "County Affiliate News",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "county-news",
+   "tags": [
+    "county affiliates",
+    "events"
+   ],
+   "counties": [],
+   "summary": "Meeting times, places and contacts for LPNY's county affiliates.",
+   "title_blocks": [
+    "p6b1"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p6b2"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b3",
+      "p6b4",
+      "p6b5",
+      "p6b6",
+      "p6b7",
+      "p6b8"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b9"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b10",
+      "p6b11",
+      "p6b12"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b13"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b14",
+      "p6b15",
+      "p6b16"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b17"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b18",
+      "p6b19",
+      "p6b20",
+      "p6b21",
+      "p6b22",
+      "p6b23"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b24"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b25"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b26"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b27",
+      "p6b28",
+      "p6b29",
+      "p6b30",
+      "p6b31"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b32"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b33",
+      "p6b34"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b35"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b36",
+      "p6b37",
+      "p6b38",
+      "p6b39",
+      "p6b40",
+      "p6b41"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b42"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b43",
+      "p6b44",
+      "p6b45",
+      "p6b46",
+      "p6b47",
+      "p6b48"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b49"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b50",
+      "p6b51",
+      "p6b52"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b53"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b54",
+      "p6b55"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b2",
+      "p7b3",
+      "p7b4",
+      "p7b5",
+      "p7b6"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b8"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b9"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b10",
+      "p7b11",
+      "p7b12"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b13"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b14",
+      "p7b15",
+      "p7b16",
+      "p7b17",
+      "p7b18",
+      "p7b19"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b20"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b21",
+      "p7b22",
+      "p7b23",
+      "p7b24"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b25"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b26",
+      "p7b27",
+      "p7b28",
+      "p7b29",
+      "p7b30"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b31"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b32",
+      "p7b33"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b34"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b35"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b36"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b37",
+      "p7b38",
+      "p7b39",
+      "p7b40"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b41"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b42",
+      "p7b43",
+      "p7b44",
+      "p7b45",
+      "p7b46"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b47"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b48",
+      "p7b49",
+      "p7b50",
+      "p7b51",
+      "p7b52",
+      "p7b53",
+      "p7b54"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b55"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b56",
+      "p7b57",
+      "p7b58"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "LPNY Directory",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "directory",
+   "tags": [
+    "party business"
+   ],
+   "counties": [],
+   "summary": "LPNY's executive committee, committee chairs and state committee members.",
+   "title_blocks": [
+    "p8b0"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p8b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b6"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b4",
+      "p8b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b9"
+     ]
+    }
+   ]
+  }
+ ],
+ "skip": [
+  "p1b13",
+  "p1b14",
+  "p1b16",
+  "p1b12",
+  "p1b15",
+  "p2b2",
+  "p3b0",
+  "p4b2",
+  "p5b0",
+  "p6b0",
+  "p7b0",
+  "p8b1"
+ ]
+}

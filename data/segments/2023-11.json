@@ -1,0 +1,1119 @@
+{
+ "issue": "2023-11",
+ "volume": 52,
+ "number": 11,
+ "articles": [
+  {
+   "title": "2023 Election Results: 6 Candidates Win Elections",
+   "author": "Andrew M. Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "elections",
+    "candidates"
+   ],
+   "counties": [
+    "Chautauqua",
+    "Steuben",
+    "Oneida",
+    "Erie"
+   ],
+   "summary": "Six of LPNY's 18 candidates won in the 2023 local elections, including victories in Chautauqua, Steuben, Oneida and Erie counties.",
+   "title_blocks": [
+    "p1b11",
+    "p1b12"
+   ],
+   "byline_blocks": [
+    "p1b13",
+    "p1b14"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p1b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b10",
+      "p1b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b17"
+     ]
+    },
+    {
+     "type": "image",
+     "id": "p1i1",
+     "caption_blocks": []
+    }
+   ],
+   "subtitle": null
+  },
+  {
+   "title": "Empire State Freedom Summit Held at Rail Line in Syracuse",
+   "author": "Andrew M. Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "events",
+    "candidates"
+   ],
+   "counties": [
+    "Onondaga"
+   ],
+   "summary": "A recap of the second Empire State Freedom Summit in Syracuse on November 10-11, 2023, with speakers, presidential candidates and a fundraiser.",
+   "title_blocks": [
+    "p2b4",
+    "p2b5"
+   ],
+   "byline_blocks": [
+    "p2b6",
+    "p2b7"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p2i0",
+     "caption_blocks": [
+      "p2b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b1"
+     ]
+    },
+    {
+     "type": "image",
+     "id": "p2i1",
+     "caption_blocks": []
+    },
+    {
+     "type": "image",
+     "id": "p2i2",
+     "caption_blocks": [
+      "p2b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b2"
+     ]
+    },
+    {
+     "type": "image",
+     "id": "p2i3",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b3"
+     ]
+    },
+    {
+     "type": "image",
+     "id": "p3i0",
+     "caption_blocks": [
+      "p3b1"
+     ]
+    },
+    {
+     "type": "image",
+     "id": "p3i4",
+     "caption_blocks": []
+    },
+    {
+     "type": "image",
+     "id": "p3i3",
+     "caption_blocks": []
+    },
+    {
+     "type": "image",
+     "id": "p3i1",
+     "caption_blocks": [
+      "p3b2"
+     ]
+    },
+    {
+     "type": "image",
+     "id": "p3i2",
+     "caption_blocks": []
+    },
+    {
+     "type": "image",
+     "id": "p3i5",
+     "caption_blocks": [
+      "p3b3"
+     ]
+    }
+   ],
+   "subtitle": null
+  },
+  {
+   "title": "Help Us Get A3312 Reintroduced",
+   "kind": "article",
+   "tags": [
+    "ballot access",
+    "legislation"
+   ],
+   "summary": "LPNY asks members to urge legislators to reintroduce bill A3312, which would lower the vote and petition-signature thresholds for ballot access, in the 2024 session.",
+   "title_blocks": [
+    "p4b1"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p4b2",
+      "p4b3",
+      "p4b4",
+      "p4b5",
+      "p4b6",
+      "p4b7",
+      "p4b8"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "2024 Libertarian National Convention",
+   "kind": "ad",
+   "tags": [
+    "national party",
+    "convention"
+   ],
+   "summary": "Full-page notice pointing readers to LNC2024.com for the 2024 Libertarian National Convention.",
+   "title_blocks": [],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p5b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b2"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "Updates from the Chair",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "updates",
+   "tags": [
+    "party business",
+    "national party",
+    "convention",
+    "legislation"
+   ],
+   "summary": "The chair covers the December State Committee meeting, the 2024 nominating and national conventions, ballot access legislation, the website migration, the petitioning and platform committees.",
+   "title_blocks": [
+    "p6b94"
+   ],
+   "byline_blocks": [
+    "p6b92",
+    "p6b93"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p6b0",
+      "p6b1",
+      "p6b2",
+      "p6b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b5",
+      "p6b6",
+      "p6b7",
+      "p6b8",
+      "p6b9",
+      "p6b10",
+      "p6b11",
+      "p6b12",
+      "p6b13",
+      "p6b14"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b15",
+      "p6b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b17",
+      "p6b18",
+      "p6b19",
+      "p6b20",
+      "p6b21",
+      "p6b22"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b23",
+      "p6b24",
+      "p6b25",
+      "p6b26",
+      "p6b27",
+      "p6b28",
+      "p6b29",
+      "p6b30",
+      "p6b31",
+      "p6b32",
+      "p6b33",
+      "p6b34",
+      "p6b35",
+      "p6b36",
+      "p6b37"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b38",
+      "p6b39",
+      "p6b40",
+      "p6b41",
+      "p6b42"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b43"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b44",
+      "p6b45",
+      "p6b46",
+      "p6b47",
+      "p6b48",
+      "p6b49"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b50",
+      "p6b51",
+      "p6b52",
+      "p6b53",
+      "p6b54",
+      "p6b55",
+      "p6b56",
+      "p6b57"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b58"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b59",
+      "p6b60",
+      "p6b61",
+      "p6b62",
+      "p6b63",
+      "p6b64",
+      "p6b65",
+      "p6b66",
+      "p6b67",
+      "p6b68"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b69"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b70",
+      "p6b71",
+      "p6b72",
+      "p6b73",
+      "p6b74",
+      "p6b75"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b76"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b77",
+      "p6b78",
+      "p6b79",
+      "p6b80",
+      "p6b81",
+      "p6b82"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b83"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b84",
+      "p6b85",
+      "p6b86",
+      "p6b87",
+      "p6b88",
+      "p6b89",
+      "p6b90",
+      "p6b91"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "Donate to the LPNY",
+   "kind": "ad",
+   "tags": [
+    "fundraising"
+   ],
+   "summary": "Donation appeal pointing to lpny.org/donate.",
+   "title_blocks": [
+    "p7b0"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p7b1"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "County Affiliate News",
+   "kind": "county-news",
+   "tags": [
+    "county affiliates",
+    "events"
+   ],
+   "summary": "Meeting dates, places, events and contacts for LPNY county affiliates across the state.",
+   "title_blocks": [
+    "p8b0"
+   ],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p8b2"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b5",
+      "p8b6",
+      "p8b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b9",
+      "p8b10",
+      "p8b11",
+      "p8b12",
+      "p8b13",
+      "p8b14",
+      "p8b15",
+      "p8b16"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b17"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b18",
+      "p8b19",
+      "p8b20",
+      "p8b22",
+      "p8b23",
+      "p8b24",
+      "p8b25",
+      "p8b26",
+      "p8b27",
+      "p8b28"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b29"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b30",
+      "p8b31"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b32"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b33",
+      "p8b34",
+      "p8b35",
+      "p8b36"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b37"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b38",
+      "p8b39",
+      "p8b40"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b41"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b42",
+      "p8b43",
+      "p8b44"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b45"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b46",
+      "p8b47"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b48"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b49",
+      "p8b50"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b51"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b52",
+      "p8b53",
+      "p8b54",
+      "p8b55"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b2",
+      "p9b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b5",
+      "p9b6"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b9",
+      "p9b10",
+      "p9b11",
+      "p9b12",
+      "p9b13"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b14"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b15",
+      "p9b16",
+      "p9b17",
+      "p9b18",
+      "p9b19",
+      "p9b21",
+      "p9b22",
+      "p9b23",
+      "p9b24",
+      "p9b25",
+      "p9b26"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b27"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b28",
+      "p9b29"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b30"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b31",
+      "p9b32"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b33"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b34",
+      "p9b35",
+      "p9b36",
+      "p9b37",
+      "p9b38"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b39"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b40"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b41"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b42",
+      "p9b43",
+      "p9b44",
+      "p9b45"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b46"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b47",
+      "p9b48"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b49"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b50"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b51",
+      "p9b52",
+      "p9b53",
+      "p9b54"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b55"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b56",
+      "p9b57"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p10b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p10b2",
+      "p10b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p10b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p10b5",
+      "p10b6"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p10b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p10b8",
+      "p10b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p10b10"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p10b11",
+      "p10b12",
+      "p10b13"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p10b14"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p10b15",
+      "p10b16",
+      "p10b17",
+      "p10b18",
+      "p10b19"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p10b20"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p10b21",
+      "p10b22"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p10b23"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p10b24",
+      "p10b25",
+      "p10b26"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p10b27"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p10b28",
+      "p10b29"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p10b30"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p10b31",
+      "p10b32"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "Start a County Affiliate",
+   "kind": "ad",
+   "tags": [
+    "county affiliates"
+   ],
+   "summary": "LPNY is looking for Libertarians to organize new county affiliates and can be reached at affiliates@lpny.org.",
+   "title_blocks": [],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p10b33"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b34"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b35"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b36"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "Shop LPNY Merchandise",
+   "kind": "ad",
+   "tags": [
+    "fundraising"
+   ],
+   "summary": "Advertisement for the LPNY merchandise store at LPNYStore.com.",
+   "title_blocks": [
+    "p11b1"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p11b2"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "LPNY Directory",
+   "kind": "directory",
+   "tags": [
+    "party business"
+   ],
+   "summary": "LPNY's executive committee, directors and committee chairs, and state committee members.",
+   "title_blocks": [
+    "p12b0"
+   ],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p12b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b10"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b8",
+      "p12b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b4",
+      "p12b5",
+      "p12b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p12b11"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  }
+ ],
+ "skip": [
+  "p8b21",
+  "p9b20",
+  "p1b0",
+  "p1b1",
+  "p1b2",
+  "p1b3",
+  "p1b4",
+  "p2b0",
+  "p3b0",
+  "p4b0",
+  "p5b0",
+  "p6b95",
+  "p7b2",
+  "p8b1",
+  "p9b0",
+  "p10b0",
+  "p11b0",
+  "p12b1"
+ ]
+}

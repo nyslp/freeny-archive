@@ -1,0 +1,413 @@
+# ISSUE 2025-08  (12 pages)
+
+=== PAGE 1 ===
+[p1b9] (Journal 128; x130-577 y6-177) Free New York
+[p1b10] (Roboto-BoldItalic 12; x36-576 y147-163) The Official Newsletter of the Libertarian Party of New York Vol. 54, No. 8 August 2025
+[p1b15] (Avenir-Black 36; x37-391 y164-224) LATE SUMMER 2025
+[p1b12] (Roboto-Bold 14; x422-558 y176-195) TABLE OF CONTENTS
+[p1b16] (Roboto-Bold 11; x76-167 y216-231) by Andrew Kolstee
+[p1b17] (Roboto-Bold 11; x82-161 y228-243) LPNY Secretary
+[p1b5] (Georgia 11; x221-395 y210-356) Senate bill (S01870) or Assembly bill (A02724), which would reduce the thresholds for independent and third-party ballot access. Both remain in committee and did not move forward i … lymember to express your support for these critical reforms.
+[p1b8] (Roboto-Bold 9; x409-570 y202-310) Later Summer 2025............................. 1 In Memoriam: Donald Silberger........... 2 Support the LPNY!.............................. 3 Orange Co. Community Days............. … ... 10-11 LPNY Directory................................. 12
+[p1b0] (Georgia 11; x36-210 y241-271) Here are the latest updates in the Libertarian Party of New York.
+[p1b2] (Georgia 11; x36-210 y314-459) We have at least two candidates on the ballot this year, Matthew Morgan, running for New York City Council. In Syracuse, the Onondaga County Libertarian Party has cross-endorsed Th …  Please reach out if you would like to help their campaigns.
+[p1b1] (Georgia-Bold 11; x75-169 y285-300) 2025 Candidates
+[p1b13] (Georgia-Bold 11; x416-564 y318-333) 2026 National Convention
+[p1b14] (Georgia 11; x404-579 y347-420) We are still gathering names of those interested in serving as Delegates to the 2026 Libertarian National Convention in Grand Rapids, Michigan. Send to info@lpny.org.
+[p1b7] (Georgia 11; x221-395 y399-515) The Executive Committee is finalizing details for an October in-person event in Rochester. The full anouncement will be sent when details are finalized. If you have recommendations or would like to assist in planning, please reach out to us at info@lpny.org.
+[p1b6] (Georgia-Bold 11; x248-364 y370-385) Fall In-Person Event
+[p1b3] (Georgia-Bold 11; x70-173 y473-488) Ballot Access Bills
+[p1b4] (Georgia 11; x36-210 y502-517) There are still no updates on the
+[p1b18] (Roboto-Bold 60; x77-539 y596-676) LPNY.org/donate
+[p1b11] (Roboto-Bold 16; x452-576 y756-777) AUGUST 2025 | 1
+
+=== PAGE 2 ===
+[p2i0] IMAGE at x34-261 y34-324
+[p2b64] (Lora-Bold 30; x311-512 y61-100) In Memoriam
+[p2b65] (Lora-Bold 61; x276-543 y92-233) Donald Silberger
+[p2b66] (Lora-Bold 30; x337-483 y247-286) 1930-2025
+[p2b0] (Georgia 11; x36-211 y328-343) The Libertarian Party of New York
+[p2b1] (Georgia 11; x36-208 y345-360) mourns the loss of longtime par
+[p2b22] (Georgia 11; x220-395 y328-343) of Washington, and earned his PhD
+[p2b23] (Georgia 11; x220-298 y345-360) in mathematics.
+[p2b44] (Georgia 11; x404-579 y328-343) Michael Badnarik (2004), and Bob
+[p2b45] (Georgia 11; x404-466 y345-360) Barr (2008).
+[p2b2] (Georgia 11; x36-211 y362-377) ty activist and candidate, Donald
+[p2b3] (Georgia 11; x36-211 y379-394) “Don” Silberger, who died on July
+[p2b4] (Georgia 11; x36-161 y396-411) 22, 2025, at the age of 95.
+[p2b24] (Georgia 11; x220-392 y379-394) He became a mathematics profes
+[p2b25] (Georgia 11; x220-395 y396-411) sor at SUNY New Paltz, where he
+[p2b46] (Georgia 11; x404-579 y379-394) Within the Libertarian Party of
+[p2b47] (Georgia 11; x404-579 y396-411) New York, Silberger served in many
+[p2b5] (Georgia 11; x36-208 y430-445) He was deeply involved in the Lib
+[p2b26] (Georgia 11; x220-395 y413-428) also served as faculty advisor for a
+[p2b27] (Georgia 11; x220-395 y430-445) college libertarian group in the late
+[p2b48] (Georgia 11; x404-579 y413-428) leadership roles. He was Chair and
+[p2b49] (Georgia 11; x404-576 y430-445) State Representative for the Hud
+[p2b6] (Georgia 11; x36-211 y447-462) ertarian Party of New York, serving
+[p2b7] (Georgia 11; x36-211 y464-479) as a candidate for statewide office
+[p2b28] (Georgia 11; x220-392 y447-462) 1990s. He discovered libertarian
+[p2b29] (Georgia 11; x220-392 y464-479) ism around 1991 and quickly be
+[p2b50] (Georgia 11; x404-579 y447-462) son Valley Libertarian Party during
+[p2b51] (Georgia 11; x404-579 y464-479) the 1990s and early 2000s. He was
+[p2b8] (Georgia 11; x36-208 y481-496) multiple times, a Presidential Elec
+[p2b9] (Georgia 11; x36-211 y498-513) tor in several national elections, and
+[p2b10] (Georgia 11; x36-211 y515-530) holding leadership roles locally and
+[p2b30] (Georgia 11; x220-392 y481-496) came an active member of the Lib
+[p2b31] (Georgia 11; x220-291 y498-513) ertarian Party.
+[p2b52] (Georgia 11; x404-576 y481-496) elected three times as a Member-
+[p2b53] (Georgia 11; x404-579 y498-513) at-Large of the State Committee
+[p2b54] (Georgia 11; x404-579 y515-530) (2001-2002; 2006-2008) and later
+[p2b11] (Georgia 11; x36-211 y532-547) on the State Committee, including
+[p2b12] (Georgia 11; x36-207 y549-564) a term as a Vice-Chair of the party.
+[p2b32] (Georgia 11; x220-395 y532-547) He ran for public office several times
+[p2b33] (Georgia 11; x220-395 y549-564) as a Libertarian. In 1998, he was
+[p2b55] (Georgia 11; x404-579 y532-547) served as Vice-Chair of the LPNY
+[p2b56] (Georgia 11; x404-495 y549-564) from 2010 to 2011.
+[p2b13] (Georgia 11; x36-211 y583-598) Silberger was born on February 26,
+[p2b34] (Georgia 11; x220-395 y566-581) the party’s nominee for Lieutenant
+[p2b35] (Georgia 11; x220-395 y583-598) Governor of New York alongside
+[p2b57] (Georgia 11; x404-576 y583-598) In his 2004 U.S. Senate campi
+[p2b14] (Georgia 11; x36-211 y600-615) 1930, in York, Pennsylvania and
+[p2b15] (Georgia 11; x36-211 y617-632) graduated from York High School.
+[p2b16] (Georgia 11; x36-211 y634-649) He earned a scholarship to Harvard
+[p2b36] (Georgia 11; x220-392 y600-615) gubernatorial candidate Chris Gar
+[p2b37] (Georgia 11; x220-395 y617-632) vey. He ran again for Lieutenant
+[p2b38] (Georgia 11; x220-392 y634-649) Governor in 2006 with guberna
+[p2b58] (Georgia 11; x404-576 y600-615) ang website autobiography, he de
+[p2b59] (Georgia 11; x404-576 y617-632) scribed himself as a “former self-de
+[p2b60] (Georgia 11; x404-579 y634-649) clared liberal” who realized that
+[p2b17] (Georgia 11; x36-211 y651-666) University and attended medical
+[p2b18] (Georgia 11; x36-211 y668-683) school, later teaching high school
+[p2b39] (Georgia 11; x220-395 y651-666) torial candidate John Clifton. In
+[p2b40] (Georgia 11; x220-395 y668-683) 2004, he was the party’s candidate
+[p2b61] (Georgia 11; x404-579 y651-666) libertarianism better represented
+[p2b62] (Georgia 11; x404-506 y668-683) his long-held values.
+[p2b19] (Georgia 11; x36-211 y685-700) physics and chemistry for two years
+[p2b20] (Georgia 11; x36-211 y702-717) in East Cleveland. He then pursued
+[p2b21] (Georgia 11; x36-211 y719-734) graduate studies at the University
+[p2b41] (Georgia 11; x220-395 y685-700) for U.S. Senate. He also served as
+[p2b42] (Georgia 11; x220-395 y702-717) a Libertarian Presidential Elector
+[p2b43] (Georgia 11; x220-395 y719-734) for Harry Browne (1996, 2000),
+[p2b63] (Roboto-Bold 16; x36-180 y756-777) 2 | FREE NEW YORK
+
+=== PAGE 3 ===
+[p3b9] (Avenir-Black 52; x40-572 y33-119) SUPPORT THE LPNY!
+[p3b10] (Roboto-Bold 11; x56-188 y114-140) by Mark Axinn LPNY Fundraising Director
+[p3b3] (Georgia 11; x220-395 y110-293) To start, we can continue to support Libertarian candidates and causes as an alternative to the big government welfare/warfare world which we currently encounter everywhere we look … id that all his life, and we should too to honor his memory.
+[p3b5] (Georgia 11; x404-579 y110-153) tyrants from imposing even worse nanny-state despotism than they already have.
+[p3b1] (Georgia 11; x36-211 y154-295) I am saddened to report the passing of a good friend and great Libertarian, Donald Silberger. Donald was 95, living in New Paltz where he had retired from teaching mathematics at S … ejudice against anyone who does not tow the government line.
+[p3b6] (Georgia 11; x404-579 y166-237) Of course that takes money. Please join me and donate to the Libertarian Party of New York today. You can do it easily on the website at LPNY.org
+[p3b7] (Georgia 11; x404-579 y250-307) Please send a donation today in Donald’s memory. You will feel so much better than when paying taxes.
+[p3b2] (Georgia 11; x36-131 y308-323) So what can we do?
+[p3b4] (Georgia 11; x220-395 y306-349) We are a small sound of sanity in a sea of statism, and it is important for us to keep at it to prevent the
+[p3b8] (Georgia 11; x404-487 y320-335) Thanks so much!
+[p3b11] (MinionPro-Bold 62; x61-551 y390-550) Support the LPNY and Donate!
+[p3b12] (MinionPro-Bold 62; x81-531 y613-699) LPNY.org/donate
+[p3b0] (Roboto-Bold 16; x452-576 y756-777) AUGUST 2025 | 3
+
+=== PAGE 4 ===
+[p4b22] (Avenir-Black 28; x43-569 y39-85) ORANGE COUNTY COMMUNITY DAYS
+[p4b20] (Roboto-Bold 11; x58-186 y91-130) by Pietro Geraci LPNY Outreach Director Orange County Vice-Chair
+[p4b5] (Georgia 11; x220-395 y88-103) event was well-attended and many
+[p4b6] (Georgia 11; x220-395 y105-120) people stopped by the table to learn
+[p4b13] (Georgia 11; x404-579 y88-103) Smallest Political Quiz. We hope to
+[p4b14] (Georgia 11; x404-576 y105-120) see some of them at our next meet
+[p4b0] (Georgia 11; x36-211 y132-147) The Orange County Libertarian
+[p4b1] (Georgia 11; x36-208 y149-164) Party braved torrential rains to re
+[p4b7] (Georgia 11; x220-395 y122-137) more about the who we are and
+[p4b8] (Georgia 11; x220-395 y139-154) how we’re working to improve the
+[p4b9] (Georgia 11; x220-395 y156-171) political landscape and win back
+[p4b15] (Georgia 11; x404-422 y122-137) ing.
+[p4b16] (Georgia 11; x404-579 y156-171) Special thanks to Becca Gente for
+[p4b2] (Georgia 11; x36-211 y166-181) cruit new members at the Town of
+[p4b3] (Georgia 11; x36-211 y183-198) Newburgh Community Day last
+[p4b10] (Georgia 11; x220-395 y173-188) people’s liberties. People obtained
+[p4b11] (Georgia 11; x220-395 y190-205) raffle tickets by signing up for our
+[p4b17] (Georgia 11; x404-579 y173-188) putting the gift baskets together
+[p4b18] (Georgia 11; x404-579 y190-205) and to Daniel Donnelly of Dutchess
+[p4b4] (Georgia 11; x36-211 y200-215) month. Despite the weather, the
+[p4b79] (Avenir-Black 112; x36-576 y210-396) U.S. DEBT
+[p4b12] (Georgia 11; x220-395 y207-222) email list and/or taking the World’s
+[p4b19] (Georgia 11; x404-576 y207-222) County for tabling with our affiliate.
+[p4b39] (Georgia 11; x220-395 y356-371) group, and by more, I mean not only
+[p4b60] (Georgia 11; x404-579 y356-371) deficits and under Republican rule
+[p4b80] (Roboto-Bold 11; x75-169 y360-386) by Rick Miller Contributing Writer
+[p4b40] (Georgia 11; x220-395 y373-388) number of dollars but percentages
+[p4b41] (Georgia 11; x220-395 y390-405) as well. That’s not to deny there are
+[p4b61] (Georgia 11; x404-484 y373-388) we get the same.
+[p4b23] (Georgia 11; x36-199 y400-415) ‘If only the rich paid their taxes…’
+[p4b24] (Georgia 11; x36-211 y434-449) ‘If we put illegal immigrants in
+[p4b42] (Georgia 11; x220-395 y407-422) some deductions (loopholes if you
+[p4b43] (Georgia 11; x220-383 y424-439) prefer) that should be eliminated.
+[p4b62] (Georgia 11; x404-579 y407-422) One of the well-thought-out online
+[p4b63] (Georgia 11; x404-579 y424-439) views about U.S. debt is from the
+[p4b25] (Georgia 11; x36-208 y451-466) 4-star hotels instead of 5-star ho
+[p4b26] (Georgia 11; x36-211 y468-483) tels the country wouldn’t have these
+[p4b44] (Georgia 11; x220-392 y458-473) What about those illegals destroy
+[p4b45] (Georgia 11; x220-395 y475-490) ing government budgets because
+[p4b64] (Georgia 11; x404-576 y441-456) University of Pennsylvania busi
+[p4b65] (Georgia 11; x404-579 y458-473) ness school. It concluded we have
+[p4b66] (Georgia 11; x404-579 y475-490) maybe 20 years to get our fiscal
+[p4b27] (Georgia 11; x36-84 y485-500) problems’
+[p4b28] (Georgia 11; x36-211 y519-534) I looked online to see what opinions
+[p4b46] (Georgia 11; x220-395 y492-507) we spend so much money on them?
+[p4b47] (Georgia 11; x220-395 y509-524) It is easy to blame this group. What
+[p4b67] (Georgia 11; x404-579 y492-507) house in order to avoid the financial
+[p4b68] (Georgia 11; x404-576 y509-524) catastrophe of debt default. Anoth
+[p4b29] (Georgia 11; x36-208 y536-551) there were about the U.S. default
+[p4b30] (Georgia 11; x36-208 y553-568) ing on its debt. There were well-
+[p4b48] (Georgia 11; x220-395 y526-541) we spend on illegal immigrants
+[p4b49] (Georgia 11; x220-395 y543-558) is small compared to government
+[p4b69] (Georgia 11; x404-579 y526-541) er is a Brookings Institute survey of
+[p4b70] (Georgia 11; x404-576 y543-558) the debt and how serious our prob
+[p4b31] (Georgia 11; x36-211 y570-585) thought-out views and there were
+[p4b32] (Georgia 11; x36-135 y587-602) views such as above.
+[p4b50] (Georgia 11; x220-392 y560-575) spending on defense, Social Secu
+[p4b51] (Georgia 11; x220-395 y577-592) rity, Medicare, and Medicaid. We
+[p4b52] (Georgia 11; x220-395 y594-609) must address these programs if we
+[p4b71] (Georgia 11; x404-441 y560-575) lem is.
+[p4b72] (Georgia 11; x404-579 y594-609) The government can avoid default
+[p4b33] (Georgia 11; x36-211 y621-636) The quoted views are emotional
+[p4b34] (Georgia 11; x36-211 y638-653) conclusions. If only people would
+[p4b53] (Georgia 11; x220-392 y611-626) hope to get control of our govern
+[p4b54] (Georgia 11; x220-395 y628-643) ment’s dangerous fiscal condition,
+[p4b73] (Georgia 11; x404-579 y611-626) for a time by creating more money.
+[p4b74] (Georgia 11; x404-579 y628-643) That is, of course, a catastrophe; it
+[p4b35] (Georgia 11; x36-208 y655-670) do a fact check before making state
+[p4b36] (Georgia 11; x36-135 y672-687) ments such as these.
+[p4b55] (Georgia 11; x220-347 y645-660) by which I mean its debt.
+[p4b56] (Georgia 11; x220-395 y679-694) I cite these examples to illustrate
+[p4b75] (Georgia 11; x404-579 y645-660) is simply a postponed default that
+[p4b76] (Georgia 11; x404-576 y662-677) creates conditions such as Zimba
+[p4b77] (Georgia 11; x404-576 y679-694) bwe and The Weimar Republic ex
+[p4b37] (Georgia 11; x36-211 y706-721) With respect to the rich; the rich
+[p4b57] (Georgia 11; x220-392 y696-711) how the left and right use scape
+[p4b58] (Georgia 11; x220-392 y713-728) goats. The fact is that under Dem
+[p4b78] (Georgia 11; x404-455 y696-711) perienced.
+[p4b21] (Roboto-Bold 16; x36-180 y756-777) 4 | FREE NEW YORK
+[p4b38] (Georgia 11; x36-211 y723-738) do pay more taxes than any other
+[p4b59] (Georgia 11; x220-395 y730-745) ocratic rule we get $2 trillion dollar
+
+=== PAGE 5 ===
+[p5b1] (Avenir-Black 35; x79-546 y51-109) HELP US GET A02724 AND
+[p5b2] (Avenir-Black 35; x173-442 y93-151) S01870 PASSED
+[p5b3] (Avenir-Black 28; x59-565 y155-201) These bills, if passed would lower the
+[p5b4] (Avenir-Black 28; x71-552 y188-234) ballot access thresholds back to the
+[p5b5] (Avenir-Black 28; x58-566 y221-333) previous standards: the number of votes needed to get ballot access to 50,000 (from 130,000
+[p5b7] (Avenir-Black 28; x92-531 y353-432) signature requirement for a statewide office to 15,000 (from
+[p5b6] (Avenir-Black 28; x107-508 y320-366) or 2%), and lower the petition
+[p5b8] (Avenir-Black 28; x253-362 y419-465) 45,000).
+[p5b9] (Avenir-Black 28; x72-551 y485-564) Contact your representatives in the New York State Legislature and ask
+[p5b10] (Avenir-Black 28; x178-437 y551-597) them to these bills!
+[p5b11] (Avenir-Black 28; x74-549 y617-663) Contact Legislative Affairs Director
+[p5b12] (Avenir-Black 28; x60-555 y650-729) Rich Purtell at rpurtell@lpny.org to get involved with pushing these bills.
+[p5b0] (Roboto-Bold 16; x452-576 y756-777) AUGUST 2025 | 5
+
+=== PAGE 6 ===
+[p6b1] (Roboto-Bold 31; x72-543 y147-188) See pages 6-7 for County Reports
+[p6b2] (Roboto-Bold 31; x107-508 y247-288) Don’t see your county listed?
+[p6b3] (Roboto-Bold 31; x94-521 y347-388) We are looking for Libertarians
+[p6b4] (Roboto-Bold 31; x73-542 y397-438) to organize new County Affiliates!
+[p6b5] (Roboto-Bold 31; x114-501 y497-538) Contact us for more details!
+[p6b6] (Roboto-Bold 31; x176-439 y597-638) affiliates@lpny.org
+[p6b0] (Roboto-Bold 16; x36-180 y756-777) 6 | FREE NEW YORK
+
+=== PAGE 7 ===
+[p7i0] IMAGE at x36-576 y36-754
+[p7b0] (Roboto-Bold 16; x452-576 y756-777) AUGUST 2025 | 7
+
+=== PAGE 8 ===
+[p8b22] (Avenir-Black 53; x37-575 y18-106) EDUCATION CHOICE
+[p8b23] (Avenir-Black 46; x36-576 y70-147) AND PROPERTY RIGHTS
+[p8b24] (Roboto-Bold 11; x40-204 y141-168) by Vincent O’Neill State Committee Member (JD10)
+[p8b8] (Georgia 11; x220-313 y138-153) Ludwig Von Mises:
+[p8b16] (Georgia 11; x404-579 y138-185) school tax for any first through 12th grade year that you have children in private schools.
+[p8b1] (Georgia 11; x36-211 y182-229) Property Rights will be improved through creating educational choice based on the withdrawal of consent.
+[p8b9] (Georgia 11; x220-395 y170-409) “The school thus becomes the source of irreconcilable national conflict and ‘a political prize of highest importance.’ With respect to the debate over compulsory education, Mises e … . Joseph Salerno, “Nation, Migration, and Trade,” pp. 14-15.
+[p8b17] (Georgia 11; x404-579 y202-281) The school tax resumes for these people after their children graduate, since they previously consented to the public school system through their previous attendance.
+[p8b2] (Georgia 11; x36-211 y246-277) The purpose of Public Schools is control, not education.
+[p8b3] (Georgia 11; x36-211 y294-389) The issue of educational choice, and the related question of educational quality, is supremely important. Two proposed solutions fail to address the real problem, while also creating additional problems.
+[p8b18] (Georgia 11; x404-579 y298-361) 3. Businesses should NOT pay the school tax. Only individuals who have been or currently are part of the system should pay.
+[p8b19] (Georgia 11; x404-579 y378-489) Businesses are not people and have therefore never consented. The school tax portion of the property tax should either be entirely eliminated immediately, or steadily reduced as part of a longer term complete phase out.
+[p8b4] (Georgia 11; x36-211 y406-469) One proposal to address the issue is through the use of ‘tuition tax credits’; another is through “charter schools.”
+[p8b10] (Georgia 11; x220-392 y426-457) The proper solution therefore becomes obvious.
+[p8b11] (Georgia 11; x220-395 y474-537) The basis for addressing the issues of school and property tax and educational choice is the withdrawal of consent.
+[p8b5] (Georgia 11; x36-211 y486-581) A variable tax credit will leave taxpayers continually at the mercy of Republicans and Democrats. Varying levels of ‘tax credits’ will continually be manipulated to the detriment of everyone.
+[p8b20] (Georgia 11; x404-579 y506-537) It is important to make a good start in this direction.
+[p8b12] (Georgia-Bold 11; x239-373 y553-569) Withdrawal of Consent,
+[p8b21] (Georgia 11; x404-579 y554-681) An example would be steady 5% or 10% reductions each year, for a minimum of 6 consecutive years. This will provide a large and steady tax reduction, improve business profitability, …  opportunities, and increase competition between localities.
+[p8b6] (Georgia 11; x36-211 y598-709) The problem with “charter schools” is that although they are currently marginally better than public schools, they are continually lowering their quality and amount to little more than a Trojan horse to end private schools altogether.
+[p8b13] (Georgia-Bold 11; x239-373 y569-601) the School Tax and Educational Choice
+[p8b14] (Georgia 11; x220-395 y618-681) 1. If you never attended public schools, you never consented to them, and should be exempt from school tax.
+[p8b15] (Georgia 11; x220-395 y698-745) 2. If you attended public schools but have children in private schools instead, you will be exempt from the
+[p8b0] (Roboto-Bold 16; x36-180 y756-777) 8 | FREE NEW YORK
+[p8b7] (Georgia 11; x36-211 y726-741) The problem was summed up by
+[p8b25] (Roboto-Bold 12; x431-549 y720-736) (continued on page 9)
+
+=== PAGE 9 ===
+[p9b1] (Georgia-Bold 11; x50-194 y64-79) Charter School Phase Out
+[p9b32] (Roboto-Bold 12; x57-187 y44-60) (continued from page 8)
+[p9b14] (Georgia 11; x220-395 y41-104) to send his child to a psychologist, they are free to do so and accept the cost. School employees are not qualified to make this judgement.
+[p9b25] (Georgia 11; x404-512 y41-56) improving your home.
+[p9b26] (Georgia 11; x404-579 y73-136) All of these factors provide Republicans and Democrats excuses to raise your property tax without a vote.
+[p9b2] (Georgia 11; x36-208 y96-127) Charter schools are currently taxpayer-funded.
+[p9b3] (Georgia 11; x36-211 y144-191) Charter schools must move away from public funding and towards fully private funding.
+[p9b15] (Georgia 11; x220-395 y121-152) Pensions, when not required by law, should not be provided.
+[p9b27] (Georgia-Bold 11; x447-533 y153-168) Assessed Value
+[p9b16] (Georgia 11; x220-395 y169-232) B. Ask graduates of the school, and others who live in the school district, for voluntary contributions to make up the revenue loss.
+[p9b28] (Georgia 11; x404-579 y185-232) The major change is this. The assessed value should be the price you paid for the home. Period.
+[p9b4] (Georgia 11; x36-211 y208-239) An arithmetical progression will provide the foundation.
+[p9b5] (Georgia 11; x36-211 y256-335) Charter schools taxpayer funding will be reduced by 1% per year for first 3 years, 2% per year for next 3 years, 3% for next 3 years, 4% for next 3 years, etc.
+[p9b17] (Georgia 11; x220-395 y249-264) C. Reduce the number of employees
+[p9b29] (Georgia 11; x404-579 y249-312) It will not constantly increase so Republicans and Democrats can perpetually raise our taxes without a vote.
+[p9b18] (Georgia 11; x220-395 y281-344) The U.S. Department of Education reports that since 1950, the number of K-12 public school students has increased 96%.
+[p9b6] (Georgia 11; x36-211 y352-399) The charter schools will gradually raise the tuition charged, and also ask for private donations.
+[p9b30] (Georgia 11; x404-579 y329-360) This one item gives everyone a property tax cut.
+[p9b19] (Georgia 11; x220-392 y361-392) The number of public school teachers increased 243%.
+[p9b31] (Georgia 11; x404-579 y377-408) State and local taxes should be cut at the state and local level.
+[p9b7] (Georgia-Bold 11; x53-191 y416-431) Funding for Grades K-12
+[p9b20] (Georgia 11; x220-395 y409-472) The total number of public school employees has increased by 709%, according to the Heritage Foundation.
+[p9b8] (Georgia 11; x36-211 y448-479) Current taxpayer funding is the limit.
+[p9b9] (Georgia 11; x36-143 y496-511) A. Cutting the Budget
+[p9b21] (Georgia-Bold 11; x236-376 y489-520) The Current System of Property Assessments
+[p9b10] (Georgia 11; x36-211 y528-591) Funding will be eliminated for the following expenses: Transportation, School Psychologist and Pensions.
+[p9b22] (Georgia 11; x220-342 y537-552) Changes in Market Value
+[p9b23] (Georgia 11; x220-395 y569-680) Yearly property tax assessments are based on ‘estimated market value of a property.’ Market values can fluctuate due to various factors, including the local real estate market, economic conditions, and recent sales of comparable homes.
+[p9b11] (Georgia 11; x36-211 y608-655) Transportation in particular is a large and lucrative market requiring competition.
+[p9b12] (Georgia 11; x36-208 y672-703) The purpose of a school psychologist is to protect teaching failures.
+[p9b24] (Georgia 11; x220-395 y697-744) In addition, improvements and alterations increase assessed value. You are penalized financially for
+[p9b13] (Georgia 11; x36-211 y720-735) On the other hand, if a parent wants
+[p9b0] (Roboto-Bold 16; x452-576 y756-777) AUGUST 2025 | 9
+
+=== PAGE 10 ===
+[p10b1] (Avenir-Black 42; x37-575 y25-94) COUNTY AFFILIATE NEWS
+[p10b3] (Georgia-Bold 12; x60-184 y109-154) CONTACT: Kim Antonio, Acting County Chair
+[p10b2] (Roboto-Bold 18; x92-152 y82-106) BRONX
+[p10b20] (Georgia 12; x232-380 y112-143) NEXT MEETING: Sat., Sept. 20, 2025 @ 5 PM
+[p10b19] (Roboto-Bold 18; x260-352 y85-109) DUTCHESS
+[p10b38] (Georgia 12; x413-567 y112-143) NEXT MEETING: Thurs., Sept. 4, 2025 @ 7 PM
+[p10b37] (Roboto-Bold 18; x452-528 y85-109) MONROE
+[p10b21] (Georgia 12; x224-388 y141-185) Village Restaurant & Pancake Factory 1540 Route 44, Pleasant Valley
+[p10b39] (Georgia 12; x430-550 y141-171) (first Thursdays) Contact us for the link.
+[p10b5] (Georgia 12; x38-206 y193-224) NEXT MEETING: Tues., Sept. 9, 2025 @ 7:00 PM
+[p10b4] (Roboto-Bold 18; x63-181 y166-190) CHAUTAUQUA
+[p10b22] (Georgia 12; x264-348 y183-199) (3rd Saturdays)
+[p10b40] (Georgia-Bold 12; x430-550 y182-213) CONTACT: Steve Becker, Chair
+[p10b6] (Georgia 12; x73-171 y221-252) on Zoom (second Tuesdays)
+[p10b23] (Georgia-Bold 11.6; x232-380 y210-255) CONTACT: Robert Cocomello, Chair Catrina Rocco, Vice-Chair
+[p10b42] (Georgia 12; x415-565 y238-283) LEARN MORE: monroecountylp.org Ask about the Google Group
+[p10b41] (Georgia 12; x438-542 y211-227) drsbecker@aol.com
+[p10b7] (Georgia-Bold 12; x52-192 y263-294) CONTACT: Andrew Kolstee, Chair
+[p10b24] (Georgia 12; x233-379 y253-269) info@dutchesscountylp.org
+[p10b9] (Georgia 12; x58-186 y319-350) LEARN MORE: www.chautauquaLP.org
+[p10b8] (Georgia 12; x73-171 y291-308) akolstee@lpny.org
+[p10b25] (Georgia 12; x249-363 y280-311) LEARN MORE: dutchesscountylp.org
+[p10b43] (Georgia 12; x438-542 y281-297) and social meetings
+[p10b44] (Roboto-Bold 18; x455-525 y309-333) NASSAU
+[p10b10] (Georgia 12; x63-181 y347-364) fb.com/chautauquaLP
+[p10b27] (Georgia-Bold 12; x232-380 y350-395) CONTACT: Duane Whitmer, Chair chairman@eriecountylp.org
+[p10b26] (Roboto-Bold 18; x287-325 y323-347) ERIE
+[p10b45] (Georgia 12; x411-569 y336-367) NEXT MEETING: Thurs., Sept. 11, 2025 at 7 PM
+[p10b11] (Roboto-Bold 18; x78-166 y376-400) CHEMUNG
+[p10b46] (Georgia 12; x439-541 y365-381) @ Landmark Diner
+[p10b47] (Georgia 12; x446-534 y379-395) (2nd Thursdays)
+[p10b12] (Georgia-Bold 12; x60-184 y403-448) CONTACT: Nick Grasso, Chair ngrasso89@yahoo.com
+[p10b28] (Roboto-Bold 18; x225-387 y407-431) KINGS (BROOKLYN)
+[p10b29] (Georgia 12; x229-383 y434-465) NEXT MEETING: Tues., Sept. 16, 2025 at 3 PM
+[p10b48] (Georgia-Bold 12; x405-575 y406-465) CONTACT: Jon Gunther, Executive Committee Chair jonguntherlibertarian@gmail.com
+[p10b13] (Georgia-Bold 12; x75-169 y459-476) LEARN MORE:
+[p10b14] (Georgia 12; x82-162 y473-490) lpchemung.org
+[p10b30] (Georgia 12; x224-388 y463-493) @ Fourth Avenue Pub 76 4th Ave, Brooklyn, NY 11217
+[p10b49] (Georgia-Bold 12; x414-566 y476-507) Blay Tarnoff, County Committee Chair
+[p10b15] (Roboto-Bold 18; x77-167 y502-526) COLUMBIA
+[p10b32] (Georgia-Bold 12; x228-384 y518-549) CONTACT: Christopher Skelly, Chair
+[p10b31] (Georgia 12; x266-346 y491-507) (3rd Tuesdays)
+[p10b50] (Georgia 12; x442-538 y505-521) LPNY@eblay.com
+[p10b16] (Georgia 12; x46-198 y529-560) NEXT MEETING: Wed., Sept. 17, 2025 @ 7 PM
+[p10b17] (Georgia 12; x70-174 y557-588) Google Meet (third Wednesdays)
+[p10b33] (Georgia 12; x261-351 y547-563) cskelly@lpny.org
+[p10b51] (Roboto-Bold 14; x406-574 y536-555) NEW YORK (MANHATTAN)
+[p10b18] (Georgia-Bold 12; x52-192 y599-644) CONTACT: Scott Hoskins, Chair scottdhoskins@gmail.com
+[p10b34] (Roboto-Bold 18; x266-346 y575-599) MADISON
+[p10b52] (Georgia 12; x408-572 y560-591) MONTHLY SOCIAL Wed., Sept. 10, 2025 at 7-9 PM
+[p10b53] (Georgia 12; x432-548 y589-647) @ PubKey Bar 85 Washington Pl. New York, NY 10011 (second Wednesdays)
+[p10b35] (Georgia-Bold 12; x240-372 y602-633) CONTACT: Mark Braiman, Chair
+[p10b36] (Georgia 12; x251-361 y631-647) mbraiman@lpny.org
+[p10b54] (Georgia-Bold 12; x416-564 y658-689) CONTACT: Chance Haywood, Chair
+[p10b55] (Georgia 12; x436-544 y687-703) chaywood@lpny.org
+[p10b0] (Roboto-Bold 16; x36-189 y756-777) 10 | FREE NEW YORK
+
+=== PAGE 11 ===
+[p11b1] (Georgia 12; x78-166 y39-56) (2nd Thursdays)
+[p11b3] (Georgia-Bold 12; x56-188 y67-98) CONTACT: Keith Redhead, Chair
+[p11b2] (Roboto-Bold 18; x90-154 y40-64) ONEIDA
+[p11b23] (Georgia 12; x223-389 y71-101) NEXT MEETING: Wed., Sept. 3, 2025 at 6:30 PM
+[p11b22] (Roboto-Bold 18; x250-362 y44-68) RENSSELAER
+[p11b45] (Georgia 12; x407-573 y71-101) NEXT MEETING: Mon., Sept. 8, 2025 at 6:30 PM
+[p11b44] (Roboto-Bold 18; x457-523 y44-68) ULSTER
+[p11b4] (Georgia 12; x70-174 y95-112) kredhead@lpny.org
+[p11b24] (Georgia 12; x224-388 y99-115) Alexis Diner, North Greenbush
+[p11b25] (Georgia 12; x260-352 y113-129) (1st Wednesdays)
+[p11b46] (Georgia 12; x417-563 y99-115) Hickory BBQ, Kingston, NY
+[p11b47] (Georgia 12; x441-539 y113-129) (second Mondays)
+[p11b6] (Georgia 12; x37-207 y151-182) NEXT MEETING: Wed., Sept. 17, 2025 at 6:30 PM
+[p11b5] (Roboto-Bold 18; x74-170 y124-148) ONONDAGA
+[p11b26] (Georgia-Bold 12; x244-368 y141-185) CONTACT: Jennifer O’Connor, Acting County Chair
+[p11b48] (Georgia-Bold 12; x421-559 y141-185) CONTACT: Sam Kniffen, Chair samkniffen01@gmail.com
+[p11b7] (Georgia 12; x57-187 y179-196) Liverpool Public Library
+[p11b8] (Georgia 12; x74-170 y193-210) (3rd Wednesdays)
+[p11b27] (Georgia 12; x255-357 y183-199) joconnor@lpny.org
+[p11b49] (Georgia 12; x441-539 y197-227) LEARN MORE: www.UlsterLP.org
+[p11b9] (Georgia-Bold 12; x57-187 y221-252) CONTACT: Rachel Becker, Chair
+[p11b28] (Roboto-Bold 15; x222-390 y212-236) RICHMOND (STATEN ISLAND)
+[p11b29] (Georgia 12; x226-386 y239-269) NEXT MEETING: Thurs., Sept. 18, 2025 @ 7 PM
+[p11b10] (Georgia 12; x39-204 y249-280) reb4128@rit.edu onondagacountylp@gmail.com
+[p11b30] (Georgia 12; x239-373 y267-283) @ Coffee and Collectibles
+[p11b51] (Georgia 12; x414-566 y267-297) MONTHLY SOCIAL: Sat., Sept. 27, 2025 at 10 AM
+[p11b50] (Roboto-Bold 18; x459-521 y240-264) WAYNE
+[p11b12] (Georgia-Bold 12; x60-184 y319-364) CONTACT: Nathan Dingey, Acting County Chair
+[p11b11] (Roboto-Bold 18; x84-160 y292-316) ONTARIO
+[p11b32] (Georgia-Bold 12; x221-391 y309-339) CONTACT: Susan Overeem Cummings,
+[p11b31] (Georgia 12; x263-349 y281-297) (3rd Thursdays)
+[p11b52] (Georgia 12; x405-575 y295-325) Yellow Mills Diner 2534 NY-31, Palmyra, NY 14522
+[p11b33] (Georgia 12; x235-377 y337-367) Chair susanovereem@gmail.com
+[p11b54] (Georgia-Bold 12; x434-546 y351-381) CONTACT: Jim Dayton, Chair
+[p11b53] (Georgia 12; x448-532 y323-339) (last Saturdays)
+[p11b13] (Roboto-Bold 18; x87-157 y376-400) ORANGE
+[p11b34] (Roboto-Bold 18; x260-352 y380-404) SARATOGA
+[p11b55] (Georgia 12; x442-538 y379-395) jdayton@lpny.org
+[p11b14] (Georgia 12; x43-204 y403-434) NEXT MEETING: Held 4th Thursdays. Location
+[p11b15] (Georgia 12; x46-201 y431-448) varies. Contact us for details.
+[p11b35] (Georgia-Bold 12; x236-376 y407-437) CONTACT: Naz Garabedien, Chair
+[p11b36] (Georgia 12; x246-366 y435-465) nazareth.garabedian @lawsonproducts.com
+[p11b56] (Georgia 12; x440-540 y407-437) LEARN MORE: lpwaynecounty.org
+[p11b16] (Georgia-Bold 12; x56-188 y459-504) CONTACT: Juan Ayala, Chair livefree@juanrayala.com
+[p11b37] (Roboto-Bold 18; x256-356 y478-502) SCHOHARIE
+[p11b58] (Roboto-Bold 16.1; x407-579 y450-479) WESTCHESTER-PUTNAM
+[p11b59] (Georgia-Bold 12; x423-557 y477-521) CONTACT: Rajib Maitra, Chair rajib.maitra1@gmail.com
+[p11b57] (Georgia 12; x440-540 y449-465) lpwaynecounty.org
+[p11b17] (Roboto-Bold 18; x87-157 y516-540) QUEENS
+[p11b38] (Georgia-Bold 12; x244-368 y505-549) CONTACT: Mason Hovack, Acting County Chair
+[p11b18] (Georgia 12; x38-206 y543-574) NEXT MEETING: Sat., Sept. 13, 2025 at 12:00 PM
+[p11b19] (Georgia 12; x40-204 y571-602) Stamatis Greek and Mediterranean Restaurant
+[p11b20] (Georgia 12; x57-187 y599-616) 29-09 23rd Ave., Astoria
+[p11b39] (Roboto-Bold 18; x267-345 y576-600) SUFFOLK
+[p11b21] (Georgia-Bold 12; x61-183 y627-672) CONTACT: John Clifton, Chair mrjclifton@yahoo.com
+[p11b40] (Georgia 11.9; x220-392 y603-633) NEXT MEETING: Thurs., Sep. 25, 2025 at 6:30 PM
+[p11b41] (Georgia 12; x241-371 y631-647) Panera Bread, Deer Park
+[p11b43] (Georgia-Bold 12; x235-377 y673-717) CONTACT: Robert Schuon, Chair rschuon@mindspring.com
+[p11b42] (Georgia 12; x263-349 y645-661) (4th Thursdays)
+[p11b0] (Roboto-Bold 16; x443-576 y756-777) AUGUST 2025 | 11
+
+=== PAGE 12 ===
+[p12b0] (Avenir-Black 62.5; x37-575 y12-116) LPNY DIRECTORY
+[p12b3] (Roboto-Bold 18; x74-273 y101-125) EXECUTIVE COMMITTEE
+[p12b8] (Roboto-Bold 18; x362-533 y101-125) COMMITTEE CHAIRS
+[p12b2] (Roboto-Regular 12; x48-288 y135-321) Duane Whitmer Chair Daniel Castello Vice Chair Andrew Kolstee Secretary Chance Haywood Treasurer Christopher Skelly Communications Director Mark Axinn Fundraising Director Justin C …  Grindle Political Director Catrina Rocco Volunteer Director
+[p12b7] (Roboto-Regular 12; x322-524 y135-223) Daniel Castello Platform Committee Chair Andrew Kolstee Rules Committee Chair Daniel Castello Strategic Planning Committee Chair
+[p12b6] (Roboto-Bold 18; x226-386 y340-364) STATE COMMITTEE
+[p12b4] (Roboto-Bold 12; x54-194 y373-712) Mark Axinn (JD1) Morry Davis (JD1) Paul Grindle (JD2) Gary Popkin (JD2) Evan Lebrecht (JD3) Justin Carman (JD3) Vacant (JD4) Vacant (JD4) Vacant (JD4) Daniel Castello (JD5) James F … 7) Sean Phelan (JD7) James Ziobro (JD7) Maura Botsford (JD8)
+[p12b5] (Roboto-Bold 12; x312-499 y373-712) Andrew Kolstee (JD8) Wendi Szabo (JD8) Duane Whitmer (JD8) Vacant (JD8) Pietro Geraci (JD9) Catrina Rocco (JD9) William Schmidt (JD9) Jeffrey Denecke (JD10) Jonathan Gunther (JD10) … Richard Purtell (ex-officio) Christopher Skelly (ex-officio)
+[p12b1] (Roboto-Bold 16; x36-189 y756-777) 12 | FREE NEW YORK
+[p12b9] (Roboto-Bold 20; x62-555 y721-748) info@lpny.org www.LPNY.org 866-336-3120

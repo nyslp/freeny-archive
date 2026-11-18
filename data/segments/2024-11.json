@@ -1,0 +1,1832 @@
+{
+ "issue": "2024-11",
+ "volume": 53,
+ "number": 11,
+ "articles": [
+  {
+   "title": "Chase Oliver/Mike ter Maat: New York Awaits Full Write-In Results",
+   "subtitle": null,
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Secretary",
+   "kind": "article",
+   "tags": [
+    "elections",
+    "candidates",
+    "national party"
+   ],
+   "counties": [],
+   "summary": "Chase Oliver and Mike ter Maat topped 600,000 votes nationally; New York's write-in totals are not yet certified and will be reported in December.",
+   "title_blocks": [
+    "p1b0",
+    "p1b1"
+   ],
+   "byline_blocks": [
+    "p1b12",
+    "p1b13"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p1i1",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b2",
+      "p1b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b4",
+      "p1b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b11"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Election Is Over, but the Fight Continues",
+   "subtitle": null,
+   "author": "Mark Axinn",
+   "author_role": "LPNY Fundraising Director, LPNY Chair (2010-2015)",
+   "kind": "article",
+   "tags": [
+    "elections",
+    "fundraising",
+    "opinion"
+   ],
+   "counties": [],
+   "summary": "Former LPNY Chair Mark Axinn writes that Libertarians should keep fighting for ballot choice and asks readers to donate to the party.",
+   "title_blocks": [
+    "p1b15"
+   ],
+   "byline_blocks": [
+    "p1b21",
+    "p1b22"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p1b16",
+      "p1b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b18"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b19",
+      "p1b20",
+      "p3b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b12"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b14",
+      "p3b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b17"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Donate to the LPNY",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "ad",
+   "tags": [
+    "fundraising"
+   ],
+   "counties": [],
+   "summary": "A call to donate to the LPNY at LPNY.org/donate.",
+   "title_blocks": [],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p3b20"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "An Open Letter to the Libertarian Party",
+   "subtitle": "It\\u2019s Time to Change Course",
+   "author": "Jim Ostrowski",
+   "author_role": null,
+   "kind": "article",
+   "tags": [
+    "opinion",
+    "party business",
+    "policy"
+   ],
+   "counties": [
+    "Erie"
+   ],
+   "summary": "Jim Ostrowski urges the national and state parties to make direct citizen action their main strategy after another disappointing election, and offers to present his programs.",
+   "title_blocks": [
+    "p2b3",
+    "p2b4",
+    "p2b5"
+   ],
+   "byline_blocks": [
+    "p2b24"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p2b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b11",
+      "p2b12"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b16",
+      "p2b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b18"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b19",
+      "p2b20"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b21"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b22"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b23",
+      "p3b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p3b5",
+      "p3b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b8",
+      "p3b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b10"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Fred and Peanut",
+   "subtitle": null,
+   "author": "Pietro Geraci",
+   "author_role": "LPNY Outreach Director",
+   "kind": "article",
+   "tags": [
+    "policy",
+    "opinion",
+    "legislation"
+   ],
+   "counties": [],
+   "summary": "Pietro Geraci condemns the state's seizure and killing of Peanut the Squirrel and Fred the Raccoon and urges readers to demand accountability.",
+   "title_blocks": [
+    "p4b1"
+   ],
+   "byline_blocks": [
+    "p4b11"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p4i0",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b4",
+      "p4b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b7",
+      "p4b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b10"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Family Restoration: Replacing the Welfare State with Human Action",
+   "subtitle": null,
+   "author": "Vincent O'Neill",
+   "author_role": "State Committee Member (JD10), LPNY Vice-Chair (2002-2003)",
+   "kind": "article",
+   "tags": [
+    "policy",
+    "opinion"
+   ],
+   "counties": [],
+   "summary": "Vincent O'Neill proposes replacing the welfare state with voluntary human action, including a Celtic-style fosterage system, divorce and custody reforms, and abortion policy changes.",
+   "title_blocks": [
+    "p5b21",
+    "p5b22"
+   ],
+   "byline_blocks": [
+    "p5b23",
+    "p5b24"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p5b0"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b3",
+      "p5b4"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b11",
+      "p5b12"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b18"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b19",
+      "p6b1"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b2",
+      "p6b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b5"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b6",
+      "p6b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b8",
+      "p6b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b10",
+      "p6b11",
+      "p6b12"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b18"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b19"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b20"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b21",
+      "p6b22"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b23"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b24"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b25",
+      "p6b26"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b27"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b28"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b29"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b30"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b0"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b1",
+      "p7b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b8",
+      "p7b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b10",
+      "p7b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b12"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b17",
+      "p7b18"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b19"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b20"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b21"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b22"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b23",
+      "p7b24"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b25"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b26"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b27",
+      "p8b1"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b8"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b9",
+      "p8b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b11",
+      "p8b12"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b15"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b18"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b19"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b20",
+      "p8b21"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b22"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b23"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b24"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b25"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b26"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b27"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b0"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b1"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b2",
+      "p9b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b5"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b9",
+      "p9b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b11"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b12",
+      "p9b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b18"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b19"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b20"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b21"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b22"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b23"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b24"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b26"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bad Law Threatens Small Rural Town of Guilford",
+   "subtitle": null,
+   "author": "Thomas Quiter",
+   "author_role": "Former Chenango County Chair",
+   "kind": "article",
+   "tags": [
+    "policy",
+    "opinion",
+    "legislation"
+   ],
+   "counties": [
+    "Chenango"
+   ],
+   "summary": "Thomas Quiter argues that Guilford's proposed junk storage law would burden farmers, low-income and elderly residents and invite neighbor disputes.",
+   "title_blocks": [
+    "p10b11",
+    "p10b12"
+   ],
+   "byline_blocks": [
+    "p10b13"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p10i0",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b4",
+      "p10b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b7",
+      "p10b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b10",
+      "p11b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b3",
+      "p11b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p11b9"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "County Affiliate News",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "county-news",
+   "tags": [
+    "county affiliates",
+    "events"
+   ],
+   "counties": [],
+   "summary": "Meeting times, places and contacts for LPNY's county affiliates.",
+   "title_blocks": [
+    "p12b1"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p12b2"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b3",
+      "p12b4"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b5"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b6",
+      "p12b7",
+      "p12b8"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b9"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b10",
+      "p12b11",
+      "p12b12",
+      "p12b13",
+      "p12b14",
+      "p12b15",
+      "p12b16"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b17"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b18",
+      "p12b19",
+      "p12b20",
+      "p12b21"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b22"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b23",
+      "p12b24",
+      "p12b25"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b26"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b27",
+      "p12b28",
+      "p12b29"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b30"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b31",
+      "p12b32",
+      "p12b33",
+      "p12b34",
+      "p12b35"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b36"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b37",
+      "p12b38"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b39"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b40",
+      "p12b41",
+      "p12b42",
+      "p12b43",
+      "p12b44"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p12b45"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p12b46",
+      "p12b47",
+      "p12b48",
+      "p12b49"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b2",
+      "p13b3",
+      "p13b4",
+      "p13b5",
+      "p13b6",
+      "p13b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b9",
+      "p13b10",
+      "p13b11",
+      "p13b12",
+      "p13b13",
+      "p13b14"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b15"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b16",
+      "p13b17"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b18"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b19",
+      "p13b20",
+      "p13b21",
+      "p13b22",
+      "p13b23"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b24"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b25",
+      "p13b26",
+      "p13b27"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b28"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b29",
+      "p13b30",
+      "p13b31",
+      "p13b32"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b33"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b34"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b35"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b36",
+      "p13b37",
+      "p13b38",
+      "p13b39"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b40"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b41",
+      "p13b42",
+      "p13b43",
+      "p13b44",
+      "p13b45",
+      "p13b46"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p13b47"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p13b48",
+      "p13b49",
+      "p13b50",
+      "p13b51",
+      "p13b52"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b2",
+      "p14b3",
+      "p14b4",
+      "p14b5",
+      "p14b6"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b8",
+      "p14b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b10"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b11",
+      "p14b12"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b13"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b14",
+      "p14b15"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b16"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b17",
+      "p14b18",
+      "p14b19"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b20"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b21",
+      "p14b22",
+      "p14b23",
+      "p14b24",
+      "p14b25"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b26"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b27",
+      "p14b28",
+      "p14b29",
+      "p14b30",
+      "p14b31",
+      "p14b32",
+      "p14b33",
+      "p14b34"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b35"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b36",
+      "p14b37"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p14b38"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p14b39",
+      "p14b40"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Queens LP Holiday Luncheon",
+   "subtitle": null,
+   "author": "Queens County Libertarian Party",
+   "author_role": null,
+   "kind": "article",
+   "tags": [
+    "events",
+    "county affiliates"
+   ],
+   "counties": [
+    "Queens"
+   ],
+   "summary": "Queens Libertarians invite members to a December 14, 2024 holiday luncheon and talk about local party plans for 2025.",
+   "title_blocks": [
+    "p14b46"
+   ],
+   "byline_blocks": [
+    "p14b47",
+    "p14b48"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p14b41",
+      "p14b42"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p14b43"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p14b44",
+      "p14b45"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Start a County Affiliate",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "ad",
+   "tags": [
+    "county affiliates"
+   ],
+   "counties": [],
+   "summary": "LPNY is looking for Libertarians to organize new county affiliates.",
+   "title_blocks": [],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p15b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p15b2",
+      "p15b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p15b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p15b5"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "LPNY Directory",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "directory",
+   "tags": [
+    "party business"
+   ],
+   "counties": [],
+   "summary": "LPNY's executive committee, committee chairs and state committee members.",
+   "title_blocks": [
+    "p16b0"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p16b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p16b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p16b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p16b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p16b6"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p16b4",
+      "p16b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p16b9"
+     ]
+    }
+   ]
+  }
+ ],
+ "skip": [
+  "p1b6",
+  "p1b7",
+  "p1b9",
+  "p1b5",
+  "p1b8",
+  "p1b14",
+  "p2b0",
+  "p2b1",
+  "p2b2",
+  "p3b0",
+  "p3b18",
+  "p3b19",
+  "p4b0",
+  "p5b20",
+  "p5b25",
+  "p6b0",
+  "p6b31",
+  "p6b32",
+  "p7b28",
+  "p7b29",
+  "p7b30",
+  "p8b0",
+  "p8b28",
+  "p8b29",
+  "p9b25",
+  "p9b27",
+  "p9b28",
+  "p10b0",
+  "p10b1",
+  "p11b0",
+  "p11b1",
+  "p12b0",
+  "p13b0",
+  "p14b0",
+  "p15b0",
+  "p16b1"
+ ]
+}

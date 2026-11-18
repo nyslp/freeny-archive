@@ -1,0 +1,337 @@
+# ISSUE 2024-09  (12 pages)
+
+=== PAGE 1 ===
+[p1b1] (Journal 128; x130-577 y6-177) Free New York
+[p1b2] (Roboto-BoldItalic 12; x36-576 y147-163) The Official Newsletter of the Libertarian Party of New York Vol. 53, No. 9 September 2024
+[p1b8] (Avenir-Black 27.5; x39-573 y161-207) 2024-2026 STATE COMMITTEE ELECTED
+[p1b9] (Avenir-Black 39; x41-571 y182-246) WILL CONVENE IN ALBANY
+[p1b10] (Avenir-Black 31; x41-571 y225-277) TO ELECT EXECUTIVE COMMITTEE
+[p1i1] IMAGE at x36-392 y273-461
+[p1b4] (Roboto-Bold 14; x422-558 y277-296) TABLE OF CONTENTS
+[p1b0] (Roboto-Bold 9; x409-575 y302-410) State Committee Elected ................. 1-2 LPNY Adopts New Platform ................ 2 Platform of the LPNY ...................... 3-4 LPNY Opposes ERA Amendment ..... 4-5 Help  … ...... 11 LPNY Directory................................. 12
+[p1b11] (Georgia 11; x404-579 y418-539) the Libertarian National Committee and Duane Whitmer, LPNY 1st Vice-Chair. Following this, Chase Oliver, the Libertarian Party’s Presidential candidate, will speak at noon via Zoom. The business will begin at 12:30 p.m. and will likely adjourn around 5 p.m.
+[p1b13] (Roboto-Bold 11; x76-168 y469-484) by Andrew Kolstee
+[p1b5] (Georgia 11; x36-211 y495-660) On August 19, 2024, the Elections Oversight Committee certified the final results of the 2024 State Committee elections ahead of the August 30, 2024 deadline. A total of 30 of the  … e full list of State Committee members at the top of page 2.
+[p1b14] (Roboto-Bold 11; x94-150 y481-496) LPNY Chair
+[p1b6] (Georgia 11; x220-395 y481-586) The 2024 LPNY State Convention will be held on Saturday, September 21, 2024 at the Marriott Courtyard Albany Thruway Hotel in Albany, New York. The newly elected State Committee will be seated to elect a new Executive Committee.
+[p1b12] (Georgia 11; x404-579 y553-629) To register, go to the website at lpny.org/convention to register. The full schedule is on the convention portal, and is subject to change as the convention approaches.
+[p1b7] (Georgia 11; x220-395 y601-661) The convention will begin at 11 a.m. with a buffet lunch. There will be a panel of speakers during lunch: Pat Ford, Region 6 Representative to
+[p1b15] (MinionPro-BoldIt 26; x36-576 y682-718) See page 2 for full list of State Committee members!
+[p1b3] (Roboto-Bold 16; x422-576 y756-777) SEPTEMBER 2024 | 1
+
+=== PAGE 2 ===
+[p2b17] (MinionPro-Bold 25; x46-566 y38-72) State Committee Members-Elect, 2024-2026 Term
+[p2b18] (Georgia-Bold 11; x49-149 y72-88) Judicial District 1
+[p2b28] (Georgia-Bold 11; x187-287 y72-88) Judicial District 5
+[p2b37] (Georgia-Bold 11; x324-426 y72-88) Judicial District 8
+[p2b46] (Georgia-Bold 11; x460-566 y72-88) Judicial District 10
+[p2b19] (Georgia 11; x69-129 y87-133) (2 seats) Mark Axinn Morry Davis
+[p2b30] (Georgia 11; x179-295 y118-148) James Fitch Erinn Rose Leatherman
+[p2b29] (Georgia 11; x200-274 y87-118) (3 seats) Daniel Castello
+[p2b38] (Georgia 11; x337-413 y87-133) (5 seats) Maura Botsford Andrew Kolstee
+[p2b47] (Georgia 11; x477-549 y87-118) (continued) Robert Schuon
+[p2b48] (Georgia 11; x483-543 y118-133) Blay Tarnoff
+[p2b20] (Georgia-Bold 11; x49-149 y147-163) Judicial District 2
+[p2b39] (Georgia 11; x336-414 y133-163) Wendi Szabo Duane Whitmer
+[p2b49] (Georgia-Bold 11; x461-565 y147-163) Judicial District 11
+[p2b21] (Georgia 11; x68-130 y162-208) (2 seats) Paul Grindle Gary Popkin
+[p2b31] (Georgia-Bold 11; x187-287 y162-178) Judicial District 6
+[p2b32] (Georgia 11; x195-279 y177-223) (3 seats) Mark Braiman Samuel Hordeski
+[p2b41] (Georgia-Bold 11; x325-425 y192-208) Judicial District 9
+[p2b40] (Georgia-Italic 11; x355-395 y163-178) Vacant*
+[p2b50] (Georgia 11; x472-554 y162-193) (2 seats) Francisco Olvera
+[p2b51] (Georgia 11; x474-552 y193-208) Mark Weinblatt
+[p2b16] (MinionPro-Regular 12; x-1-9 y236-252) y)
+[p2b22] (Georgia-Bold 11; x49-149 y222-238) Judicial District 3
+[p2b23] (Georgia 11; x63-135 y237-268) (2 seats) Justin Carman
+[p2b33] (Georgia-Italic 11; x219-255 y223-238) Vacant
+[p2b42] (Georgia 11; x334-416 y207-268) (3 seats) Pietro Geraci Catrina Rocco William Schmidt
+[p2b52] (Georgia-Bold 11; x460-566 y222-238) Judicial District 12
+[p2b53] (Georgia-Bold 11; x493-533 y237-253) (1 seat)
+[p2b24] (Georgia-Italic 11; x81-117 y268-283) Vacant
+[p2b34] (Georgia-Bold 11; x187-287 y252-268) Judicial District 7
+[p2b35] (Georgia 11; x200-274 y267-313) (4 seats) Steven Becker Justin Pelletier
+[p2b54] (Georgia-Italic 11; x495-531 y253-268) Vacant
+[p2b25] (Georgia-Bold 11; x49-149 y297-313) Judicial District 4
+[p2b26] (Georgia-Bold 11; x75-123 y312-328) (3 seats)
+[p2b36] (Georgia 11; x204-270 y313-343) Sean Phelan James Ziobro
+[p2b43] (Georgia-Bold 11; x322-428 y282-298) Judicial District 10
+[p2b44] (Georgia 11; x330-420 y297-343) (6 seats) Jeffrey Denecke Jonathan Gunther
+[p2b55] (Georgia-Bold 11; x460-566 y282-298) Judicial District 13
+[p2b56] (Georgia-Bold 11; x493-533 y297-313) (1 seat)
+[p2b57] (Georgia-Italic 11; x495-531 y313-328) Vacant
+[p2b27] (Georgia-Italic 11; x81-117 y328-373) Vacant Vacant Vacant
+[p2b45] (Georgia 11; x333-417 y343-373) Vincent O’Neill Christian Padgett
+[p2b59] (MinionPro-It 10; x462-565 y337-375) *Leonard Morlock passed away on August 26, 2024, creating a vacancy in JD8.
+[p2b5] (Avenir-Black 34.5; x39-573 y380-437) LPNY ADOPTS NEW PLATFORM
+[p2b6] (Roboto-Bold 11; x42-202 y433-472) by Daniel Castello State Committee Member (JD5) LPNY Platform Committee Chair
+[p2b3] (Georgia 11; x220-395 y430-580) igating complex and sometimes contentious issues, the committee members worked together smoothly and effectively. We hope that our focus on broad principles rather than specific po … tting the stage for future discussions on particular issues.
+[p2b1] (Georgia 11; x36-211 y478-598) I am delighted to announce that the Libertarian Party of New York has reached a significant milestone with the State Committee’s approval of a new platform. As Chair of the Platfor … the dedication and hard work of each member (list on right).
+[p2b7] (MinionPro-Bold 14; x428-552 y444-480) Current Platform Committee Members
+[p2b8] (MinionPro-Regular 12; x424-556 y492-523) Daniel Castello (Chair) Andrew Kolstee (Secretary)
+[p2b9] (MinionPro-Regular 12; x441-539 y521-552) Paul Grindle Christopher Olenski
+[p2b10] (MinionPro-Regular 12; x452-528 y550-580) Richard Purtell Charles Roggen
+[p2b4] (Georgia 11; x220-395 y595-655) I thank everyone on the Platform for your commitment and perseverance and hope to work with you again!
+[p2b12] (MinionPro-Regular 12; x448-532 y593-624) Blay Tarnoff Karyn Thompson
+[p2b11] (MinionPro-Regular 12; x454-526 y579-595) Robert Schuon
+[p2b2] (Georgia 11; x36-211 y613-658) The collaborative spirit and mutual respect throughout this process were truly inspiring. Despite nav
+[p2b13] (MinionPro-Bold 14; x428-552 y636-672) Former Platform Committee Members
+[p2b58] (MinionPro-BoldIt 27; x67-361 y663-733) See pages 3-4 for the text of the new LPNY platform!
+[p2b14] (MinionPro-Regular 12; x445-535 y684-715) Justin Carman Jennifer O’Connor
+[p2b15] (MinionPro-Regular 12; x446-534 y713-744) Keith Redhead Michael Rebmann
+[p2b0] (Roboto-Bold 16; x36-180 y756-777) 2 | FREE NEW YORK
+
+=== PAGE 3 ===
+[p3b12] (Avenir-Black 56; x43-569 y17-110) PLATFORM OF THE
+[p3b13] (Avenir-Black 30; x43-569 y77-127) LIBERTARIAN PARTY OF NEW YORK
+[p3b1] (Georgia 11; x36-211 y123-498) A just and prosperous society is rooted in the recognition of the inherent, unalienable rights of individuals to life, liberty, property, and the pursuit of happiness. Governments  … tonomy over their life, liberty, and property. Specifically:
+[p3b5] (Georgia 11; x220-395 y123-243) well-being, and self-defense. 1.4. Personal Property. Individuals have the right to acquire, own, utilize, and dispose of assets, as these are the outcomes of human dedication through the investment of time and effort.
+[p3b8] (Georgia 11; x404-579 y122-393) 2.2. Peaceful Assembly. Individuals have the right to gather peacefully with others for any purpose, whether social, recreational, cultural, political, or otherwise. 2.3. Voluntary … l agreements are transparent and made with informed consent.
+[p3b6] (Georgia 11; x220-395 y257-513) 1.5. Open Expression. Ideas, though they may challenge or offend, are distinct from acts of violence. Every individual is free to communicate, articulate, share, or otherwise asser … the extent to which they share this information with others.
+[p3b9] (Georgia 11; x404-579 y407-543) 3. Defense of Rights. The most basic implication of a right is that it may be defended. Individuals may determine the manner of their defense and may act individually, in groups, o … on and defense of individual rights is paramount to liberty.
+[p3b2] (Georgia 11; x36-211 y512-573) 1.1. Autonomy of the Mind and Body. Each individual has exclusive authority over their own mind and body.
+[p3b7] (Georgia 11; x220-395 y527-723) 2. Interaction and Collaboration. Every individual inherently holds the unalienable right to freely engage or not with others. Specifically: 2.1. Free Association. Every individual … n associations, organizations, and groups of their choosing.
+[p3b10] (Georgia 11; x404-579 y557-663) 3.1. Defensive Response. Individuals have the right to use reasonable and necessary force, including the use of weapons, to protect themselves, others, and property, and therefore have the right to keep and bear any arms.
+[p3b3] (Georgia 11; x36-211 y587-663) 1.2. Freedom of Conscience. Individuals are free to hold beliefs according to their own moral and ethical convictions, without persecution.
+[p3b4] (Georgia 11; x36-211 y677-738) 1.3. Self-Determination. Individuals have the authority to decide matters including, but not limited to, their health, education, financial
+[p3b11] (Georgia 11; x404-576 y677-708) 3.2. Immediate Defensive Action. The right of defensive re
+[p3b14] (Roboto-Bold 12; x431-549 y718-734) (continued on page 4)
+[p3b0] (Roboto-Bold 16; x422-576 y756-777) SEPTEMBER 2024 | 3
+
+=== PAGE 4 ===
+[p4b1] (Georgia 11; x36-211 y63-153) sponse protects the need for immediate action in situations where rights are under direct and imminent threat, enabling individuals to act independently without external approval.
+[p4b21] (Roboto-Bold 12; x57-187 y43-59) (continued from page 3)
+[p4b4] (Georgia 11; x220-395 y40-160) defending rights, a civilized society provides peaceful means to achieve resolutions. Individuals and groups should seek peaceful means for resolving disputes, including but not li …  and legal recourse, including a fair trial and due process.
+[p4b8] (Georgia 11; x404-579 y40-160) adults who are organically incapable of informed consent, responsible adults may be appointed to exercise their rights on their behalf in their best interests, which appointment may be changed at any time if it is in the adult’s best interest to do so.
+[p4b2] (Georgia 11; x36-211 y167-348) 3.3. Assistance in Defense. Individuals may allow others to aid in their defense or decline assistance. Those who provide assistance have no more right to use force than those requ … untable for their actions to the same extent as anyone else.
+[p4b5] (Georgia 11; x220-395 y174-265) 4. Universality of Rights. Human rights are the same for every man, woman, and child, however there are specific provisions for those unable to exercise them independently.
+[p4b9] (Georgia 11; x404-579 y174-250) 4.3. Emancipation. Individuals whose rights are being exercised by another may be emancipated at any time they become capable of informed consent.
+[p4b6] (Georgia 11; x220-395 y279-400) 4.1. Parental Authority. A child’s parents have the sole authority to exercise the child’s rights on the child’s behalf in the child’s best interests, which authority may only be a … bly against the child’s interest, beyond a reasonable doubt.
+[p4b10] (Georgia 11; x404-579 y264-415) 5. Preserving Liberty. Government will inevitably grow more tyrannical if left unchecked. It is essential for citizens to be vigilant in defense of their freedom and sovereignty. T … rs, and its agents from perverting the rights of the people.
+[p4b3] (Georgia 11; x36-211 y362-423) 3.4. Peaceful Resolution in Defense of Rights. Recognizing that the foundation of a free society includes the potential use of force for
+[p4b18] (Avenir-Black 32; x41-571 y430-484) LPNY OPPOSES ERA PROPOSAL 1
+[p4b7] (Georgia-Bold 11; x220-395 y414-430) 4.2. Rights Held in Trust. For
+[p4b13] (Georgia 11; x220-395 y477-567) for minors, possibly mandating gender and sex education without parental knowledge or consent, or allowing minors access to gender-affirming treatments without parental involvement;
+[p4b16] (Georgia 11; x404-579 y477-552) ment to the U.S. Constitution and Section 11 of the New York State Constitution, already offer comprehensive protection against discrimination for all individuals;
+[p4b11] (Georgia 11; x36-211 y516-636) On August 26, 2024, the Libertarian Party of New York State Committee voted on a resolution to oppose the Equal Rights Amendment Proposal 1. The drafting of the resolution was spea … or Rich Purtell. Here is the text of the adopted resolution:
+[p4b19] (Roboto-Bold 11; x76-168 y480-495) by Andrew Kolstee
+[p4b20] (Roboto-Bold 11; x94-150 y492-507) LPNY Chair
+[p4b14] (Georgia 11; x220-395 y582-687) WHEREAS, the ERA proposal 1 does not provide equal rights for all, but selectively mentions specific groups while excluding others, such as those discriminated against based on marital status or genetic information;
+[p4b17] (Georgia 11; x404-579 y567-717) WHEREAS, Section 11 of the New York State Constitution explicitly mandates equal protection under the law for all persons without arbitrary discrimination and prohibits discriminat … as such as gender and disability through judicial interpreta
+[p4b12] (Georgia 11; x36-211 y651-741) WHEREAS, the Equal Rights Amendment (ERA) proposal 1 poses a significant threat to parental rights by potentially allowing government overreach in areas such as education and medical treatment
+[p4b15] (Georgia 11; x220-395 y702-747) WHEREAS, existing federal and state laws, including the Equal Protection Clause of the 14th Amend
+[p4b0] (Roboto-Bold 16; x36-180 y756-777) 4 | FREE NEW YORK
+[p4b22] (Roboto-Bold 12; x431-549 y722-738) (continued on page 5)
+
+=== PAGE 5 ===
+[p5i0] IMAGE at x219-576 y35-430
+[p5b0] (Georgia 11; x36-211 y63-243) tion; WHEREAS, the United States Supreme Court has determined the issue of abortion is to be managed at the state level, not federal, and New York State has already codified aborti … edundant in terms of protecting women’s reproductive rights;
+[p5b9] (Roboto-Bold 12; x57-187 y43-59) (continued from page 4)
+[p5b1] (Georgia 11; x36-211 y257-438) WHEREAS, the proposal’s language is overly broad and ambiguous, creating the potential for significant legal challenges that could burden taxpayers with costly litigation, while al … ogical men identifying as women access to women-only spaces;
+[p5b10] (Roboto-BoldItalic 8; x376-420 y434-445) Steve Becker
+[p5b2] (Georgia 11; x36-211 y452-573) WHEREAS, the broad scope of the ERA proposal 1 could extend privileges traditionally reserved for citizens, such as voting, to non-citizens, including undocumented immigrants, thus potentially creating further legal and social complications;
+[p5b4] (Georgia 11; x220-395 y448-583) WHEREAS, the proposal’s implementation would impose financial burdens on schools, businesses, and taxpayers, with increased costs for compliance, legal consultations, and the creat … acilities, ultimately leading to a negative economic impact;
+[p5b6] (Georgia 11; x404-550 y448-463) resources and taxpayer funds;
+[p5b7] (Georgia 11; x404-579 y478-733) THEREFORE BE IT RESOLVED, that we, the Libertarian Party of New York, oppose the New York State Equal Rights Amendment proposal 1, recognizing it as a dangerously broad and unneces … ote “No” on this proposal in the upcoming November election.
+[p5b3] (Georgia 11; x36-211 y587-738) WHEREAS, the proposal could negatively impact women’s sports by undermining Title IX protections, thus allowing biological men identifying as women to compete in women’s sports, cr … d opportunities that many women rely on for their education;
+[p5b5] (Georgia 11; x220-395 y598-748) WHEREAS, the proposal, if passed, will result in expanded government control at the expense of individual rights and freedoms, contrary to the intentions of our forefathers, who ad … ubject to numerous legal challenges, further straining state
+[p5b8] (Roboto-Bold 16; x422-576 y756-777) SEPTEMBER 2024 | 5
+
+=== PAGE 6 ===
+[p6b1] (Avenir-Black 35; x63-552 y49-107) HELP US GET A3312 PASSED
+[p6b2] (Avenir-Black 30; x61-563 y114-163) This bill, if passed would lower the
+[p6b3] (Avenir-Black 30; x82-542 y153-202) ballot access thresholds back to
+[p6b4] (Avenir-Black 30; x84-540 y192-280) the previous standards: the number of votes needed to get
+[p6b5] (Avenir-Black 30; x64-560 y270-436) ballot access to 50,000 (from 130,000 or 2%), and lower the petition signature requirement for a statewide office to 15,000 (from
+[p6b6] (Avenir-Black 30; x58-566 y426-592) 45,000). Contact your representatives in the New York State Legislature and ask them to this bill! Contact Legislative Affairs
+[p6b7] (Avenir-Black 30; x92-523 y582-709) Director Rich Purtell at rpurtell@lpny.org to get involved with pushing this bill.
+[p6b0] (Roboto-Bold 16; x36-180 y756-777) 6 | FREE NEW YORK
+
+=== PAGE 7 ===
+[p7i0] IMAGE at x36-576 y36-277
+[p7b3] (Avenir-Black 34.5; x39-573 y264-321) IN MEMORIAM: LEN MORLOCK
+[p7b4] (Roboto-Bold 11; x57-187 y310-325) by the Chautauqua County
+[p7b1] (Georgia 11; x220-395 y307-747) nics in Mayville, and his countless conversations sparked by his signature liberty-themed t-shirts left a lasting impact on everyone he encountered. Len was dedicated to advancing  … Jorgensen/Spike Cohen in 2020. Len was a regular attendee at
+[p7b2] (Georgia 11; x404-579 y307-747) PorcFest, where he enjoyed camping and connecting with fellow liberty-minded individuals. He was an avid listener of liberty podcasts, always staying informed on current political  … d his tireless work for our cause will be remembered always.
+[p7b0] (Georgia 11; x36-211 y336-751) It is with profound sadness that we share the news of the passing of Len Morlock, on Monday, August 26, 2024, at the age of 52. Len served as Chair of the Chautauqua County Liberta … is presence at the county fair booth, organizing of CCLP pic
+[p7b5] (Roboto-Bold 11; x81-163 y322-337) Libertarian Party
+[p7b6] (Roboto-Bold 16; x422-576 y756-777) SEPTEMBER 2024 | 7
+
+=== PAGE 8 ===
+[p8b1] (Avenir-Black 42; x37-575 y25-94) COUNTY AFFILIATE NEWS
+[p8b3] (Georgia-Bold 11.4; x36-208 y114-147) CONTACT: Justin Carman, County Liasion
+[p8b2] (Roboto-Bold 18; x88-156 y85-109) ALBANY
+[p8b18] (Georgia-Bold 12; x253-359 y114-131) NEXT MEETING:
+[p8b17] (Roboto-Bold 18; x262-350 y85-109) CHEMUNG
+[p8b36] (Georgia 12; x417-563 y114-147) NEXT MEETING: Sat., Sept. 21, 2024 @ 5 PM
+[p8b35] (Roboto-Bold 18; x444-536 y85-109) DUTCHESS
+[p8b4] (Georgia 12; x71-173 y147-163) jcarman@lpny.org
+[p8b19] (Georgia 12; x250-362 y131-163) TBD at Ill Eagle Taphouse
+[p8b37] (Georgia 12; x408-572 y147-179) Bella Italia Restaurant Route 9 Wappingers NY 12590
+[p8b5] (Roboto-Bold 18; x78-166 y181-205) ALLEGANY
+[p8b20] (Georgia-Bold 12; x244-368 y178-211) CONTACT: Craig Colwell, Chair
+[p8b38] (Georgia 12; x448-532 y179-195) (3rd Saturdays)
+[p8b6] (Georgia-Bold 12; x60-184 y210-243) CONTACT: Jame VanDewalker,
+[p8b21] (Georgia 12; x245-367 y211-227) ccolwell78@gmail.com
+[p8b39] (Georgia-Bold 12; x405-575 y210-259) CONTACT: Catrina Rocco, Chair Robert Cocomello, Vice-Chair
+[p8b7] (Georgia 12; x59-185 y242-275) County Liasion jvandewalker@lpny.org
+[p8b22] (Georgia-Bold 12; x259-353 y242-259) LEARN MORE:
+[p8b23] (Georgia 12; x266-346 y259-275) lpchemung.org
+[p8b40] (Georgia 12; x417-563 y259-275) info@dutchesscountylp.org
+[p8b8] (Georgia 12; x52-192 y290-323) LEARN MORE: fb.com/AlleganyCountyLP
+[p8b24] (Roboto-Bold 18; x261-351 y293-317) COLUMBIA
+[p8b41] (Georgia 12; x433-547 y290-323) LEARN MORE: dutchesscountylp.org
+[p8b9] (Roboto-Bold 18; x63-181 y341-365) CHAUTAUQUA
+[p8b25] (Georgia 12; x232-380 y322-355) NEXT MEETING: Wed., Oct. 16, 2024 @ 7 PM
+[p8b26] (Georgia 12; x254-358 y355-387) Google Meet (third Wednesdays)
+[p8b42] (Roboto-Bold 18; x471-509 y341-365) ERIE
+[p8b10] (Georgia 12; x38-206 y370-403) CONVENTION: Thurs., Oct. 3, 2024 @ 7:00 PM
+[p8b43] (Georgia 12; x427-553 y370-403) NEXT MEETING: Held Monthly via Zoom
+[p8b12] (Georgia-Bold 12; x39-205 y434-467) CONTACT: Bob Peterson, Acting Chair
+[p8b11] (Georgia 12; x57-187 y403-419) Location TBD and Zoom
+[p8b27] (Georgia-Bold 12; x236-376 y402-451) CONTACT: Scott Hoskins, Chair scottdhoskins@gmail.com
+[p8b44] (Georgia-Bold 12; x416-564 y418-467) CONTACT: Duane Whitmer, Chair chairman@eriecountylp.org
+[p8b28] (Roboto-Bold 18; x260-352 y453-477) CORTLAND
+[p8b13] (Georgia-Bold 12; x40-204 y482-499) Andrew Kolstee, Secretary
+[p8b14] (Georgia 12; x73-171 y499-515) akolstee@lpny.org
+[p8b29] (Georgia-Bold 12; x241-371 y482-531) CONTACT: Sam Hordeski, Acting County Chair/
+[p8b45] (Roboto-Bold 18; x409-571 y485-509) KINGS (BROOKLYN)
+[p8b46] (Georgia 12; x416-564 y514-547) NEXT MEETING: Tues., Oct. 15, 2024 at 3 PM
+[p8b15] (Georgia 12; x58-186 y530-563) LEARN MORE: www.chautauquaLP.org
+[p8b30] (Georgia 12; x242-370 y530-563) County Liaison samuelh93@yahoo.com
+[p8b47] (Georgia 12; x408-572 y547-579) @ Fourth Avenue Pub 76 4th Ave, Brooklyn, NY 11217
+[p8b16] (Georgia 12; x63-181 y563-579) fb.com/chautauquaLP
+[p8b31] (Roboto-Bold 18; x269-343 y581-605) CLINTON
+[p8b48] (Georgia 12; x450-530 y579-595) (3rd Tuesdays)
+[p8b32] (Georgia-Bold 12; x253-359 y610-643) CONTACT: Zachary Remian,
+[p8b49] (Georgia-Bold 12; x412-568 y610-643) CONTACT: Christopher Skelly, Chair
+[p8b33] (Georgia 12; x257-355 y642-675) County Liaison zremian@lpny.org
+[p8b34] (Georgia 12; x265-347 y675-691) (518) 310-6664
+[p8b50] (Georgia 12; x436-544 y643-659) cskelly@cskelly.tech
+[p8b0] (Roboto-Bold 16; x36-180 y756-777) 8 | FREE NEW YORK
+
+=== PAGE 9 ===
+[p9b2] (Georgia-Bold 12; x69-175 y71-88) NEXT MEETING:
+[p9b1] (Roboto-Bold 18; x82-162 y42-66) MADISON
+[p9b20] (Roboto-Bold 14; x222-390 y45-64) NEW YORK (MANHATTAN)
+[p9b21] (Georgia-Bold 12; x232-380 y71-104) CONTACT: Chance Haywood, Chair
+[p9b43] (Georgia 12; x413-568 y71-104) NEXT MEETING: Thurs., Oct. 10, 2024 at 7 PM
+[p9b42] (Roboto-Bold 18; x453-527 y42-66) PUTNAM
+[p9b3] (Georgia 12; x57-187 y87-120) TBD Hamilton Public Library
+[p9b22] (Georgia 12; x252-360 y103-120) chaywood@lpny.org
+[p9b44] (Georgia 12; x405-575 y103-136) at McCarthy’s 374 Route 52, Carmel, NY 10512
+[p9b4] (Georgia-Bold 12; x56-188 y135-168) CONTACT: Mark Braiman, Chair
+[p9b23] (Roboto-Bold 18; x268-344 y138-162) NIAGARA
+[p9b45] (Georgia 12; x446-534 y135-152) (2nd Thursdays)
+[p9b5] (Georgia 12; x67-177 y167-184) mbraiman@lpny.org
+[p9b24] (Georgia-Bold 12; x241-371 y167-216) CONTACT: Wendi Szabo, Acting County Chair/
+[p9b46] (Georgia-Bold 12; x425-555 y167-216) CONTACT: Bill O’Donnell, Chair billod10704@gmail.com
+[p9b7] (Georgia 12; x36-211 y231-328) Contact the Monroe County Libertarian Party for meeting link. We also have monthly social meetings that you don’t want to miss. There is also Google Group for announcements.
+[p9b6] (Roboto-Bold 18; x84-160 y202-226) MONROE
+[p9b25] (Georgia 12; x242-370 y215-248) County Liaison wendiszabo@gmail.com
+[p9b47] (Roboto-Bold 18; x455-525 y234-258) QUEENS
+[p9b26] (Georgia-Bold 12; x253-359 y263-280) NEXT MEETING:
+[p9b27] (Georgia 12; x294-318 y279-296) TBD
+[p9b48] (Georgia 12; x417-563 y263-296) NEXT MEETING: Sat., Oct. 12, 2024 @ 12 PM
+[p9b28] (Georgia 12; x262-350 y311-328) (2nd Thursdays)
+[p9b29] (Roboto-Bold 18; x274-338 y314-338) ONEIDA
+[p9b49] (Georgia 12; x425-555 y295-344) The Original Stamatis Restaurant 29-09 23rd Ave., Astoria
+[p9b8] (Georgia 12; x47-197 y343-376) NEXT MEETING: Thurs., Oct. 3, 2024 @ 7 PM
+[p9b30] (Georgia 12; x231-381 y343-376) NEXT MEETING: Mon., Oct. 21, 2024 @ 6 PM
+[p9b50] (Georgia 12; x447-533 y343-360) (2nd Saturdays)
+[p9b9] (Georgia 12; x78-166 y375-392) (first Thursdays)
+[p9b32] (Georgia-Italic 12; x248-364 y391-424) (3rd Mondays) Contact Keith for link
+[p9b31] (Georgia 12; x250-362 y375-392) via Video Conference
+[p9b51] (Georgia-Bold 12; x429-551 y375-424) CONTACT: John Clifton, Chair mrjclifton@yahoo.com
+[p9b10] (Georgia-Bold 12; x62-182 y407-440) CONTACT: Steve Becker, Chair
+[p9b11] (Georgia 12; x70-174 y439-456) drsbecker@aol.com
+[p9b33] (Georgia-Bold 12; x240-372 y439-472) CONTACT: Keith Redhead, Chair
+[p9b52] (Georgia 12; x447-533 y439-456) (2nd Saturdays)
+[p9b12] (Georgia 12; x68-176 y471-504) LEARN MORE: monroecountylp.org
+[p9b34] (Georgia 12; x254-358 y471-488) kredhead@lpny.org
+[p9b54] (Georgia 12; x404-579 y471-568) Since October 2022, the Rensselaer County Libertarian Party has been collecting food items and monetary donations to give monthly to StreetSoldiers Rensselaer.
+[p9b53] (Roboto-Bold 18; x434-546 y442-466) RENSSELAER
+[p9b35] (Roboto-Bold 18; x258-354 y506-530) ONONDAGA
+[p9b14] (Georgia 12; x45-200 y551-584) NEXT MEETING: Thurs., Oct. 10, 2024 at 7 PM
+[p9b13] (Roboto-Bold 18; x87-157 y522-546) NASSAU
+[p9b36] (Georgia-Bold 12; x253-359 y535-552) NEXT MEETING:
+[p9b37] (Georgia 12; x294-318 y551-568) TBD
+[p9b15] (Georgia 12; x71-173 y583-600) @ Landmark Diner
+[p9b16] (Georgia 12; x78-166 y599-616) (2nd Thursdays)
+[p9b38] (Georgia-Bold 12; x241-371 y583-616) CONTACT: Rachel Becker, Chair
+[p9b55] (Georgia 12; x408-572 y583-632) NEXT MEETING: Wed., Oct. 2, 2024 at 6:30 PM Alexis Diner, North Greenbush
+[p9b17] (Georgia-Bold 12; x37-207 y631-696) CONTACT: Jon Gunther, Executive Committee Chair jonguntherlibertarian@gmail.com
+[p9b39] (Georgia 12; x261-351 y615-632) reb4128@rit.edu
+[p9b56] (Georgia 12; x440-540 y631-648) (first Wednesdays)
+[p9b41] (Georgia-Bold 12; x240-372 y679-728) CONTACT: Juan Ayala, Chair livefree@juanrayala.com
+[p9b40] (Roboto-Bold 18; x271-341 y650-674) ORANGE
+[p9b57] (Georgia-Bold 12; x428-552 y663-712) CONTACT: Jennifer O’Connor, Acting County Chair
+[p9b18] (Georgia-Bold 12; x46-198 y695-728) Blay Tarnoff, County Committee Chair
+[p9b58] (Georgia 12; x439-541 y711-728) joconnor@lpny.org
+[p9b19] (Georgia 12; x74-170 y727-744) LPNY@eblay.com
+[p9b0] (Roboto-Bold 16; x422-576 y756-777) SEPTEMBER 2024 | 9
+
+=== PAGE 10 ===
+[p10b5] (Roboto-Bold 15; x38-206 y42-66) RICHMOND (STATEN ISLAND)
+[p10b6] (Georgia 12; x45-199 y71-104) NEXT MEETING: Thurs., Oct. 17, 2024 @ 7 PM
+[p10b18] (Georgia-Bold 12; x230-382 y73-105) CONTACT: George Ostrowski, Chair
+[p10b17] (Roboto-Bold 18; x267-345 y44-68) SUFFOLK
+[p10b31] (Georgia 12; x416-564 y73-105) NEXT MEETING: Sat., Oct. 26, 2024 at 10 AM
+[p10b30] (Roboto-Bold 18; x459-521 y44-68) WAYNE
+[p10b7] (Georgia 12; x55-189 y103-120) @ Coffee and Collectibles
+[p10b8] (Georgia 12; x79-165 y119-136) (3rd Thursdays)
+[p10b19] (Georgia 12; x241-371 y105-121) gtostrowskijr@msn.com
+[p10b32] (Georgia 12; x441-539 y105-121) Yellow Mills Diner
+[p10b9] (Georgia-Bold 12; x37-207 y151-184) CONTACT: Susan Overeem Cummings,
+[p10b20] (Roboto-Bold 18; x280-332 y140-164) TIOGA
+[p10b33] (Georgia 12; x439-541 y121-153) 2534 NY-31 Palmyra, NY 14522
+[p10b34] (Georgia 12; x448-532 y153-169) (last Saturdays)
+[p10b10] (Georgia 12; x51-193 y183-216) Chair susanovereem@gmail.com
+[p10b21] (Georgia-Bold 12; x254-358 y169-201) CONTACT: Sara Price, Chair
+[p10b35] (Georgia-Bold 12; x434-546 y185-217) CONTACT: Jim Dayton, Chair
+[p10b11] (Roboto-Bold 18; x76-168 y234-258) SARATOGA
+[p10b22] (Georgia-Bold 12; x233-379 y201-233) sprice@lpny.org Rich Purtell, Vice-Chair
+[p10b23] (Georgia 12; x258-354 y233-249) rpurtell@lpny.org
+[p10b36] (Georgia 12; x442-538 y217-233) jdayton@lpny.org
+[p10b12] (Georgia-Bold 12; x52-192 y263-296) CONTACT: Naz Garabedien, Chair
+[p10b24] (Roboto-Bold 18; x273-339 y268-292) ULSTER
+[p10b37] (Georgia 12; x440-540 y249-281) LEARN MORE: lpwaynecounty.org
+[p10b13] (Georgia 12; x62-182 y295-328) nazareth.garabedian @lawsonproducts.com
+[p10b25] (Georgia 12; x223-389 y297-329) NEXT MEETING: Mon., Oct. 14, 2024 at 6:30 PM
+[p10b39] (Roboto-Bold 18; x427-553 y300-324) WESTCHESTER
+[p10b38] (Georgia 12; x440-540 y297-313) lpwaynecounty.org
+[p10b14] (Roboto-Bold 18; x72-172 y346-370) SCHOHARIE
+[p10b26] (Georgia 12; x233-379 y329-345) Hickory BBQ, Kingston, NY
+[p10b27] (Georgia 12; x257-355 y345-361) (second Mondays)
+[p10b40] (Georgia-Bold 12; x425-555 y329-377) CONTACT: Rajib Maitra Acting County Chair/
+[p10b15] (Georgia-Bold 12; x64-180 y375-408) CONTACT: Lora Newell, Chair
+[p10b28] (Georgia-Bold 12; x237-375 y377-425) CONTACT: Sam Kniffen, Chair samkniffen01@gmail.com
+[p10b41] (Georgia 12; x423-557 y377-409) County Liaison rajib.maitra1@gmail.com
+[p10b16] (Georgia 12; x76-168 y407-424) lnewell@lpny.org
+[p10b42] (Roboto-Bold 18; x463-517 y428-452) YATES
+[p10b29] (Georgia 12; x257-355 y441-473) LEARN MORE: www.UlsterLP.org
+[p10b43] (Georgia-Bold 12; x432-548 y457-489) CONTACT: Jeff Bradley, Chair
+[p10b44] (Georgia 12; x441-539 y489-505) jbradley@lpny.org
+[p10b1] (Roboto-Bold 22; x164-448 y532-561) Don’t see your county listed?
+[p10b2] (Roboto-Bold 22; x139-473 y584-640) We are looking for Libertarians to organize new County Affiliates!
+[p10b3] (Roboto-Bold 22; x169-443 y664-693) Contact us for more details!
+[p10b4] (Roboto-Bold 22; x213-399 y716-746) affiliates@lpny.org
+[p10b0] (Roboto-Bold 16; x36-189 y756-777) 10 | FREE NEW YORK
+
+=== PAGE 11 ===
+[p11i0] IMAGE at x36-576 y36-756
+[p11b0] (Roboto-Bold 16; x413-576 y756-777) SEPTEMBER 2024 | 11
+
+=== PAGE 12 ===
+[p12b0] (Avenir-Black 62.5; x37-575 y12-116) LPNY DIRECTORY
+[p12b3] (Roboto-Bold 14; x44-200 y99-117) EXECUTIVE COMMITTEE
+[p12b10] (Roboto-Bold 14; x286-510 y99-117) DIRECTORS & COMMITTEE CHAIRS
+[p12b2] (Roboto-Bold 12; x48-209 y124-293) Andrew Kolstee Chair Duane Whitmer 1st Vice-Chair Rich Purtell 2nd Vice-Chair Mark Braiman Secretary W. Cody Anderson Treasurer Maura Botsford At-Large Justin Carman At-Large Keith Redhead At-Large William Schmidt At-Large Karyn Thompson At-Large
+[p12b8] (Roboto-Regular 12; x235-393 y124-299) Vacant Communications Director Andrew Kolstee Field Development Director Chance Haywood Finance Director Justin Carman IT Director Richard Purtell Legislative Affairs Director Vacant Outreach Director
+[p12b9] (Roboto-Regular 12; x403-552 y124-270) Keith Redhead Personnel Director Paul Grindle Political Director Maura Botsford Events Coordinator Daniel Castello Platform Committee Chair Andrew Kolstee Rules Committee Chair
+[p12b7] (Roboto-Bold 14; x244-368 y304-322) STATE COMMITTEE
+[p12b4] (Roboto-Bold 12; x54-190 y328-712) Mark Axinn (JD1) Morry Davis (JD1) Chance Haywood (JD1) Paul Grindle (JD2) Matthew Morgan (JD2) Gary Popkin (JD2) W. Cody Anderson (JD3) Justin Carman (JD3) Lora Newell (JD3) Jenni … JD5) Adam Magoon (JD5) Amber Nunes (JD5) Keith Redhead (JD5)
+[p12b5] (Roboto-Bold 12; x226-365 y328-712) Mark Braiman (JD6) Craig Colwell (JD6) Samuel Hordeski (JD6) Vacant (JD6) Christopher Olenski (JD6) David Penner (JD6) Steven Becker (JD7) Jeffrey Bradley (JD7) Justin Pelletier (J … JD8) Jame VanDewalker (JD8) Duane Whitmer (JD8) Vacant (JD8)
+[p12b6] (Roboto-Bold 12; x398-549 y328-696) Vacant (JD8) Juan Ayala (JD9) Robert Cocomello (JD9) Daniel Donnelly (JD9) Robert Greibesland (JD9) William Schmidt (JD9) Christian Vondras (JD9) Jeffrey Denecke (JD10) Jonathan Gu … 12) Vacant (JD13) Vacant (JD13) Richard Purtell (ex-officio)
+[p12b1] (Roboto-Bold 16; x36-189 y756-777) 12 | FREE NEW YORK
+[p12b11] (Roboto-Bold 20; x62-555 y721-748) info@lpny.org www.LPNY.org 866-336-3120

@@ -1,0 +1,889 @@
+{
+ "issue": "2025-04",
+ "volume": 54,
+ "number": 4,
+ "articles": [
+  {
+   "title": "The Porcupine at 50 Years",
+   "subtitle": null,
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Secretary",
+   "kind": "article",
+   "tags": [
+    "party history"
+   ],
+   "counties": [],
+   "summary": "Fifty years after the Free Libertarian Party chose the porcupine as its animal at the 1975 convention, a look at how it happened.",
+   "title_blocks": [
+    "p1b4"
+   ],
+   "byline_blocks": [
+    "p1b12",
+    "p1b13"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p1i0",
+     "caption_blocks": [
+      "p1b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b0",
+      "p1b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b3",
+      "p1b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b11",
+      "p2b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b16",
+      "p2b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b18"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Call for State Fair Volunteers",
+   "subtitle": null,
+   "author": "Catrina Rocco",
+   "author_role": "LPNY Volunteer Director",
+   "kind": "article",
+   "tags": [
+    "events",
+    "party business"
+   ],
+   "counties": [],
+   "summary": "LPNY seeks volunteers to staff its table at the New York State Fair in Syracuse from August 20 to September 1.",
+   "title_blocks": [
+    "p2b4"
+   ],
+   "byline_blocks": [
+    "p2b5"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p2i0",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b3"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Hudson Valley Libertarian Gala to Be Held September 28",
+   "subtitle": null,
+   "author": "Catrina Rocco",
+   "author_role": "LPNY Volunteer Director",
+   "kind": "article",
+   "tags": [
+    "events",
+    "county affiliates"
+   ],
+   "counties": [
+    "Orange",
+    "Dutchess",
+    "Columbia",
+    "Ulster",
+    "Putnam"
+   ],
+   "summary": "Five Hudson Valley county parties invite members to a gala on September 28, 2025 in Newburgh with dinner, speakers and an awards presentation.",
+   "title_blocks": [
+    "p2b11",
+    "p2b12"
+   ],
+   "byline_blocks": [
+    "p2b13"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p2i1",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b7",
+      "p2b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b10"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "RFK Jr Must Rescind EUA Amendment 12, Stop NY Adult Vaccine Mandate Bills",
+   "subtitle": null,
+   "author": "Rich Purtell",
+   "author_role": "LPNY Legislative Affairs Director",
+   "kind": "article",
+   "tags": [
+    "policy",
+    "legislation",
+    "opinion"
+   ],
+   "counties": [],
+   "summary": "An op-ed urging the rescinding of PREP Act EUA Amendment 12 and opposing New York bills that would require reporting adult vaccinations to the state.",
+   "title_blocks": [
+    "p3b0"
+   ],
+   "byline_blocks": [
+    "p3b19"
+   ],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p3b1"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b5"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b8",
+      "p3b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b10"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b12"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b13"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b14",
+      "p3b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b16"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b18"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "County Affiliate News",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "county-news",
+   "tags": [
+    "county affiliates",
+    "events"
+   ],
+   "counties": [],
+   "summary": "Meeting times, places and contacts for LPNY's county affiliates.",
+   "title_blocks": [
+    "p4b1"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p4b2"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b5",
+      "p4b6",
+      "p4b7",
+      "p4b8",
+      "p4b9",
+      "p4b10"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b11"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b12",
+      "p4b13",
+      "p4b14",
+      "p4b15"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b16"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b17",
+      "p4b18",
+      "p4b19"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b20"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b21",
+      "p4b22",
+      "p4b23"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b24"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b25",
+      "p4b26",
+      "p4b27",
+      "p4b28",
+      "p4b29",
+      "p4b30"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b31"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b32",
+      "p4b33"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b34"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b35",
+      "p4b36",
+      "p4b37",
+      "p4b38",
+      "p4b39"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b40"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b41",
+      "p4b42"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b43"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b44",
+      "p4b45",
+      "p4b46",
+      "p4b47",
+      "p4b48",
+      "p4b49"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b50"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b51",
+      "p4b52",
+      "p4b53",
+      "p4b54",
+      "p4b55",
+      "p4b56"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b57"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p4b58",
+      "p4b59",
+      "p4b60",
+      "p4b61"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b2",
+      "p5b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b5",
+      "p5b6",
+      "p5b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b9",
+      "p5b10",
+      "p5b11",
+      "p5b12",
+      "p5b13"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b14"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b15"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b16"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b17",
+      "p5b18",
+      "p5b19",
+      "p5b20"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b21"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b22"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b23"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b24",
+      "p5b25",
+      "p5b26",
+      "p5b27",
+      "p5b28"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b29"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b30",
+      "p5b31",
+      "p5b32",
+      "p5b33",
+      "p5b34"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b35"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b36",
+      "p5b37"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b38"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b39",
+      "p5b40"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b41"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b42"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b43"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b44",
+      "p5b45",
+      "p5b46"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b47"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b48",
+      "p5b49",
+      "p5b50",
+      "p5b51",
+      "p5b52"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b53"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b54",
+      "p5b55",
+      "p5b56",
+      "p5b57",
+      "p5b58",
+      "p5b59",
+      "p5b60"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b61"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b62"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b63"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p5b64",
+      "p5b65"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Start a County Affiliate",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "ad",
+   "tags": [
+    "county affiliates"
+   ],
+   "counties": [],
+   "summary": "LPNY is looking for Libertarians to organize new county affiliates.",
+   "title_blocks": [],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p6b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b4"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Help Us Get A02724 and S01870 Passed",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "article",
+   "tags": [
+    "ballot access",
+    "legislation"
+   ],
+   "counties": [],
+   "summary": "Two state bills would lower the vote and petition-signature thresholds for ballot access; LPNY asks members to contact their legislators.",
+   "title_blocks": [
+    "p7b1",
+    "p7b2"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p7b3",
+      "p7b4",
+      "p7b5",
+      "p7b6",
+      "p7b7",
+      "p7b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b9",
+      "p7b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b11",
+      "p7b12"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "LPNY Directory",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "directory",
+   "tags": [
+    "party business"
+   ],
+   "counties": [],
+   "summary": "LPNY's executive committee, committee chairs and state committee members.",
+   "title_blocks": [
+    "p8b0"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p8b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b6"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b4",
+      "p8b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b9"
+     ]
+    }
+   ]
+  }
+ ],
+ "skip": [
+  "p1b6",
+  "p1b7",
+  "p1b9",
+  "p1b5",
+  "p1b8",
+  "p2b0",
+  "p3b20",
+  "p4b0",
+  "p5b0",
+  "p6b0",
+  "p7b0",
+  "p8b1",
+  "p1b14",
+  "p2b19"
+ ]
+}

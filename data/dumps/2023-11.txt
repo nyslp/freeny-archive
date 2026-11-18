@@ -1,0 +1,345 @@
+# ISSUE 2023-11  (12 pages)
+
+=== PAGE 1 ===
+[p1b0] (Journal 128; x130-577 y6-177) Free New York
+[p1b1] (Roboto-BoldItalic 12; x36-576 y147-163) The Official Newsletter of the Libertarian Party of New York Vol. 52, No. 11 November 2023
+[p1b11] (Avenir-Black 28; x40-388 y159-206) 2023 ELECTION RESULTS:
+[p1b12] (Avenir-Black 22; x42-386 y188-225) 6 CANDIDATES WIN ELECTIONS
+[p1b4] (Roboto-Bold 14; x422-558 y175-194) TABLE OF CONTENTS
+[p1b13] (Roboto-Bold 11; x68-176 y223-237) by Andrew M. Kolstee
+[p1b14] (Roboto-Bold 11; x94-150 y235-249) LPNY Chair
+[p1b8] (Georgia 12; x220-395 y232-289) In Steuben County, Angela Einwachter was re-elected to Prattsburgh Town Council in a two-way race with two seats available.
+[p1b2] (Roboto-Bold 9; x407-568 y201-285) 2023 Election Results ......................... 1 Empire State Freedom Summit......... 2-3 Help Us Get A3312 Reintroduced ........ 4 2024 National Convention .................. 5 U … .... 8-10 LPNY Directory................................. 12
+[p1b5] (Georgia 12; x36-211 y255-352) The 2023 election season is over and we almost have the official results. Some counties have certified election results, but not all. The deadline for certification is in early December, but the results are mostly complete.
+[p1b9] (Georgia 12; x220-395 y300-465) In Oneida County, there were two victories. Oneida County Libertarian Party Chair Keith Redhead was elected Ava Town Supervisor in a contested two-way race against Republican candi … r the Libertarian Party of New York for that type of office.
+[p1b15] (Georgia 12; x404-579 y291-334) race for Town Supervisor while Sharon Forersch won her race for Town Clerk.
+[p1b16] (Georgia 12; x404-579 y345-483) Congratulations to the winners and congratulations and thank you to everyone who ran for office to represent the Libertarian Party this year! We don’t have automatic ballot access  …  still had candidates on the ballot—and still had victories!
+[p1b6] (Georgia 12; x36-211 y363-433) There were Libertarian candidates across the state running for office for the 2023 elections. Of the 18 candidates, there were 6 victories.
+[p1b7] (Georgia 12; x36-211 y444-514) In Chautauqua County, Ryan Sanders was re-elected Sherman Village Trustee, running for one of two positions in a race with only two candidates.
+[p1b10] (Georgia 12; x220-395 y475-519) In the Town of Marilla in Erie County, cross-endorsed candidate Earl Gingerich, Jr. won his
+[p1b17] (Georgia 12; x404-579 y493-523) We now proceed to the 2024 election cycle!
+[p1i1] IMAGE at x36-576 y532-756
+[p1b3] (Roboto-Bold 16; x429-576 y756-777) NOVEMBER 2023 | 1
+
+=== PAGE 2 ===
+[p2b4] (Avenir-Black 32; x39-573 y28-81) EMPIRE STATE FREEDOM SUMMIT
+[p2b5] (Avenir-Black 32; x46-566 y66-119) HELD AT RAIL LINE IN SYRACUSE
+[p2b6] (Roboto-Bold 11; x68-176 y113-127) by Andrew M. Kolstee
+[p2i0] IMAGE at x219-577 y112-329
+[p2b1] (Georgia 12; x36-211 y145-389) The second Empire State Freedom Summit was held at the Rail Line in Syracuse on November 10-11, 2023. The event began on Friday evening with entertainment from comedian, writer, an … resent for this opportunity: Joshua Smith and Mike ter Maat.
+[p2b7] (Roboto-Bold 11; x94-150 y125-139) LPNY Chair
+[p2i1] IMAGE at x219-393 y346-544
+[p2b8] (Calibri-BoldItalic 8; x352-444 y330-340) Lou Perez on Friday evening
+[p2i2] IMAGE at x403-577 y346-546
+[p2b2] (Georgia 12; x36-211 y408-652) On Saturday, the event began in the afternoon with three speakers who had never spoken at an LPNY event before: Shane Hazel, a Libertarian candidate who spoke on Bitcoin; Dr. Clayt … ded the event with a fundraiser, including a silent auction.
+[p2i3] IMAGE at x219-576 y559-757
+[p2b9] (Calibri-BoldItalic 8; x244-554 y546-556) Joshua Smith, candidate for President Mike ter Maat, candidate for President
+[p2b3] (Georgia 12; x36-211 y670-722) Thank you to everyone who helped organize and to everyone who attended this event!
+[p2b0] (Roboto-Bold 16; x36-183 y756-777) 2 | NOVEMBER 2023
+
+=== PAGE 3 ===
+[p3i0] IMAGE at x35-381 y35-263
+[p3i4] IMAGE at x385-577 y35-263
+[p3b1] (Calibri-BoldItalic 8; x151-265 y264-274) Shane Hazel speaking on Saturday
+[p3i3] IMAGE at x35-214 y281-497
+[p3i1] IMAGE at x218-576 y281-497
+[p3i2] IMAGE at x36-393 y514-730
+[p3b2] (Calibri-BoldItalic 8; x332-463 y498-508) Dr. Clayton Baker speaking on Saturday
+[p3i5] IMAGE at x398-577 y514-730
+[p3b0] (Roboto-Bold 16; x429-576 y756-777) NOVEMBER 2023 | 3
+[p3b3] (Calibri-BoldItalic 8; x429-546 y731-741) Dan Warmus speaking on Saturday
+
+=== PAGE 4 ===
+[p4b1] (Avenir-Black 42; x68-547 y63-174) HELP US GET A3312 REINTRODUCED
+[p4b2] (Avenir-Black 27; x58-565 y221-304) This bill, from the 2023 legislative session, would have lowered the ballot
+[p4b3] (Avenir-Black 27; x61-554 y297-342) access thresholds back to the previous
+[p4b4] (Avenir-Black 27; x65-558 y335-418) standards: the number of votes needed to get ballot access to 50,000
+[p4b5] (Avenir-Black 27; x74-541 y411-456) (from 130,000 or 2%), and lower the
+[p4b6] (Avenir-Black 27; x77-538 y449-494) petition signature requirement for a
+[p4b7] (Avenir-Black 27; x61-562 y487-646) statewide office to 15,000 (from 45,000). Contact your representatives in the New York State Legislature and ask them to support reintroducing this
+[p4b8] (Avenir-Black 27; x80-535 y639-684) bill for the 2024 legislative session!
+[p4b0] (Roboto-Bold 16; x36-183 y756-777) 4 | NOVEMBER 2023
+
+=== PAGE 5 ===
+[p5b1] (Roboto-Bold 24; x229-383 y585-617) LEARN MORE:
+[p5b2] (Roboto-Bold 65; x89-523 y619-706) LNC2024.COM
+[p5b0] (Roboto-Bold 16; x429-576 y756-777) NOVEMBER 2023 | 5
+
+=== PAGE 6 ===
+[p6b94] (Avenir-Black 39; x42-570 y28-93) UPDATES FROM THE CHAIR
+[p6b92] (Roboto-Bold 11; x76-168 y85-99) by Andrew Kolstee
+[p6b93] (Roboto-Bold 11; x94-150 y97-111) LPNY Chair
+[p6b29] (Georgia 12; x220-395 y81-98) didate would need to be selected
+[p6b30] (Georgia 12; x220-395 y100-117) in order to get a candidate on the
+[p6b31] (Georgia 12; x220-395 y119-136) ballot. If the Libertarian Party of
+[p6b60] (Georgia 12; x404-579 y81-98) Chair and Legislative Affairs
+[p6b61] (Georgia 12; x404-579 y100-117) Director, is leading efforts to
+[p6b62] (Georgia 12; x404-576 y119-136) get ballot access legislation in
+[p6b0] (Georgia 12; x36-211 y129-145) Here is this month’s update on
+[p6b1] (Georgia 12; x36-208 y148-164) some of the things going on be
+[p6b32] (Georgia 12; x220-392 y138-155) New York has a successful pe
+[p6b33] (Georgia 12; x220-395 y157-174) titioning drive, the placeholder
+[p6b63] (Georgia 12; x404-579 y138-155) troduced that would reduce the
+[p6b64] (Georgia 12; x404-579 y157-174) ballot access thresholds back to
+[p6b2] (Georgia 12; x36-208 y167-183) hind the scenes at the Libertari
+[p6b3] (Georgia 12; x36-152 y186-202) an Party of New York.
+[p6b34] (Georgia 12; x220-395 y176-193) candidate is able to withdraw in
+[p6b35] (Georgia 12; x220-395 y195-212) favor of the candidate selected
+[p6b65] (Georgia 12; x404-579 y176-193) the old standards. Contact Rich
+[p6b66] (Georgia 12; x404-579 y195-212) Purtell at rpurtell@lpny.org if
+[p6b4] (Georgia-Bold 12; x71-173 y224-240) State Committee
+[p6b36] (Georgia 12; x220-392 y214-231) at the Libertarian National Con
+[p6b37] (Georgia 12; x220-263 y233-250) vention.
+[p6b67] (Georgia 12; x404-579 y214-231) you would like to help with this
+[p6b68] (Georgia 12; x404-436 y233-250) effort.
+[p6b5] (Georgia 12; x36-208 y243-259) The next State Committee meet
+[p6b6] (Georgia 12; x36-208 y262-278) ing will be held on Monday, De
+[p6b38] (Georgia 12; x220-392 y271-288) We will also choose our U.S. Sen
+[p6b69] (Georgia-Bold 12; x422-558 y271-288) Website and Database
+[p6b7] (Georgia 12; x36-208 y281-297) cember 4, 2023. We have vacan
+[p6b8] (Georgia 12; x36-211 y300-316) cies remaining on the committee
+[p6b9] (Georgia 12; x36-211 y319-335) that can be filled at this meeting.
+[p6b39] (Georgia 12; x220-395 y290-307) ate candidate. We are looking for
+[p6b40] (Georgia 12; x220-395 y309-326) bids for the location, in which
+[p6b70] (Georgia 12; x404-579 y290-307) Work continues on the website
+[p6b71] (Georgia 12; x404-579 y309-326) and database, but most of the
+[p6b10] (Georgia 12; x36-208 y338-354) We will also be electing our Plat
+[p6b11] (Georgia 12; x36-208 y357-373) form and Credentials Commit
+[p6b41] (Georgia 12; x220-395 y328-345) the Executive Committee is to
+[p6b42] (Georgia 12; x220-387 y347-364) finalize sometime in December.
+[p6b72] (Georgia 12; x404-579 y328-345) work has been focused on the
+[p6b73] (Georgia 12; x404-579 y347-364) database, in which there are a
+[p6b12] (Georgia 12; x36-211 y376-392) tee representatives for the 2024
+[p6b13] (Georgia 12; x36-211 y395-411) Libertarian National Convention
+[p6b43] (Georgia-Bold 12; x225-387 y385-402) 2024 National Convention
+[p6b74] (Georgia 12; x404-579 y366-383) few remaining tasks to complete
+[p6b75] (Georgia 12; x404-482 y385-402) the migration.
+[p6b14] (Georgia 12; x36-120 y414-430) at that meeting.
+[p6b44] (Georgia 12; x220-395 y404-421) The 2024 Libertarian National
+[p6b45] (Georgia 12; x220-395 y423-440) Convention is scheduled for May
+[p6b76] (Georgia-Bold 12; x442-538 y423-440) 2024 Campaign
+[p6b15] (Georgia-Bold 12; x68-176 y452-468) 2024 Nominating
+[p6b16] (Georgia-Bold 12; x86-158 y471-487) Convention
+[p6b46] (Georgia 12; x220-395 y442-459) 23-27, 2024 in Washington, D.C.
+[p6b47] (Georgia 12; x220-395 y461-478) Delegate numbers are locked in,
+[p6b77] (Georgia 12; x404-579 y442-459) The Petitioning Committee has
+[p6b78] (Georgia 12; x404-579 y461-478) met and is exploring ideas for a
+[p6b17] (Georgia 12; x36-211 y490-506) The Libertarian Party of New
+[p6b18] (Georgia 12; x36-208 y509-525) York will hold a nominating con
+[p6b48] (Georgia 12; x220-392 y480-497) and New York will have 41 dele
+[p6b49] (Georgia 12; x220-279 y499-516) gate spots.
+[p6b79] (Georgia 12; x404-579 y480-497) potential statewide petitioning
+[p6b80] (Georgia 12; x404-576 y499-516) drive in 2024. If you are inter
+[p6b81] (Georgia 12; x404-579 y518-535) ested in joining this committee,
+[p6b19] (Georgia 12; x36-208 y528-544) vention to choose our placehold
+[p6b20] (Georgia 12; x36-211 y547-563) er candididates for President
+[p6b50] (Georgia 12; x220-392 y537-554) If you would like to be a dele
+[p6b51] (Georgia 12; x220-395 y556-573) gate, a form has been sent out
+[p6b82] (Georgia 12; x404-496 y537-554) please reach out.
+[p6b21] (Georgia 12; x36-211 y566-582) and Vice President in the spring
+[p6b22] (Georgia 12; x36-80 y585-601) of 2024.
+[p6b52] (Georgia 12; x220-395 y575-592) for interested individuals to
+[p6b53] (Georgia 12; x220-395 y594-611) sign up. We will be choosing our
+[p6b84] (Georgia 12; x404-579 y594-611) The Platform Committee,
+[p6b83] (Georgia-Bold 12; x427-553 y575-592) Platform Committee
+[p6b23] (Georgia 12; x36-211 y623-639) Since the Libertarian National
+[p6b54] (Georgia 12; x220-395 y613-630) delegates in early 2024. Emails
+[p6b55] (Georgia 12; x220-395 y632-649) will be sent to remind everyone
+[p6b85] (Georgia 12; x404-576 y613-630) chaired by Dan Castello, is cur
+[p6b86] (Georgia 12; x404-579 y632-649) rently working on revamping the
+[p6b24] (Georgia 12; x36-211 y642-658) Convention will be held at the
+[p6b25] (Georgia 12; x36-211 y661-677) end of the petitioning period,
+[p6b56] (Georgia 12; x220-395 y651-668) about the form and to apply to
+[p6b57] (Georgia 12; x220-292 y670-687) be a delegate.
+[p6b87] (Georgia 12; x404-579 y651-668) state platform. When the work is
+[p6b88] (Georgia 12; x404-579 y670-687) completed, a series of proposals
+[p6b26] (Georgia 12; x36-211 y680-696) and so when petitioning begins,
+[p6b27] (Georgia 12; x36-211 y699-715) it is unknown who the nominee
+[p6b28] (Georgia 12; x36-208 y718-734) will be, and so a placeholder can
+[p6b58] (Georgia-Bold 12; x230-382 y708-725) Ballot Access Legislation
+[p6b89] (Georgia 12; x404-576 y689-706) will be sent to the State Commit
+[p6b90] (Georgia 12; x404-579 y708-725) tee for consideration to amend
+[p6b95] (Roboto-Bold 16; x36-183 y756-777) 6 | NOVEMBER 2023
+[p6b59] (Georgia 12; x220-392 y727-744) Rich Purtell, LPNY 2nd Vice-
+[p6b91] (Georgia 12; x404-473 y727-744) the platform.
+
+=== PAGE 7 ===
+[p7b0] (Avenir-Black 46; x50-562 y505-582) DONATE TO THE LPNY
+[p7b1] (Avenir-Black 46; x82-530 y571-648) LPNY.ORG/DONATE
+[p7b2] (Roboto-Bold 16; x429-576 y756-777) NOVEMBER 2023 | 7
+
+=== PAGE 8 ===
+[p8b0] (Avenir-Black 42; x37-575 y25-94) COUNTY AFFILIATE NEWS
+[p8b3] (Georgia-Bold 12; x80-164 y114-147) CONTACT: Vacant, Chair
+[p8b2] (Roboto-Bold 18; x88-156 y85-109) ALBANY
+[p8b22] (Georgia 12; x222-390 y114-147) TRIVIA NIGHT: Wed., Dec. 27, 2023 at 6:30 PM
+[p8b21] (Roboto-Bold 18; x237-375 y85-109) CHEMUNG, cont.
+[p8b42] (Georgia-Bold 12; x437-543 y114-131) NEXT MEETING:
+[p8b41] (Roboto-Bold 18; x444-536 y85-109) DUTCHESS
+[p8b23] (Georgia 12; x250-362 y147-163) at Ill Eagle Taphouse
+[p8b43] (Georgia 12; x432-548 y131-163) Held 3rd Saturdays Time/Location Varies
+[p8b5] (Georgia-Bold 12; x57-187 y194-243) CONTACT: Jame VanDewalker, Acting County Chair/
+[p8b4] (Roboto-Bold 18; x78-166 y165-189) ALLEGANY
+[p8b25] (Georgia-Bold 12; x244-368 y194-227) CONTACT: Craig Colwell, Chair
+[p8b24] (Georgia 12; x258-354 y163-179) (4th Wednesdays)
+[p8b44] (Georgia-Bold 12; x421-559 y178-227) CONTACT: Catrina Rocco, Chair DCLPChair@outlook.com
+[p8b26] (Georgia 12; x257-355 y227-243) ccolwell@lpny.org
+[p8b7] (Georgia 12; x52-192 y274-307) LEARN MORE: fb.com/AlleganyCountyLP
+[p8b6] (Georgia 12; x59-185 y242-275) County Liasion jvandewalker@lpny.org
+[p8b27] (Georgia-Bold 12; x259-353 y258-275) LEARN MORE:
+[p8b28] (Georgia 12; x266-346 y275-291) lpchemung.org
+[p8b46] (Georgia 12; x427-553 y274-307) NEXT MEETING: Held Monthly via Zoom
+[p8b45] (Roboto-Bold 18; x471-509 y245-269) ERIE
+[p8b29] (Roboto-Bold 18; x258-354 y309-333) CHENANGO
+[p8b9] (Georgia 12; x37-207 y354-387) NEXT MEETING: Thurs., Dec. 5, 2023 @ 7:00 PM
+[p8b8] (Roboto-Bold 18; x63-181 y325-349) CHAUTAUQUA
+[p8b30] (Georgia-Bold 12; x220-392 y338-371) CONTACT: Tom Quiter, County Liasion
+[p8b47] (Georgia-Bold 12; x416-564 y322-371) CONTACT: Duane Whitmer, Chair chairman@eriecountylp.org
+[p8b10] (Georgia 12; x47-197 y387-403) Lakeview Hotel & Resturant
+[p8b31] (Georgia 12; x260-352 y371-387) tquiter@lpny.org
+[p8b48] (Roboto-Bold 18; x457-523 y389-413) FULTON
+[p8b11] (Georgia 12; x60-184 y403-419) Mayville, NY and Zoom
+[p8b12] (Georgia-Bold 12; x62-182 y434-467) CONTACT: Len Morlock, Chair
+[p8b33] (Georgia 12; x230-382 y434-467) NEXT MEETING: Wed., Dec. 20, 2023 @ 7 PM
+[p8b32] (Roboto-Bold 18; x261-351 y405-429) COLUMBIA
+[p8b49] (Georgia-Bold 12; x419-561 y418-467) CONTACT: Michael Long, Acting Chair/Secretary
+[p8b13] (Georgia-Bold 12; x40-204 y467-499) lmorlock@lpny.org Andrew Kolstee, Secretary
+[p8b34] (Georgia 12; x246-366 y467-483) Claverack Free Library
+[p8b50] (Georgia 12; x446-534 y467-483) mlong@lpny.org
+[p8b14] (Georgia 12; x73-171 y499-515) akolstee@lpny.org
+[p8b35] (Georgia 12; x254-358 y483-515) and Google Meet (third Wednesdays)
+[p8b51] (Roboto-Bold 18; x409-571 y501-525) KINGS (BROOKLYN)
+[p8b15] (Georgia 12; x58-186 y530-563) LEARN MORE: www.chautauquaLP.org
+[p8b36] (Georgia-Bold 12; x236-376 y530-579) CONTACT: Scott Hoskins, Chair scottdhoskins@gmail.com
+[p8b52] (Georgia 12; x415-565 y530-563) NEXT MEETING: Tues., Dec. 19, 2023 at 3 PM
+[p8b16] (Georgia 12; x63-181 y563-579) fb.com/chautauquaLP
+[p8b17] (Roboto-Bold 18; x78-166 y597-621) CHEMUNG
+[p8b37] (Roboto-Bold 18; x269-343 y597-621) CLINTON
+[p8b53] (Georgia 12; x408-572 y563-595) @ Fourth Avenue Pub 76 4th Ave, Brooklyn, NY 11217
+[p8b54] (Georgia 12; x446-534 y595-611) (third Tuesdays)
+[p8b18] (Georgia 12; x47-197 y626-659) NEXT MEETING: Tues., Dec, 12, 2023 at 6 PM
+[p8b38] (Georgia-Bold 12; x253-359 y626-659) CONTACT: Zachary Remian,
+[p8b55] (Georgia-Bold 12; x405-575 y626-675) CONTACT: Matthew Morgan, Chair matthewisaiahmorgan@gmail.com
+[p8b19] (Georgia 12; x66-178 y659-675) at Ill Eagle Taphouse
+[p8b20] (Georgia 12; x81-163 y675-691) (2nd Tuesdays)
+[p8b39] (Georgia 12; x257-355 y658-691) County Liaison zremian@lpny.org
+[p8b40] (Georgia 12; x265-347 y691-707) (518) 310-6664
+[p8b1] (Roboto-Bold 16; x36-183 y756-777) 8 | NOVEMBER 2023
+
+=== PAGE 9 ===
+[p9b2] (Georgia-Bold 12; x52-193 y73-105) CONTACT: Christopher Lyndaker,
+[p9b1] (Roboto-Bold 18; x96-148 y44-68) LEWIS
+[p9b21] (Georgia 12; x231-381 y73-105) NEXT MEETING: Tues., Dec. 12, 2023 at 7 PM
+[p9b20] (Roboto-Bold 18; x245-367 y44-68) NASSAU, cont.
+[p9b42] (Georgia 12; x412-568 y71-104) NEXT MEETING: Thurs., Dec. 14, 2023 at 7 PM
+[p9b41] (Roboto-Bold 18; x453-527 y42-66) PUTNAM
+[p9b3] (Georgia 12; x51-193 y105-137) Acting County Chair lyndaker2020@gmail.com
+[p9b22] (Georgia 12; x255-357 y105-121) @ Landmark Diner
+[p9b43] (Georgia 12; x405-575 y103-136) at McCarthy’s 374 Route 52, Carmel, NY 10512
+[p9b4] (Roboto-Bold 18; x82-162 y156-180) MADISON
+[p9b24] (Georgia-Bold 12; x221-391 y153-217) CONTACT: Jon Gunther, Executive Committee Chair jonguntherlibertarian@gmail.com
+[p9b23] (Georgia 12; x262-350 y121-137) (2nd Thursdays)
+[p9b44] (Georgia 12; x446-534 y135-152) (2nd Thursdays)
+[p9b5] (Georgia-Bold 12; x56-188 y185-217) CONTACT: Mark Braiman, Chair
+[p9b45] (Georgia-Bold 12; x425-555 y167-216) CONTACT: Bill O’Donnell, Chair billod10704@gmail.com
+[p9b6] (Georgia 12; x67-177 y217-233) mbraiman@lpny.org
+[p9b25] (Georgia-Bold 12; x230-382 y217-249) Blay Tarnoff, County Committee Chair
+[p9b46] (Roboto-Bold 18; x455-525 y234-258) QUEENS
+[p9b7] (Roboto-Bold 18; x84-160 y252-276) MONROE
+[p9b26] (Georgia 12; x258-354 y249-265) LPNY@eblay.com
+[p9b47] (Georgia-Bold 12; x429-551 y263-312) CONTACT: John Clifton, Chair mrjclifton@yahoo.com
+[p9b8] (Georgia 12; x36-211 y281-377) Contact the Monroe County Libertarian Party for meeting link. We also have monthly social meetings that you don’t want to miss. There is also Google Group for announcements.
+[p9b27] (Roboto-Bold 14; x222-390 y287-305) NEW YORK (MANHATTAN)
+[p9b28] (Georgia-Bold 12; x232-380 y313-345) CONTACT: Chance Haywood, Chair
+[p9b29] (Georgia 12; x252-360 y345-361) chaywood@lpny.org
+[p9b50] (Georgia 12; x404-579 y359-456) Since October 2022, the Rensselaer County Libertarian Party has been collecting food items and monetary donations to give monthly to StreetSoldiers Rensselaer.
+[p9b49] (Roboto-Bold 18; x434-546 y330-354) RENSSELAER
+[p9b48] (Georgia 12; x447-533 y327-344) (2nd Saturdays)
+[p9b9] (Georgia 12; x45-199 y393-425) NEXT MEETING: Thurs., Dec. 5., 2023 @ 7 PM
+[p9b30] (Roboto-Bold 18; x274-338 y380-404) ONEIDA
+[p9b10] (Georgia 12; x78-166 y425-441) (first Thursdays)
+[p9b31] (Georgia-Bold 12; x240-372 y409-441) CONTACT: Keith Redhead, Chair
+[p9b11] (Georgia-Bold 12; x62-182 y457-489) CONTACT: Steve Becker, Chair
+[p9b32] (Georgia 12; x254-358 y441-457) kredhead@lpny.org
+[p9b33] (Roboto-Bold 18; x258-354 y476-500) ONONDAGA
+[p9b51] (Georgia 12; x408-572 y471-520) NEXT MEETING: Wed., Dec. 6, 2023 at 6:30 PM Alexis Diner, North Greenbush
+[p9b12] (Georgia 12; x70-174 y489-505) drsbecker@aol.com
+[p9b34] (Georgia 12; x230-382 y505-537) NEXT MEETING: Wed., Dec. 20, 2023 at 6 PM
+[p9b52] (Georgia 12; x440-540 y519-536) (first Wednesdays)
+[p9b13] (Georgia 12; x68-176 y521-553) LEARN MORE: monroecountylp.org
+[p9b35] (Georgia 12; x233-379 y537-569) @ Rail Line 530 S. Clinton St., Syracuse
+[p9b53] (Georgia-Bold 12; x428-552 y551-600) CONTACT: Jennifer O’Connor, Acting County Chair
+[p9b14] (Roboto-Bold 18; x87-157 y572-596) NASSAU
+[p9b36] (Georgia 12; x254-358 y569-585) (third Wednesdays)
+[p9b54] (Georgia 12; x439-541 y599-616) joconnor@lpny.org
+[p9b15] (Georgia-Bold 12; x47-197 y601-617) MEET THE CANDIDATE
+[p9b16] (Georgia 12; x70-174 y617-633) Meet Mike ter Maat
+[p9b17] (Georgia 12; x71-173 y633-649) Sun., Dec. 10, 2023
+[p9b37] (Georgia-Bold 12; x241-371 y601-633) CONTACT: Rachel Becker, Chair
+[p9b38] (Georgia 12; x261-351 y633-649) reb4128@rit.edu
+[p9b55] (Roboto-Bold 15; x406-574 y634-658) RICHMOND (STATEN ISLAND)
+[p9b18] (Georgia 12; x82-162 y649-681) 5 PM - 7 PM at Paddy’s Loaf
+[p9b39] (Roboto-Bold 18; x271-341 y668-692) ORANGE
+[p9b56] (Georgia-Bold 12; x405-575 y663-696) CONTACT: Susan Overeem Cummings,
+[p9b19] (Georgia 12; x82-162 y681-697) in Massapequa
+[p9b40] (Georgia-Bold 12; x240-372 y697-745) CONTACT: Juan Ayala, Chair livefree@juanrayala.com
+[p9b57] (Georgia 12; x419-561 y695-728) Chair susanovereem@gmail.com
+[p9b0] (Roboto-Bold 16; x429-576 y756-777) NOVEMBER 2023 | 9
+
+=== PAGE 10 ===
+[p10b2] (Georgia-Bold 12; x52-192 y71-104) CONTACT: Naz Garabedien, Chair
+[p10b1] (Roboto-Bold 18; x76-168 y42-66) SARATOGA
+[p10b15] (Georgia 12; x223-389 y71-104) NEXT MEETING: Mon., Dec. 11, 2023 at 6:30 PM
+[p10b14] (Roboto-Bold 18; x273-339 y42-66) ULSTER
+[p10b28] (Georgia-Bold 12; x425-555 y73-121) CONTACT: Rajib Maitra Acting County Chair/
+[p10b27] (Roboto-Bold 18; x427-553 y44-68) WESTCHESTER
+[p10b3] (Georgia 12; x62-182 y103-136) nazareth.garabedian @lawsonproducts.com
+[p10b16] (Georgia 12; x233-379 y103-120) Hickory BBQ, Kingston, NY
+[p10b17] (Georgia 12; x257-355 y119-136) (second Mondays)
+[p10b4] (Roboto-Bold 18; x72-172 y154-178) SCHOHARIE
+[p10b18] (Georgia-Bold 12; x231-381 y151-200) CONTACT: Cipriana Costello, Chair ciprianacostello@gmail.com
+[p10b29] (Georgia 12; x423-557 y121-153) County Liaison rajib.maitra1@gmail.com
+[p10b5] (Georgia-Bold 12; x64-180 y183-216) CONTACT: Lora Newell, Chair
+[p10b30] (Roboto-Bold 18; x463-517 y172-196) YATES
+[p10b6] (Georgia 12; x76-168 y215-232) lnewell@lpny.org
+[p10b20] (Roboto-Bold 18; x248-364 y218-242) WASHINGTON
+[p10b19] (Georgia 12; x257-355 y215-232) www.UlsterLP.org
+[p10b31] (Georgia-Bold 12; x432-548 y201-233) CONTACT: Jeff Bradley, Chair
+[p10b32] (Georgia 12; x441-539 y233-249) jbradley@lpny.org
+[p10b8] (Georgia-Bold 12; x46-198 y279-312) CONTACT: George Ostrowski, Chair
+[p10b7] (Roboto-Bold 18; x83-161 y250-274) SUFFOLK
+[p10b21] (Georgia-Bold 12; x241-371 y247-296) CONTACT: Brian Wells, Acting County Chair/
+[p10b9] (Georgia 12; x57-187 y311-328) gtostrowskijr@msn.com
+[p10b22] (Georgia 12; x248-364 y295-328) County Liasion blwells45@gmail.com
+[p10b10] (Roboto-Bold 18; x96-148 y346-370) TIOGA
+[p10b23] (Roboto-Bold 18; x275-337 y346-370) WAYNE
+[p10b11] (Georgia-Bold 12; x70-174 y375-408) CONTACT: Sara Price, Chair
+[p10b24] (Georgia-Bold 12; x250-362 y375-408) CONTACT: Jim Dayton, Chair
+[p10b12] (Georgia-Bold 12; x49-195 y407-440) sprice@lpny.org Rich Purtell, Vice-Chair
+[p10b13] (Georgia 12; x74-170 y439-456) rpurtell@lpny.org
+[p10b26] (Georgia 12; x256-356 y423-456) LEARN MORE: lpwaynecounty.org
+[p10b25] (Georgia 12; x258-354 y407-424) jdayton@lpny.org
+[p10b33] (Roboto-Bold 26; x138-474 y486-520) Don’t see your county listed?
+[p10b34] (Roboto-Bold 26; x109-503 y548-614) We are looking for Libertarians to organize new County Affiliates!
+[p10b35] (Roboto-Bold 26; x144-468 y642-676) Contact us for more details!
+[p10b36] (Roboto-Bold 26; x196-416 y704-739) affiliates@lpny.org
+[p10b0] (Roboto-Bold 16; x36-193 y756-777) 10 | NOVEMBER 2023
+
+=== PAGE 11 ===
+[p11b1] (Roboto-Bold 32; x103-509 y645-688) SHOP LPNY MERCHANDISE SHOP LPNY MERCHANDISE
+[p11b2] (Roboto-Bold 45; x123-489 y686-746) LPNYSTORE.COM LPNYSTORE.COM
+[p11b0] (Roboto-Bold 16; x419-576 y756-777) NOVEMBER 2023 | 11
+
+=== PAGE 12 ===
+[p12b0] (Avenir-Black 62.5; x37-575 y12-116) LPNY DIRECTORY
+[p12b3] (Roboto-Bold 14; x44-200 y99-117) EXECUTIVE COMMITTEE
+[p12b10] (Roboto-Bold 14; x286-510 y99-117) DIRECTORS & COMMITTEE CHAIRS
+[p12b2] (Roboto-Bold 12; x48-209 y124-293) Andrew Kolstee Chair Duane Whitmer 1st Vice-Chair Rich Purtell 2nd Vice-Chair Mark Braiman Secretary W. Cody Anderson Treasurer Maura Botsford At-Large Justin Carman At-Large Keith Redhead At-Large William Schmidt At-Large Karyn Thompson At-Large
+[p12b8] (Roboto-Regular 12; x235-393 y124-299) Duane Whitmer Communications Director Andrew Kolstee Field Development Director Chance Haywood Finance Director Justin Carman IT Director Richard Purtell Legislative Affairs Director Steve Felano Outreach Director
+[p12b9] (Roboto-Regular 12; x403-552 y124-270) Keith Redhead Personnel Director Paul Grindle Political Director Maura Botsford Events Coordinator Mark Glogowski Platform Committee Chair Andrew Kolstee Rules Committee Chair
+[p12b7] (Roboto-Bold 14; x244-368 y304-322) STATE COMMITTEE
+[p12b4] (Roboto-Bold 12; x54-190 y328-712) Mark Axinn (JD1) Morry Davis (JD1) Chance Haywood (JD1) Paul Grindle (JD2) Matthew Morgan (JD2) Gary Popkin (JD2) W. Cody Anderson (JD3) Justin Carman (JD3) Lora Newell (JD3) Jenni … oon (JD5) Keith Redhead (JD5) Craig Shute (JD5) Vacant (JD5)
+[p12b5] (Roboto-Bold 12; x226-365 y328-712) Mark Braiman (JD6) Craig Colwell (JD6) Christopher Olenski (JD6) David Penner (JD6) Vacant (JD6) Vacant (JD6) Steven Becker (JD7) Jeffrey Bradley (JD7) Mark Glogowski (JD7) Sean Ph … el Rebmann (JD8) Charles Roggen (JD8) Jame VanDewalker (JD8)
+[p12b6] (Roboto-Bold 12; x398-549 y328-696) Duane Whitmer (JD8) Juan Ayala (JD9) Robert Cocomello (JD9) Daniel Donnelly (JD9) Robert Greibesland (JD9) William Schmidt (JD9) Christian Vondras (JD9) Jeffrey Denecke (JD10) Jona … 12) Vacant (JD13) Vacant (JD13) Richard Purtell (ex-officio)
+[p12b1] (Roboto-Bold 16; x36-193 y756-777) 12 | NOVEMBER 2023
+[p12b11] (Roboto-Bold 20; x62-555 y721-748) info@lpny.org www.LPNY.org 866-336-3120

@@ -1,0 +1,1418 @@
+{
+ "issue": "2023-02",
+ "volume": 52,
+ "number": 2,
+ "articles": [
+  {
+   "title": "LPNY Responds to State of the State",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "legislation",
+    "policy"
+   ],
+   "summary": "LPNY's Outreach Director and 1st Vice-Chair deliver the party's official response to Gov. Hochul's State of the State address, available on the LPNY YouTube channel.",
+   "title_blocks": [
+    "p1b6"
+   ],
+   "byline_blocks": [
+    "p1b7",
+    "p1b8"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p1b0"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b2"
+     ]
+    },
+    {
+     "type": "image",
+     "id": "p1i2",
+     "caption_blocks": []
+    },
+    {
+     "type": "image",
+     "id": "p1i1",
+     "caption_blocks": [
+      "p1b12",
+      "p1b13",
+      "p1b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p1b3"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "Quiter Announces Candidacy for Guilford Town Supervisor",
+   "author": "Tom for Guilford Campaign",
+   "kind": "article",
+   "tags": [
+    "candidates",
+    "elections"
+   ],
+   "counties": [
+    "Chenango"
+   ],
+   "summary": "Chenango County Chair Thomas Quiter announces his run for Guilford Town Supervisor on a platform of consensus, free markets and personal responsibility.",
+   "title_blocks": [
+    "p2b1"
+   ],
+   "byline_blocks": [
+    "p2b9"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p2i0",
+     "caption_blocks": [
+      "p2b20"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b4",
+      "p2b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b6",
+      "p2b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b8"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author_role": null
+  },
+  {
+   "title": "State Committee Meeting to Be Held March 5, 2023",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "party business"
+   ],
+   "summary": "The LPNY State Committee meets March 5 to fill vacancies, consider proposed rules amendments and a resolution on 2024 statewide candidates.",
+   "title_blocks": [
+    "p2b10"
+   ],
+   "byline_blocks": [
+    "p2b18",
+    "p2b19"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p2b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b12",
+      "p2b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b17"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "Assembly Bill Introduced to Restore Old Ballot Access Thresholds",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "ballot access",
+    "legislation"
+   ],
+   "summary": "Assembly bill A3312 would return ballot access thresholds to pre-COVID levels, and LPNY urges members to ask their legislators to support it.",
+   "title_blocks": [
+    "p3b1",
+    "p3b2"
+   ],
+   "byline_blocks": [
+    "p3b11",
+    "p3b12"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p3i0",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b6",
+      "p3b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b8",
+      "p3b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b10"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "Anti-War Rally to Be Held in D.C.",
+   "author": "Justin Carman",
+   "author_role": "LPNY Member-At-Large",
+   "kind": "article",
+   "tags": [
+    "events"
+   ],
+   "summary": "A February 19 anti-war rally at the Lincoln Memorial, organized by the Libertarian Party and the People's Party, will have buses from New York City.",
+   "title_blocks": [
+    "p4b10"
+   ],
+   "byline_blocks": [
+    "p4b14"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p4i0",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b11",
+      "p4b12"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b13"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "2022 Write-In Results Still Unknown from 10 Counties",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "elections"
+   ],
+   "summary": "Three months after Election Day, ten county boards of elections have still not provided write-in totals, including for Larry Sharpe.",
+   "title_blocks": [
+    "p4b0",
+    "p4b1"
+   ],
+   "byline_blocks": [
+    "p4b8",
+    "p4b9"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p4b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b3",
+      "p4b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b5",
+      "p4b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b7"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "Paul Grindle Appointed Political Director",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "party business",
+    "candidates"
+   ],
+   "summary": "The Executive Committee appointed Paul Grindle, a veteran campaign manager and former Candidate Support Committee chair, as LPNY Political Director.",
+   "title_blocks": [
+    "p5b7",
+    "p5b8"
+   ],
+   "byline_blocks": [
+    "p5b16",
+    "p5b17"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p5b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b10",
+      "p5b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b12"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b13",
+      "p5b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b15"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "LPNY Seeks Finance Director",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "party business"
+   ],
+   "summary": "LPNY is still taking applications for Finance Director and describes the role and the Finance Division's committees.",
+   "title_blocks": [
+    "p5b0"
+   ],
+   "byline_blocks": [
+    "p5b5",
+    "p5b6"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p5b1",
+      "p5b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b3",
+      "p5b4"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "Shop LPNY Merchandise",
+   "kind": "ad",
+   "tags": [
+    "fundraising"
+   ],
+   "summary": "Advertisement for the LPNY merchandise store at LPNYStore.com.",
+   "title_blocks": [
+    "p5b18"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p5i1",
+     "caption_blocks": []
+    },
+    {
+     "type": "image",
+     "id": "p5i0",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b19"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "County Affiliate News",
+   "kind": "county-news",
+   "tags": [
+    "county affiliates",
+    "events"
+   ],
+   "summary": "Meeting dates, conventions, events and contacts for LPNY county affiliates across the state.",
+   "title_blocks": [
+    "p6b0"
+   ],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p6b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b4",
+      "p6b5"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b8",
+      "p6b9",
+      "p6b10"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b12"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b14",
+      "p6b15",
+      "p6b16",
+      "p6b17",
+      "p6b18"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b19"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b20",
+      "p6b21",
+      "p6b22",
+      "p6b23"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b24"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b25"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b26",
+      "p6b27"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b28"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b29"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b31",
+      "p6b32",
+      "p6b33",
+      "p6b34"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b35"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b36",
+      "p6b37",
+      "p6b38"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b39"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b40"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p6b41"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b4"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b5"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b8",
+      "p7b9",
+      "p7b10",
+      "p7b11"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b12"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b13"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b14"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b15",
+      "p7b16"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b17"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b18",
+      "p7b19",
+      "p7b20"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b21"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b22"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b23",
+      "p7b24",
+      "p7b25",
+      "p7b26"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b27"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b28",
+      "p7b29"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b30"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b31",
+      "p7b32",
+      "p7b33"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b34"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b35"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b36"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b37"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b38"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b39"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p7b40"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b41",
+      "p7b42",
+      "p7b43"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b4"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b5"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b6"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b8",
+      "p8b9",
+      "p8b10"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b11"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b12"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b16"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b17",
+      "p8b18",
+      "p8b19",
+      "p8b20"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b21"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b22"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b23",
+      "p8b24"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b25"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b26",
+      "p8b27"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b28"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b29",
+      "p8b30"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b31"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b32"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b33",
+      "p8b34"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b35"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b36"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b37"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b38"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b39"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b40",
+      "p9b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b4"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b6"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b9"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b10",
+      "p9b11",
+      "p9b12",
+      "p9b13",
+      "p9b14"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p9b16"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b17",
+      "p9b18"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p9b19"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p9b20",
+      "p9b21"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  },
+  {
+   "title": "Libertarian Party of Chemung County Comments on Installation of Flock Safety Cameras in City of Elmira",
+   "author": "Craig Colwell",
+   "author_role": "Chemung County Chair",
+   "kind": "article",
+   "tags": [
+    "policy",
+    "county affiliates"
+   ],
+   "counties": [
+    "Chemung"
+   ],
+   "summary": "The Chemung County party questions the cost, oversight and privacy implications of Flock license-plate cameras being installed in Elmira and urges attendance at a City Council workshop.",
+   "title_blocks": [
+    "p10b1",
+    "p10b2"
+   ],
+   "byline_blocks": [
+    "p10b11"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p10b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b4",
+      "p10b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b7",
+      "p10b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p10b10"
+     ]
+    }
+   ],
+   "subtitle": null
+  },
+  {
+   "title": "History Project Update",
+   "subtitle": "Historic List of Treasurers Completed",
+   "author": "Andrew Kolstee",
+   "author_role": "LPNY Chair",
+   "kind": "article",
+   "tags": [
+    "party history"
+   ],
+   "summary": "The LPedia history project now has a complete list of LPNY Treasurers from 1973 to today, missing only one convention date; lists of Chairs are also complete.",
+   "title_blocks": [
+    "p12b0",
+    "p12b1"
+   ],
+   "byline_blocks": [
+    "p12b8",
+    "p12b9"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p12i0",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p12b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p12b3",
+      "p12b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p12b5",
+      "p12b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p12b7"
+     ]
+    }
+   ],
+   "counties": []
+  },
+  {
+   "title": "Natural Gas Prohibition: Code Enforcement Officials Should Speak Out",
+   "author": "Rich Purtell",
+   "author_role": "LPNY 2nd Vice-Chair, LPNY Legislative Affairs Director",
+   "kind": "article",
+   "tags": [
+    "legislation",
+    "policy",
+    "opinion"
+   ],
+   "summary": "Rich Purtell argues that a ban on natural gas in new homes would hurt upstate New York and that code enforcement officials should say they will not enforce it.",
+   "title_blocks": [
+    "p13b1",
+    "p13b2",
+    "p13b3"
+   ],
+   "byline_blocks": [
+    "p13b12"
+   ],
+   "body": [
+    {
+     "type": "image",
+     "id": "p13i0",
+     "caption_blocks": []
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p13b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p13b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p13b6",
+      "p13b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p13b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p13b9",
+      "p13b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p13b11"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "counties": []
+  },
+  {
+   "title": "New York State Legislature and Independent Redistricting Commission Violate New York’s Constitution",
+   "subtitle": "Splitting Small Counties to Form Gerrymandered Assembly Districts",
+   "author": "Mark Braiman",
+   "author_role": "LPNY Secretary, Madison County Chair",
+   "kind": "article",
+   "tags": [
+    "opinion",
+    "legislation",
+    "policy"
+   ],
+   "counties": [
+    "Madison"
+   ],
+   "summary": "Mark Braiman argues the proposed Assembly map splits small counties such as Madison in violation of the state constitution and offers his own alternative map.",
+   "title_blocks": [
+    "p14b0",
+    "p14b9",
+    "p14b10",
+    "p14b7"
+   ],
+   "byline_blocks": [
+    "p14b4",
+    "p14b5"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p14b1",
+      "p14b2",
+      "p14b3",
+      "p15b0"
+     ]
+    },
+    {
+     "type": "image",
+     "id": "p15i0",
+     "caption_blocks": [
+      "p15b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p15b1",
+      "p15b2",
+      "p15b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p15b4"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "LPNY Directory",
+   "kind": "directory",
+   "tags": [
+    "party business"
+   ],
+   "summary": "LPNY's executive committee, directors and committee chairs, and state committee members.",
+   "title_blocks": [
+    "p16b0"
+   ],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p16b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p16b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p16b10"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p16b8",
+      "p16b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p16b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p16b4",
+      "p16b5",
+      "p16b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p16b11"
+     ]
+    }
+   ],
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "counties": [],
+   "byline_blocks": []
+  }
+ ],
+ "skip": [
+  "p6b13",
+  "p6b30",
+  "p7b1",
+  "p8b15",
+  "p9b1",
+  "p1b4",
+  "p1b5",
+  "p1b9",
+  "p1b10",
+  "p1b11",
+  "p2b0",
+  "p3b0",
+  "p4b15",
+  "p5b20",
+  "p6b1",
+  "p7b0",
+  "p8b0",
+  "p9b0",
+  "p10b0",
+  "p11b0",
+  "p12b10",
+  "p13b0",
+  "p14b6",
+  "p14b8",
+  "p15b6",
+  "p15b7",
+  "p16b1"
+ ]
+}

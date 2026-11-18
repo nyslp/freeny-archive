@@ -1,0 +1,429 @@
+# ISSUE 2025-06  (12 pages)
+
+=== PAGE 1 ===
+[p1b16] (Journal 128; x130-577 y6-177) Free New York
+[p1b17] (Roboto-BoldItalic 12; x36-576 y147-163) The Official Newsletter of the Libertarian Party of New York Vol. 54, No. 6 June 2025
+[p1b14] (Avenir-Black 35; x40-572 y157-215) SUMMER 2025: LPNY UPDATES
+[p1b25] (Roboto-Bold 11; x76-168 y212-227) by Andrew Kolstee
+[p1b26] (Roboto-Bold 11; x83-161 y224-239) LPNY Secretary
+[p1b7] (Georgia 11; x220-395 y209-269) to staff the booth. If you plan to attend the fair and can help, even for a few hours, please contact her at crocco@lpny.org.
+[p1b19] (Roboto-Bold 14; x422-558 y216-235) TABLE OF CONTENTS
+[p1b0] (Georgia 11; x36-211 y241-286) The summer has arrived, and here are the latest updates in the Libertarian Party of New York.
+[p1b15] (Roboto-Bold 9; x409-570 y242-326) Summer 2025: LPNY Updates............. 1 S227A................................................. 2 Splitting the Ind. Nom. Period............. 3 Onondaga LP Endorses Babilon........ … ... 10-11 LPNY Directory................................. 12
+[p1b1] (Georgia-Bold 11; x75-169 y301-316) 2025 Candidates
+[p1b9] (Georgia 11; x220-395 y314-479) There are still no updates on the Senate bill (S01870) or Assembly bill (A02724), which would reduce the thresholds for independent and third-party ballot access. Both remain in co … lymember to express your support for these critical reforms.
+[p1b8] (Georgia-Bold 11; x255-357 y284-299) Ballot Access Bills
+[p1b2] (Georgia 11; x36-211 y331-451) We have at least two candidates on the ballot this year, Matthew Morgan, running for New York City Council. In Syracuse, the Onondaga County Libertarian Party has cross-endorsed Thomas Babilon for Mayor, who is running on the Republcian ticket.
+[p1b20] (Georgia 11; x404-579 y342-387) gate count won’t be finalized until January 2026, expressing your interest now helps us prepare.
+[p1b21] (Georgia 11; x404-576 y402-462) If you’re interested in being considered as a delegate, email us at info@ lpny.org. A formal application process will open at a later date.
+[p1b3] (Georgia-BoldItalic 11; x52-192 y466-481) The Liberty Test Podcast
+[p1b22] (Georgia 11; x404-579 y477-552) LPNY Secretary Andrew Kolstee was also elected to the National Bylaws Committee which has begun their bylaws amendment deliberations for the national convention.
+[p1b4] (Georgia 11; x36-211 y496-586) New episodes of the LPNY’s podcast, The Liberty Test, continue to be released regularly. The podcast just released its 14th episode, entitled “The Mamdani Moment.” Watch and subscribe on YouTube!
+[p1b10] (Georgia-Bold 11; x248-364 y494-509) Fall In-Person Event
+[p1b11] (Georgia 11; x220-395 y524-614) The Executive Committee is finalizing details for an October in-person event in Rochester. If you have recommendations or would like to assist in planning, please reach out to us at info@lpny.org.
+[p1b24] (Georgia 11; x404-579 y597-702) The Executive Committee recently adopted a new donor benefit: anyone who donates $50 or more in a calendar year to the Libertarian Party of New York will be offered a complimentary National membership.
+[p1b23] (Georgia-Bold 11; x436-544 y567-582) New Donor Benefit
+[p1b6] (Georgia 11; x36-211 y631-736) We are still looking for volunteers to staff the booth at the New York State Fair. This is one of our biggest outreach efforts of the year, and volunteer help is essential. Volunteer Director Catrina Rocco is assembling a schedule of volunteers
+[p1b5] (Georgia-Bold 11; x65-179 y601-616) New York State Fair
+[p1b12] (Georgia-Bold 11; x232-380 y629-644) 2026 National Convention
+[p1b13] (Georgia 11; x220-395 y659-734) We are still gathering names of those interested in serving as Delegates to the 2026 Libertarian National Convention in Grand Rapids, Michigan. While the official dele
+[p1b18] (Roboto-Bold 16; x473-576 y756-777) JUNE 2025 | 1
+
+=== PAGE 2 ===
+[p2b16] (Avenir-Black 27; x44-568 y37-114) BENEFITS OF SPLITTING THE INDEPENDENT NOMINATING PETITION
+[p2b17] (Avenir-Black 27; x156-456 y101-146) PERIOD IN NEW YORK
+[p2b18] (Roboto-Bold 11; x41-203 y144-171) by Rich Purtell LPNY Legislative Affairs Director
+[p2b6] (Georgia 11; x220-395 y141-268) filiated with any party can present themselves purely on their individual merits and policies. Conversely, the “minor party nominating petition” will provide visibility to smaller  … e their values and goals alongside their endorsed candidate.
+[p2b11] (Georgia-Bold 11; x437-543 y140-156) Enhanced Political
+[p2b12] (Georgia-Bold 11; x455-525 y156-172) Engagement
+[p2b1] (Georgia 11; x36-211 y173-476) The state of New York is considering a novel approach to the independent nominating petition period by splitting it into two distinct parallel efforts. The existing process, known  …  in statewide elections for governor or president of the US.
+[p2b13] (Georgia 11; x404-579 y189-348) Transparency in the nominating process can boost political engagement among voters. When the electoral process is clear and straightforward, voters feel more confident and motivate … ected officials accurately represent the will of the people.
+[p2b8] (Georgia 11; x220-395 y317-476) With the new petition system, voters will have more information at their disposal. Knowing whether a candidate is running independently or with party backing helps voters make more … y not be as clearly defined as in larger, national contests.
+[p2b7] (Georgia-Bold 11; x224-388 y284-300) Increased Voter Information
+[p2b15] (Georgia 11; x404-579 y397-684) The benefits of splitting the independent nominating petition period in New York into two parallel efforts are manifold. By distinguishing between purely independent candidates and … ngagement, strengthening the democratic process in New York.
+[p2b14] (Georgia-Bold 11; x458-522 y364-380) Conclusion
+[p2b2] (Georgia 11; x36-211 y493-540) There are several significant benefits to this proposed change, primarily centered on enhancing
+[p2b9] (Georgia-Bold 11; x228-384 y492-508) Promotion of Minor Parties
+[p2b3] (Georgia 11; x36-152 y541-556) transparency for voters.
+[p2b10] (Georgia 11; x220-395 y525-716) The introduction of the “minor party nominating petition” offers an invaluable opportunity for smaller parties to gain traction and visibility. It provides a structured pathway for … ideas and policies that may otherwise remain in the shadows.
+[p2b4] (Georgia-Bold 11; x39-205 y572-604) Clearer Distinction Between Candidate and Party
+[p2b5] (Georgia 11; x36-211 y621-732) Splitting the petition process allows voters to differentiate clearly between candidates who are truly independent and those who are supported by minor parties. The “independent nominating petition” will ensure that candidates not af
+[p2b0] (Roboto-Bold 16; x36-180 y756-777) 2 | FREE NEW YORK
+
+=== PAGE 3 ===
+[p3b71] (Avenir-Black 90; x36-576 y3-152) NY’S S227A:
+[p3b72] (Avenir-Black 28; x37-575 y109-156) WHEN CODE BECOMES CONTRABAND
+[p3b73] (Avenir-Black 32; x43-569 y136-190) AND FREEDOM GETS A TIMEOUT
+[p3b74] (Roboto-Bold 11; x44-200 y193-220) by Christopher Skelly LPNY Communications Director
+[p3b28] (Georgia 11; x220-395 y189-205) S227A also amends Section 700.05
+[p3b57] (Georgia 11; x404-576 y189-205) S227A punishes the sharing of dig
+[p3b1] (Georgia 11; x36-211 y221-237) New York State Senate Bill S227A,
+[p3b2] (Georgia 11; x36-211 y239-255) currently in committee, represents
+[p3b29] (Georgia 11; x220-395 y207-223) to permit wiretaps for suspected
+[p3b30] (Georgia 11; x220-395 y225-241) violations of this law, even without
+[p3b58] (Georgia 11; x404-576 y207-223) ital files regardless of intent or ac
+[p3b59] (Georgia 11; x404-579 y225-241) tual harm. This creates a victimless
+[p3b3] (Georgia 11; x36-208 y257-273) an overreach that threatens indi
+[p3b4] (Georgia 11; x36-211 y275-291) vidual liberty, free expression, and
+[p3b31] (Georgia 11; x220-395 y243-259) evidence of harm or intent. This
+[p3b32] (Georgia 11; x220-392 y261-277) lowers the threshold for state intru
+[p3b33] (Georgia 11; x220-395 y279-295) sion, eroding Fourth Amendment
+[p3b60] (Georgia 11; x404-576 y243-259) crime statute that expands govern
+[p3b61] (Georgia 11; x404-579 y261-277) ment authority over thought and
+[p3b62] (Georgia 11; x404-579 y279-295) communication. Its vague language
+[p3b5] (Georgia 11; x36-211 y293-309) personal sovereignty. If enacted,
+[p3b6] (Georgia 11; x36-211 y311-327) it would criminalize the sharing of
+[p3b34] (Georgia 11; x220-392 y297-313) protections. The law’s Minority Re
+[p3b35] (Georgia 11; x220-392 y315-331) port-style pre-crime approach as
+[p3b63] (Georgia 11; x404-576 y297-313) also threatens open-source com
+[p3b64] (Georgia 11; x404-579 y315-331) munities, where non-lethal designs
+[p3b7] (Georgia 11; x36-211 y329-345) digital files for 3D-printed firearm
+[p3b8] (Georgia 11; x36-211 y347-363) parts, expand surveillance, and
+[p3b36] (Georgia 11; x220-395 y333-349) sumes guilt based on potential, not
+[p3b37] (Georgia 11; x220-384 y351-367) action, threatening privacy rights.
+[p3b65] (Georgia 11; x404-576 y333-349) could be misinterpreted as crimi
+[p3b66] (Georgia 11; x404-422 y351-367) nal.
+[p3b9] (Georgia 11; x36-211 y365-381) impose restrictive licensing. This
+[p3b10] (Georgia 11; x36-211 y383-399) bill undermines the principles of
+[p3b38] (Georgia 11; x220-395 y369-385) By defining 3D printers as tools
+[p3b39] (Georgia 11; x220-392 y387-403) with criminal potential, S227A cre
+[p3b67] (Georgia 11; x404-579 y387-403) This bill sets a chilling precedent
+[p3b11] (Georgia 11; x36-211 y401-417) innovation and open information,
+[p3b12] (Georgia 11; x36-211 y419-435) setting a dangerous precedent for
+[p3b13] (Georgia 11; x36-100 y437-453) state control.
+[p3b40] (Georgia 11; x220-392 y405-421) ates around the ownership of tech
+[p3b41] (Georgia 11; x220-392 y423-439) nology that could be used unlawful
+[p3b68] (Georgia 11; x404-576 y405-421) for state control over digital infor
+[p3b69] (Georgia 11; x404-579 y423-439) mation, undermining both freedom
+[p3b14] (Georgia 11; x36-211 y473-489) Section 265.10(10) of S227A makes
+[p3b42] (Georgia 11; x220-395 y441-457) ly—even if it hasn’t been. It targets
+[p3b43] (Georgia 11; x220-392 y459-475) the possibility of harm, not wrong
+[p3b44] (Georgia 11; x220-392 y477-493) doing, effectively criminalizing in
+[p3b70] (Georgia 11; x404-576 y441-457) and innovation. It must be rejected.
+[p3b15] (Georgia 11; x36-211 y491-507) it a crime to share digital files—such
+[p3b16] (Georgia 11; x36-208 y509-525) as CAD or STL formats—with recip
+[p3b45] (Georgia 11; x220-395 y495-511) novation and the tools that enable
+[p3b46] (Georgia 11; x220-230 y513-529) it.
+[p3b17] (Georgia 11; x36-211 y527-543) ients who are not properly licensed.
+[p3b18] (Georgia 11; x36-211 y545-561) Code is a form of speech, a means
+[p3b47] (Georgia 11; x220-395 y549-565) The bill also requires individuals to
+[p3b19] (Georgia 11; x36-211 y563-579) of communication and creation.
+[p3b20] (Georgia 11; x36-211 y581-597) Criminalizing the sharing of digital
+[p3b21] (Georgia 11; x36-211 y599-615) files would impose prior restraint,
+[p3b48] (Georgia 11; x220-395 y567-583) obtain both a New York gunsmith
+[p3b49] (Georgia 11; x220-395 y585-601) registration and a federal Type 7
+[p3b22] (Georgia 11; x36-208 y617-633) punishing individuals for distribut
+[p3b23] (Georgia 11; x36-211 y635-651) ing information that has not caused
+[p3b50] (Georgia 11; x220-395 y603-619) FFL to legally receive such digital
+[p3b51] (Georgia 11; x220-395 y621-637) files. This creates a bureaucratic
+[p3b52] (Georgia 11; x220-395 y639-655) gatekeeping system that excludes
+[p3b24] (Georgia 11; x36-208 y653-669) harm. This is akin to censoring en
+[p3b25] (Georgia 11; x36-211 y671-687) cryption tools or whistleblowers
+[p3b53] (Georgia 11; x220-395 y657-673) hobbyists and innovators. This is
+[p3b54] (Georgia 11; x220-392 y675-691) not about safety—it is about con
+[p3b26] (Georgia 11; x36-211 y689-705) and chills open discourse in the
+[p3b27] (Georgia 11; x36-109 y707-723) name of safety.
+[p3b55] (Georgia 11; x220-395 y693-709) trol. Knowledge should be freely
+[p3b56] (Georgia 11; x220-385 y711-727) shared, not restricted by the state.
+[p3b0] (Roboto-Bold 16; x473-576 y756-777) JUNE 2025 | 3
+
+=== PAGE 4 ===
+[p4b13] (Avenir-Black 75; x37-575 y42-166) TOM BABILON
+[p4b12] (Avenir-Black 22; x38-574 y45-81) ONONDAGA CO. LIBERTARIAN PARTY ENDORSES
+[p4b14] (Avenir-Black 40; x39-573 y116-182) FOR MAYOR OF SYRACUSE
+[p4b15] (Roboto-Bold 11; x43-201 y176-203) by Rose Leatherman State Committee Member (JD5)
+[p4b8] (Georgia 11; x220-395 y173-323) ness growth, and finding more efficient approaches to city services. Committed to upholding the values of transparency and accountability in city governance, Babilon pledges to car … ls, and cut wasteful spending that fails to deliver results.
+[p4b10] (Georgia 11; x404-579 y173-263) ing city hall in 2018, he shifted to family court appeals and currently works for Hiscock Legal Aid, which provides free legal counsel to low-income residents of Onondaga County.
+[p4b6] (Georgia 11; x36-211 y217-352) The Onondaga County Libertarian Party is proud to endorse longtime member and Syracuse city resident Tom Babilon for the 2025 mayoral election. Running on the Republican ticket, Ba … cal responsibility, property rights, and individual liberty.
+[p4b16] (Roboto-Bold 11; x53-191 y200-215) Onondaga County Secretary
+[p4b11] (Georgia 11; x404-579 y278-398) With the mayoral election set for November 4, the Onondaga County Libertarian Party urges voters support Tom Babilon’s campaign for a more efficient, accountable, and liberty-minded city government. For more information, visit gobabilon. com
+[p4b9] (Georgia 11; x220-395 y338-428) With 22 years of legal experience, Babilon served as an Assistant Corporation Counsel for the city of Syracuse for nearly a decade, providing him with and in-depth knowledge of municipal operations. After leav
+[p4b7] (Georgia 11; x36-211 y367-427) Babilon’s campaign focuses on reducing the tax burden on residents, eliminating unnecessary regulations in order to foster small busi
+[p4b1] (Roboto-Bold 26; x95-520 y473-508) See pages 10-11 for County Reports
+[p4b2] (Roboto-Bold 26; x140-475 y517-552) Don’t see your county listed?
+[p4b3] (Roboto-Bold 26; x110-504 y565-626) We are looking for Libertarians to organize new County Affiliates!
+[p4b4] (Roboto-Bold 26; x145-470 y635-670) Contact us for more details!
+[p4b5] (Roboto-Bold 26; x197-417 y679-714) affiliates@lpny.org
+[p4b0] (Roboto-Bold 16; x36-180 y756-777) 4 | FREE NEW YORK
+
+=== PAGE 5 ===
+[p5b1] (Avenir-Black 35; x79-546 y51-109) HELP US GET A02724 AND
+[p5b2] (Avenir-Black 35; x173-442 y93-151) S01870 PASSED
+[p5b3] (Avenir-Black 28; x59-565 y155-201) These bills, if passed would lower the
+[p5b4] (Avenir-Black 28; x71-552 y188-234) ballot access thresholds back to the
+[p5b5] (Avenir-Black 28; x58-566 y221-333) previous standards: the number of votes needed to get ballot access to 50,000 (from 130,000
+[p5b7] (Avenir-Black 28; x92-531 y353-432) signature requirement for a statewide office to 15,000 (from
+[p5b6] (Avenir-Black 28; x107-508 y320-366) or 2%), and lower the petition
+[p5b8] (Avenir-Black 28; x253-362 y419-465) 45,000).
+[p5b9] (Avenir-Black 28; x72-551 y485-564) Contact your representatives in the New York State Legislature and ask
+[p5b10] (Avenir-Black 28; x178-437 y551-597) them to these bills!
+[p5b11] (Avenir-Black 28; x74-549 y617-663) Contact Legislative Affairs Director
+[p5b12] (Avenir-Black 28; x60-555 y650-729) Rich Purtell at rpurtell@lpny.org to get involved with pushing these bills.
+[p5b0] (Roboto-Bold 16; x473-576 y756-777) JUNE 2025 | 5
+
+=== PAGE 6 ===
+[p6b24] (Avenir-Black 78; x37-575 y7-136) $6.3 TRILLION
+[p6b25] (Roboto-Bold 11; x40-204 y114-140) by Vincent O’Neill State Committee Member (JD10)
+[p6b5] (Georgia 11; x220-395 y110-185) big, bad, unlimited spending bill to “fund Trump’s agenda.” It will bankrupt the country. Anyone who thinks that is the best we can do should rethink their position.
+[p6b11] (Georgia-Bold 11; x409-574 y110-125) PROCEDURE FOR CUTTING
+[p6b0] (Georgia 11; x36-211 y156-321) Although President Trump and his friend Elon Musk have made a good start in regard to reducing the size of the federal workforce, they have a long way to go as far as reducing the  … arties, who are a combination of clueless and irresponsible.
+[p6b26] (Roboto-Bold 11; x48-196 y138-152) LPNY Vice-Chair (2002-2003)
+[p6b12] (Georgia-Bold 11; x417-566 y125-140) THE NATIONAL BUDGET
+[p6b13] (Georgia-Bold 11; x427-553 y155-170) 1. Eliminate the yearly
+[p6b14] (Georgia-Bold 11; x416-567 y170-200) expense for housing, education and loans at the
+[p6b6] (Georgia 11; x220-395 y200-335) Since that is not acceptable, the following is a Libertarian alternative. The achievable goal is for a balanced national budget or yearly surplus in ONE YEAR. The maximum time for  … ventionism occurs as the national budget is sharply reduced.
+[p6b16] (Georgia 11; x404-579 y230-260) Totals for 2023 according to the Congressional Budget Office:
+[p6b15] (Georgia-Bold 11; x450-530 y200-215) national level.
+[p6b17] (Georgia 11; x404-579 y275-410) Housing and Urban Development (HUD) total is $252.84 billion. Department of Education total is $174.97 billion. There are 118 programs that provide credit assistance. The total amo … total $171 billion. New loan guarantees total $2.0 trillion.
+[p6b1] (Georgia 11; x36-211 y336-441) The 2024 deficit for the national government was $1.832.86 trillion. The deficit for the first 5 months of fiscal 2025 (October-February) was a record $1.147 trillion. The projected deficit for the year is over $3.4 trillion.
+[p6b7] (Georgia-Bold 11; x243-369 y350-380) Spending Cuts and Budget Reduction
+[p6b8] (Georgia 11; x220-395 y395-485) “Moreover, a drastic cut in the government budget--both in taxes and expenditures--will of itself speed adjustment by changing the social choice toward more saving and investment relative to consumption.
+[p6b18] (Georgia 11; x449-531 y425-455) $2.2 trillion +$252.84 billion
+[p6b2] (Georgia 11; x36-208 y456-486) The National Debt is over $36 trillion dollars.
+[p6b19] (Georgia 11; x422-561 y455-485) +$174.97 billion =$2.837.81 TRILLION CUT
+[p6b3] (Georgia 11; x36-211 y501-711) The only response from the Republicans and Democrats was to pass another “temporary spending bill to fund the government for another 6 months” in March. Their bill will cut nationa … ver $1 trillion in 2025), their bill is a spending increase.
+[p6b9] (Georgia 11; x220-395 y500-650) For government spending, whatever the label attached to it, is solely consumption. Any cut in the budget, therefore, raises the investment-consumption ratio in the economy and allo … ts.” - Murray Rothbard, “America’s Great Depression”, p. 167
+[p6b20] (Georgia-Bold 11; x444-536 y500-515) Additional Cuts:
+[p6b21] (Georgia 11; x404-579 y530-650) Eliminate $23 billion in “Climate adaptation and resilience” for Departments of Commerce, Interior, Homeland Security, Agriculture, EPA, Pentagon and Army Corps of Engineers “to ad … everity of extreme weather events fueled by climate change.”
+[p6b10] (Georgia 11; x220-395 y665-725) The Congressional Budget Office stated the budget expense was $6.2 trillion for 2023, $6.8 trillion in 2024.
+[p6b22] (Georgia 11; x404-579 y665-710) Eliminate $325 billion in paid family and medical leave of 12 weeks for eligible workers.
+[p6b27] (Roboto-Bold 12; x431-549 y717-733) (continued on page 7)
+[p6b4] (Georgia 11; x36-211 y726-741) This was followed by the proposed
+[p6b23] (Roboto-Bold 16; x36-180 y756-777) 6 | FREE NEW YORK
+
+=== PAGE 7 ===
+[p7b1] (Georgia 11; x36-208 y79-109) Eliminate foreign aid, a $60.4 billion cut.
+[p7b31] (Roboto-Bold 12; x57-187 y44-60) (continued from page 6)
+[p7b13] (Georgia 11; x220-395 y41-161) Once this issue is addressed, the U.S. responsibility to restore Constitutional foreign policy could then be addressed. The end of an interventionist foreign policy will be one res … e the end of economic interventionism will follow logically.
+[p7b21] (Georgia 11; x404-579 y41-146) Budgetary reduction will therefore occur through a modern adaptation of the Eric-fine for Homicide, which was a feature of Celtic and Viking law. It was a payment made as compensation for killing a man of the field of battle, which is homicide.
+[p7b2] (Georgia 11; x36-211 y124-199) All taxpayer-funded payments to illegal (or ‘undocumented’) immigrants are eliminated, reducing expenses by the current estimate of $180 billion per year.
+[p7b14] (Georgia-Bold 11; x223-392 y176-206) 2A. Military Budget Reduction/Compensation for
+[p7b22] (Georgia 11; x404-579 y161-206) The U.S will pay the Eric-fine only once per violation, and wipe the slate clean.
+[p7b3] (Georgia 11; x36-211 y214-259) Eliminate $50 billion+ wasted Yearly on buying the union vote with Unnecessary road projects.
+[p7b16] (Georgia 11; x220-395 y236-296) Compensation will be deducted from the military budget and paid to foreign governments for 4 foreign policy crimes:
+[p7b15] (Georgia-Bold 11; x253-359 y206-221) Crimes Committed
+[p7b23] (Georgia 11; x404-579 y221-281) So if a country was bombed 10 times by the U.S. without a preceding declaration of war, they would receive $1 billion dollars once.
+[p7b4] (Georgia 11; x81-163 y274-289) $2.837.81 billion
+[p7b5] (Georgia 11; x53-191 y289-319) + $630.4 billion = $3.468.21 TRILLION CUT
+[p7b17] (Georgia 11; x220-395 y311-521) - Bombing a foreign country without a preceding declaration of war. - Attempting or succeeding in overthrowing the government of a foreign country without a preceding declaration o … d war would be entitled to compensation for this infraction.
+[p7b24] (Georgia 11; x404-579 y296-326) $3.568.21 TRILLION has been cut to this point.
+[p7b6] (Georgia-Bold 11; x65-179 y334-364) 2. Yearly Military Spending Reduction
+[p7b25] (Georgia 11; x404-548 y341-356) Continuing budget reduction:
+[p7b7] (Georgia 11; x36-211 y379-454) Returning to a constitutionally limited and non-interventionist foreign policy will lead to a massive reduction in the bloated $800 billion plus military budget.
+[p7b26] (Georgia 11; x404-545 y371-386) Eliminate the “Space Force”.
+[p7b27] (Georgia 11; x404-579 y401-521) Its first budget in fiscal year 2021 was $15.3 billion, and it grew to $18 billion in 2022. It jumped to $26.3 billion in 2023 due to internal funds transfers from the Space Development Agency and the Air Force, plus a congressional add-on. March 13, 2023.
+[p7b8] (Georgia-Bold 11; x49-198 y469-484) PLAN ON A STEADY AND
+[p7b9] (Georgia-Bold 11; x56-188 y484-499) CONTINUING YEARLY
+[p7b10] (Georgia-Bold 11; x56-187 y499-529) MILITARY BUDGET REDUCTION.
+[p7b11] (Georgia 11; x36-209 y544-559) The first year target is $100 billion.
+[p7b18] (Georgia 11; x220-395 y536-581) This includes dropped pesticides, herbicides, etc. as was done as part of the “War on Drugs”.
+[p7b28] (Georgia 11; x404-579 y536-671) Their proposed budget is $30 billion for 2024. Privatize NASA. Their 2023 budget was $25.4 billion, a 5.6% increase over the previous year. Their budget is $32.41 billion if the am … components’ is included. They also have many assets to sell.
+[p7b12] (Georgia 11; x36-211 y574-724) Ultimately, the goal is a 50% reduction. The foreign policy of the U.S. has been less than exemplary for quite a long time. We will start with the fact that the United States has b … n of war since the end of World War II and go on from there.
+[p7b19] (Georgia 11; x220-395 y596-671) It also includes dropping things like napalm on a country during undeclared wars. (As was done in Vietnam, Laos and Cambodia, for example.)
+[p7b20] (Georgia 11; x220-395 y686-731) One billion dollars to each country per infraction would be deducted from the military budget.
+[p7b29] (Georgia 11; x404-579 y686-716) Phase Out of Fed: Yearly 1% sale of assets= $90 billion per year
+[p7b30] (Roboto-Bold 12; x431-549 y716-732) (continued on page 8)
+[p7b0] (Roboto-Bold 16; x473-576 y756-777) JUNE 2025 | 7
+
+=== PAGE 8 ===
+[p8b34] (Roboto-Bold 12; x57-187 y44-60) (continued from page 7)
+[p8b1] (Georgia 11; x80-164 y79-94) $3.568.21 trillion
+[p8b13] (Georgia 11; x220-395 y41-116) gage Backed Securities, almost 30% of the outstanding balance in the Agency MBS market. The Fed should sell them all and leave the MBS market.
+[p8b22] (Georgia 11; x404-517 y41-56) 80,000 seat stadiums.)
+[p8b23] (Georgia 11; x404-579 y71-131) Combine these two items and it is obvious that the U.S. national government should be removed from all college loans.
+[p8b2] (Georgia 11; x85-159 y94-124) +$30 billion +$32.41 billion
+[p8b3] (Georgia 11; x53-193 y124-154) +90 Billion =$3.720.62 TRILLION CUT
+[p8b14] (Georgia 11; x264-348 y131-176) $4 TRILLION +$2.3 TRILLION =$6.3 TRILLION
+[p8b24] (Georgia 11; x404-576 y146-176) End the “Pension Benefit Corporation”.
+[p8b4] (Georgia 11; x36-179 y169-184) Budget Reduction continues.
+[p8b5] (Georgia 11; x36-211 y199-244) Eliminate the CIA. Ron Paul put their budget at roughly $75 billion in 2012.
+[p8b15] (Georgia-Bold 11; x243-369 y191-206) 4. REPAYMENTS DUE
+[p8b25] (Georgia 11; x404-579 y191-251) Union pension funds alone were over $700 billion short by 2021. Trump was prosecuting union officials. Biden stopped it.
+[p8b16] (Georgia 11; x220-372 y221-236) Defeating ‘Divide and Conquer’
+[p8b6] (Georgia 11; x36-211 y259-349) A description of the ‘Incompetence and outrageousness of the CIA’ is available in the book “Legacy of Ashes,” by New York Times Pulitzer prize winner Tim Winer. Also, in many other places.
+[p8b17] (Georgia 11; x220-395 y251-401) A requirement to pay all debts is included. Political debt forgiveness will end immediately. ’Government’ provided student loans, in particular, must all be repaid. The U.S. govern … t’s way of pardoning itself and continuing the same process.
+[p8b26] (Georgia 11; x428-552 y266-311) Over $1.78 trillion + Over $700 billion = $2.5 trillion plus is due.
+[p8b27] (Georgia 11; x456-524 y326-371) $6.3 trillion +$2.5 trillion =$8.8 trillion.
+[p8b7] (Georgia 11; x36-211 y364-394) Eliminating or reducing the highly politicized FBI-amount unknown.
+[p8b28] (Georgia 11; x404-579 y386-416) At least $8.8 trillion over several years is eliminated.
+[p8b8] (Georgia 11; x36-208 y409-439) Sale of FBI and CIA assets-buildings, land, etc. -amount unknown
+[p8b18] (Georgia 11; x220-395 y416-551) For many victims of the U.S. Educational system (a.k.a. ‘students’), discovering why debts must be repaid will be the first thing they have learned from the government educational  … eated, and why it is important to stop this from continuing.
+[p8b29] (Georgia 11; x404-571 y431-446) “Regulation is a Tax”.-Anonymous
+[p8b9] (Georgia 11; x36-211 y454-484) CLOSE TO $4 TRILLION HAS BEEN CUT TO THIS POINT.
+[p8b30] (Georgia-Bold 11; x428-552 y461-521) 5. Eliminating Unconstitutional or Redundant National Government Agencies
+[p8b10] (Georgia-Bold 11; x37-207 y499-514) 3. Mortgage Backed Securities
+[p8b11] (Georgia 11; x36-211 y529-694) “As of 2023, the Fed owns $2.6 trillion of mortgage securities. That is larger than what the total assets of the Fed were at the end of 2008. In my view, the Federal Reserve should … .” - Alex J. Pollock, pp. 8-9, “The Austrian,” May-June 2023
+[p8b31] (Georgia 11; x404-579 y536-656) The total Amount to be eliminated is unknown, but it is substantial. The national government currently contains 440 agencies and 2 million employees. The following is an improvement on the procedure being utilized by President Trump and his friend Elon Musk.
+[p8b19] (Georgia 11; x220-395 y566-626) (On a related note, government ‘debt forgiveness’ counts as taxable income, so they get us coming and going.)
+[p8b20] (Georgia 11; x220-395 y641-686) Student loan debt repayments to resume. $1.78 trillion due as of the first quarter of 2023.
+[p8b32] (Georgia 11; x404-579 y671-716) All national government agencies will be reviewed, all that are unconstitutional and/or counterproduc
+[p8b12] (Georgia 11; x36-208 y709-739) As of June 2024, the Fed held approximately $2.3 trillion in Mort
+[p8b21] (Georgia 11; x220-395 y701-746) (This occurs in a country where College Football teams composed of unpaid players routinely sell out
+[p8b0] (Roboto-Bold 16; x36-180 y756-777) 8 | FREE NEW YORK
+[p8b33] (Roboto-Bold 12; x431-549 y723-739) (continued on page 9)
+
+=== PAGE 9 ===
+[p9b1] (Georgia 11; x36-211 y64-139) tive will be eliminated or phased out at the national level. This means that most national government agencies will be eliminated over time.
+[p9b25] (Roboto-Bold 12; x57-187 y44-60) (continued from page 8)
+[p9b9] (Georgia 11; x220-395 y41-176) Traffic Safety Administration and any rules they have implemented. Actual safety is dependent on the individual. The real purpose of the NHTSA, like many government agencies, is to … s. (The mandatory “Safety Measure” Air bags are an example.)
+[p9b15] (Georgia-Bold 11; x418-564 y41-56) 6. A Small Move toward a
+[p9b16] (Georgia-Bold 11; x432-548 y56-86) Gold Standard and Sound Currency
+[p9b17] (Georgia 11; x404-579 y101-206) Each year the national government will take 1% of tax revenue and purchase gold. The gold must be held for at least 3 years, so this will not be a mere bookkeeping transaction. State and local governments should also do this.
+[p9b2] (Georgia 11; x36-211 y154-214) Not only is the yearly budget expense eliminated, but also all the unnecessary costs they place on honest Americans.
+[p9b10] (Georgia 11; x220-395 y191-311) “From 1996 to 2000, 191 people, including 116 children, died in cases in which an air bag was or was suspected to be the cause. In many cases, the deaths came in low-speed crashes, … ploying air bags proved fatal.” NewYork Times, Aug. 30, 2001
+[p9b3] (Georgia-Bold 11; x92-152 y229-244) Procedure
+[p9b18] (Georgia 11; x404-579 y221-296) Additionally, 1/10 of 1 percent will be used to buy silver. The country will therefore be making a small move toward a gold and silver Standard.
+[p9b4] (Georgia 11; x36-211 y259-364) This will be done with minimal disruption to the labor market in the following manner. In the year that an agency is eliminated, all the current employees will receive their full salary, whether or not they get a different job.
+[p9b19] (Georgia-Bold 11; x426-557 y311-341) 7. Spending Cuts Must Precede Tax Cuts
+[p9b11] (Georgia 11; x220-395 y326-371) The NHTSA solution? Mandatory placement of children in the back seat.
+[p9b20] (Georgia 11; x404-579 y356-431) This is the alternative to the Republicans’ recently passed “Big, Bad, Reaganesque Fraud of an Unlimited Deficit Spending” bill, which will bankrupt the country.
+[p9b5] (Georgia 11; x36-211 y379-439) So in the first year the agency is eliminated except for the cost of salaries, in the second year the cost is reduced to zero.
+[p9b12] (Georgia 11; x220-395 y386-506) Automakers always comply, since they not only pass on the cost, the price becomes INFINITY once it is mandated. An incredible markup is permitted. A market with a price level of infinity is not a competitive market. NHTSA does this all the time.
+[p9b6] (Georgia 11; x36-211 y454-499) Additionally, all assets (land, buildings, etc.) are sold to the private sector.
+[p9b21] (Georgia 11; x404-579 y446-506) There is much more involved in a Libertarian plan to cut the budget, but cutting $6.3 trillion is enough of an outline for now.
+[p9b7] (Georgia 11; x36-90 y514-529) Examples:
+[p9b8] (Georgia 11; x36-211 y544-739) Eliminate the National Labor Board, and any rules they have implemented. These geniuses have turned a ‘strike’ into a brilliant negotiating strategy. It’s not. If you have a job an … nomic interventionism occurs. Eliminate the National Highway
+[p9b13] (Georgia 11; x220-395 y521-626) Eliminate the NHTSA and massive savings for consumers will occur, safety enhanced, and a tremendous competitive market will ensue. Redundant: Homeland Security- Abolish, and return responsibilities to pre 9/11 agencies.
+[p9b22] (Georgia 11; x404-579 y521-566) Spending cuts must precede tax cuts, creating a verifiable arithmetical progression downward.
+[p9b23] (Georgia 11; x404-579 y581-671) Each tax bracket will be expanded yearly by $1,000 per year and each tax rate will be reduced by one percentage point per year. There should be no tax on savings, inheritance, or capital gains.
+[p9b14] (Georgia 11; x220-395 y641-671) Close to $10 trillion over several years will be eliminated.
+[p9b24] (Georgia 11; x404-579 y686-716) This can only be done if spending cuts precede tax cuts.
+[p9b0] (Roboto-Bold 16; x473-576 y756-777) JUNE 2025 | 9
+
+=== PAGE 10 ===
+[p10b1] (Avenir-Black 42; x37-575 y25-94) COUNTY AFFILIATE NEWS
+[p10b3] (Georgia-Bold 12; x60-184 y109-154) CONTACT: Kim Antonio, Acting County Chair
+[p10b2] (Roboto-Bold 18; x92-152 y82-106) BRONX
+[p10b24] (Georgia 12; x237-375 y109-140) NEXT MEETING: Sat., Jul. 19, 2025 @ 5 PM
+[p10b23] (Roboto-Bold 18; x260-352 y82-106) DUTCHESS
+[p10b42] (Georgia 12; x416-564 y112-143) NEXT MEETING: Thurs., Jul. 2, 2025 @ 7 PM
+[p10b41] (Roboto-Bold 18; x452-528 y85-109) MONROE
+[p10b25] (Georgia 12; x224-388 y137-182) Village Restaurant & Pancake Factory 1540 Route 44, Pleasant Valley
+[p10b43] (Georgia 12; x430-550 y141-171) (first Thursdays) Contact us for the link.
+[p10b5] (Georgia 12; x40-204 y193-224) NEXT MEETING: Tues., July 8, 2025 @ 7:00 PM
+[p10b4] (Roboto-Bold 18; x63-181 y166-190) CHAUTAUQUA
+[p10b26] (Georgia 12; x264-348 y179-196) (3rd Saturdays)
+[p10b44] (Georgia-Bold 12; x430-550 y182-213) CONTACT: Steve Becker, Chair
+[p10b6] (Georgia 12; x73-171 y221-252) on Zoom (second Tuesdays)
+[p10b27] (Georgia-Bold 11.6; x232-380 y207-252) CONTACT: Robert Cocomello, Chair Catrina Rocco, Vice-Chair
+[p10b46] (Georgia 12; x415-565 y238-283) LEARN MORE: monroecountylp.org Ask about the Google Group
+[p10b45] (Georgia 12; x438-542 y211-227) drsbecker@aol.com
+[p10b7] (Georgia-Bold 12; x52-192 y263-294) CONTACT: Andrew Kolstee, Chair
+[p10b28] (Georgia 12; x233-379 y249-266) info@dutchesscountylp.org
+[p10b29] (Georgia 12; x249-363 y277-308) LEARN MORE: dutchesscountylp.org
+[p10b9] (Georgia 12; x58-186 y319-350) LEARN MORE: www.chautauquaLP.org
+[p10b8] (Georgia 12; x73-171 y291-308) akolstee@lpny.org
+[p10b47] (Georgia 12; x438-542 y281-297) and social meetings
+[p10b48] (Roboto-Bold 18; x455-525 y309-333) NASSAU
+[p10b10] (Georgia 12; x63-181 y347-364) fb.com/chautauquaLP
+[p10b31] (Georgia-Bold 12; x232-380 y347-392) CONTACT: Duane Whitmer, Chair chairman@eriecountylp.org
+[p10b30] (Roboto-Bold 18; x287-325 y320-344) ERIE
+[p10b49] (Georgia 12; x414-566 y336-367) NEXT MEETING: Thurs., Jul. 10, 2025 at 7 PM
+[p10b11] (Roboto-Bold 18; x78-166 y376-400) CHEMUNG
+[p10b50] (Georgia 12; x439-541 y365-381) @ Landmark Diner
+[p10b51] (Georgia 12; x446-534 y379-395) (2nd Thursdays)
+[p10b12] (Georgia-Bold 12; x60-184 y403-448) CONTACT: Nick Grasso, Chair ngrasso89@yahoo.com
+[p10b32] (Roboto-Bold 18; x225-387 y404-428) KINGS (BROOKLYN)
+[p10b33] (Georgia 12; x233-379 y431-462) NEXT MEETING: Tues., Jul. 15, 2025 at 3 PM
+[p10b52] (Georgia-Bold 12; x405-575 y406-465) CONTACT: Jon Gunther, Executive Committee Chair jonguntherlibertarian@gmail.com
+[p10b13] (Georgia-Bold 12; x75-169 y459-476) LEARN MORE:
+[p10b14] (Georgia 12; x82-162 y473-490) lpchemung.org
+[p10b34] (Georgia 12; x224-388 y459-490) @ Fourth Avenue Pub 76 4th Ave, Brooklyn, NY 11217
+[p10b53] (Georgia-Bold 12; x414-566 y476-507) Blay Tarnoff, County Committee Chair
+[p10b15] (Roboto-Bold 18; x77-167 y502-526) COLUMBIA
+[p10b36] (Georgia-Bold 12; x228-384 y515-546) CONTACT: Christopher Skelly, Chair
+[p10b35] (Georgia 12; x266-346 y487-504) (3rd Tuesdays)
+[p10b54] (Georgia 12; x442-538 y505-521) LPNY@eblay.com
+[p10b16] (Georgia 12; x49-195 y529-560) NEXT MEETING: Wed., Jul. 16, 2025 @ 7 PM
+[p10b17] (Georgia 12; x70-174 y557-588) Google Meet (third Wednesdays)
+[p10b37] (Georgia 12; x261-351 y543-560) cskelly@lpny.org
+[p10b55] (Roboto-Bold 14; x406-574 y536-555) NEW YORK (MANHATTAN)
+[p10b18] (Georgia-Bold 12; x52-192 y599-644) CONTACT: Scott Hoskins, Chair scottdhoskins@gmail.com
+[p10b39] (Georgia-Bold 12; x240-372 y599-630) CONTACT: Mark Braiman, Chair
+[p10b38] (Roboto-Bold 18; x266-346 y572-596) MADISON
+[p10b56] (Georgia 12; x414-566 y560-591) MONTHLY SOCIAL Wed., Jul. 9, 2025 at 7-9 PM
+[p10b57] (Georgia 12; x432-548 y589-647) @ PubKey Bar 85 Washington Pl. New York, NY 10011 (second Wednesdays)
+[p10b40] (Georgia 12; x251-361 y627-644) mbraiman@lpny.org
+[p10b19] (Roboto-Bold 18; x85-159 y656-680) CLINTON
+[p10b58] (Georgia-Bold 12; x416-564 y658-689) CONTACT: Chance Haywood, Chair
+[p10b20] (Georgia-Bold 12; x37-207 y683-714) CONTACT: Zachary Remian, Acting Chair
+[p10b21] (Georgia 12; x73-171 y711-728) zremian@lpny.org
+[p10b59] (Georgia 12; x436-544 y687-703) chaywood@lpny.org
+[p10b0] (Roboto-Bold 16; x36-189 y756-777) 10 | FREE NEW YORK
+[p10b22] (Georgia 12; x81-163 y725-742) (518) 310-6664
+
+=== PAGE 11 ===
+[p11b2] (Georgia-Bold 12; x58-186 y67-126) CONTACT: Wendi Szabo, Acting County Chair wendiszabo@gmail.com
+[p11b1] (Roboto-Bold 18; x84-160 y40-64) NIAGARA
+[p11b23] (Georgia 12; x225-387 y71-101) NEXT MEETING: Sat., Jul. 12, 2025 at 12:00 PM
+[p11b22] (Roboto-Bold 18; x271-341 y44-68) QUEENS
+[p11b42] (Georgia 12; x404-576 y71-101) NEXT MEETING: Thurs., Jul. 24, 2025 at 6:30 PM
+[p11b41] (Roboto-Bold 18; x451-529 y44-68) SUFFOLK
+[p11b24] (Georgia 12; x224-388 y99-129) Stamatis Greek and Mediterranean Restaurant
+[p11b43] (Georgia 12; x425-555 y99-115) Panera Bread, Deer Park
+[p11b44] (Georgia 12; x447-533 y113-129) (4th Thursdays)
+[p11b3] (Georgia 12; x78-166 y137-154) (2nd Thursdays)
+[p11b4] (Roboto-Bold 18; x90-154 y138-162) ONEIDA
+[p11b25] (Georgia 12; x241-371 y127-143) 29-09 23rd Ave., Astoria
+[p11b26] (Georgia-Bold 12; x245-367 y155-199) CONTACT: John Clifton, Chair mrjclifton@yahoo.com
+[p11b45] (Georgia-Bold 12; x419-561 y141-185) CONTACT: Robert Schuon, Chair rschuon@mindspring.com
+[p11b5] (Georgia-Bold 12; x56-188 y165-196) CONTACT: Keith Redhead, Chair
+[p11b6] (Georgia 12; x70-174 y193-210) kredhead@lpny.org
+[p11b46] (Roboto-Bold 18; x457-523 y198-222) ULSTER
+[p11b7] (Roboto-Bold 18; x74-170 y222-246) ONONDAGA
+[p11b28] (Georgia 12; x224-388 y239-283) NEXT MEETING: Wed., Jul. 2, 2025 at 6:30 PM Alexis Diner, North Greenbush
+[p11b27] (Roboto-Bold 18; x250-362 y212-236) RENSSELAER
+[p11b47] (Georgia 12; x411-569 y225-255) NEXT MEETING: Mon., Jul. 7, 2025 at 6:30 PM
+[p11b8] (Georgia 12; x40-204 y249-280) NEXT MEETING: Wed., Jul. 16, 2025 at 6:30 PM
+[p11b9] (Georgia 12; x57-187 y277-294) Liverpool Public Library
+[p11b48] (Georgia 12; x417-563 y253-269) Hickory BBQ, Kingston, NY
+[p11b49] (Georgia 12; x441-539 y267-283) (second Mondays)
+[p11b11] (Georgia-Bold 12; x57-187 y319-350) CONTACT: Rachel Becker, Chair
+[p11b10] (Georgia 12; x74-170 y291-308) (3rd Wednesdays)
+[p11b30] (Georgia-Bold 12; x244-368 y309-353) CONTACT: Jennifer O’Connor, Acting County Chair
+[p11b29] (Georgia 12; x260-352 y281-297) (1st Wednesdays)
+[p11b50] (Georgia-Bold 12; x421-559 y295-339) CONTACT: Sam Kniffen, Chair samkniffen01@gmail.com
+[p11b12] (Georgia 12; x39-204 y347-378) reb4128@rit.edu onondagacountylp@gmail.com
+[p11b31] (Georgia 12; x255-357 y351-367) joconnor@lpny.org
+[p11b51] (Georgia 12; x441-539 y351-381) LEARN MORE: www.UlsterLP.org
+[p11b13] (Roboto-Bold 18; x87-157 y390-414) ORANGE
+[p11b32] (Roboto-Bold 15; x222-390 y380-404) RICHMOND (STATEN ISLAND)
+[p11b52] (Roboto-Bold 18; x459-521 y394-418) WAYNE
+[p11b14] (Georgia 12; x43-204 y417-448) NEXT MEETING: Held 4th Thursdays. Location
+[p11b33] (Georgia 12; x230-382 y407-437) NEXT MEETING: Thurs., Jul. 17, 2025 @ 7 PM
+[p11b34] (Georgia 12; x239-373 y435-451) @ Coffee and Collectibles
+[p11b53] (Georgia 12; x417-563 y421-451) MONTHLY SOCIAL: Sat., Jul. 26, 2025 at 10 AM
+[p11b15] (Georgia 12; x46-201 y445-462) varies. Contact us for details.
+[p11b16] (Georgia-Bold 12; x56-188 y473-518) CONTACT: Juan Ayala, Chair livefree@juanrayala.com
+[p11b36] (Georgia-Bold 12; x221-391 y477-507) CONTACT: Susan Overeem Cummings,
+[p11b35] (Georgia 12; x263-349 y449-465) (3rd Thursdays)
+[p11b54] (Georgia 12; x405-575 y449-479) Yellow Mills Diner 2534 NY-31, Palmyra, NY 14522
+[p11b55] (Georgia 12; x448-532 y477-493) (last Saturdays)
+[p11b37] (Georgia 12; x235-377 y505-535) Chair susanovereem@gmail.com
+[p11b56] (Georgia-Bold 12; x434-546 y505-535) CONTACT: Jim Dayton, Chair
+[p11b18] (Georgia 12; x46-198 y557-588) NEXT MEETING: Thurs., Jul. 10, 2025 at 7 PM
+[p11b17] (Roboto-Bold 18; x85-159 y530-554) PUTNAM
+[p11b38] (Roboto-Bold 18; x260-352 y548-572) SARATOGA
+[p11b57] (Georgia 12; x442-538 y533-549) jdayton@lpny.org
+[p11b19] (Georgia 12; x37-207 y585-616) at McCarthy’s 374 Route 52, Carmel, NY 10512
+[p11b39] (Georgia-Bold 12; x236-376 y575-605) CONTACT: Naz Garabedien, Chair
+[p11b58] (Georgia 12; x440-540 y561-591) LEARN MORE: lpwaynecounty.org
+[p11b20] (Georgia 12; x78-166 y613-630) (2nd Thursdays)
+[p11b40] (Georgia 12; x246-366 y603-633) nazareth.garabedian @lawsonproducts.com
+[p11b61] (Georgia-Bold 12; x423-557 y631-689) CONTACT: Rajib Maitra Acting County Chair rajib.maitra1@gmail.com
+[p11b60] (Roboto-Bold 18; x427-553 y604-628) WESTCHESTER
+[p11b59] (Georgia 12; x440-540 y603-619) lpwaynecounty.org
+[p11b21] (Georgia-Bold 12; x57-187 y641-686) CONTACT: Bill O’Donnell, Chair billod10704@gmail.com
+[p11b0] (Roboto-Bold 16; x464-576 y756-777) JUNE 2025 | 11
+
+=== PAGE 12 ===
+[p12b0] (Avenir-Black 62.5; x37-575 y12-116) LPNY DIRECTORY
+[p12b3] (Roboto-Bold 18; x74-273 y101-125) EXECUTIVE COMMITTEE
+[p12b8] (Roboto-Bold 18; x362-533 y101-125) COMMITTEE CHAIRS
+[p12b2] (Roboto-Regular 12; x48-288 y135-321) Duane Whitmer Chair Daniel Castello Vice Chair Andrew Kolstee Secretary Chance Haywood Treasurer Christopher Skelly Communications Director Mark Axinn Fundraising Director Justin C …  Grindle Political Director Catrina Rocco Volunteer Director
+[p12b7] (Roboto-Regular 12; x322-524 y135-223) Daniel Castello Platform Committee Chair Andrew Kolstee Rules Committee Chair Daniel Castello Strategic Planning Committee Chair
+[p12b6] (Roboto-Bold 18; x226-386 y340-364) STATE COMMITTEE
+[p12b4] (Roboto-Bold 12; x54-194 y373-712) Mark Axinn (JD1) Morry Davis (JD1) Paul Grindle (JD2) Gary Popkin (JD2) Evan Lebrecht (JD3) Justin Carman (JD3) Vacant (JD4) Vacant (JD4) Vacant (JD4) Daniel Castello (JD5) James F … 7) Sean Phelan (JD7) James Ziobro (JD7) Maura Botsford (JD8)
+[p12b5] (Roboto-Bold 12; x312-499 y373-712) Andrew Kolstee (JD8) Wendi Szabo (JD8) Duane Whitmer (JD8) Vacant (JD8) Pietro Geraci (JD9) Catrina Rocco (JD9) William Schmidt (JD9) Jeffrey Denecke (JD10) Jonathan Gunther (JD10) … Richard Purtell (ex-officio) Christopher Skelly (ex-officio)
+[p12b1] (Roboto-Bold 16; x36-189 y756-777) 12 | FREE NEW YORK
+[p12b9] (Roboto-Bold 20; x62-555 y721-748) info@lpny.org www.LPNY.org 866-336-3120

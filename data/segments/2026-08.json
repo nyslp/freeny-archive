@@ -1,0 +1,973 @@
+{
+ "issue": "2026-08",
+ "volume": 55,
+ "number": 8,
+ "articles": [
+  {
+   "title": "2026 LPNY Convention",
+   "subtitle": null,
+   "author": "Catrina Rocco",
+   "author_role": "LPNY Volunteer Director",
+   "kind": "article",
+   "tags": [
+    "convention",
+    "events",
+    "candidates"
+   ],
+   "counties": [],
+   "summary": "Catrina Rocco invites members to the October 24, 2026 LPNY convention at Hotel MTK in Mount Kisco, with speakers, candidate training, roasts, an auction and a plan to run 50 candidates in 2027.",
+   "title_blocks": [],
+   "byline_blocks": [
+    "p1b8"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p1b0",
+      "p1b1",
+      "p1b7",
+      "p2b1",
+      "p2b2",
+      "p2b3"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "A Call to Action to County Affiliates",
+   "subtitle": null,
+   "author": "Catrina Rocco",
+   "author_role": "LPNY Volunteer Director",
+   "kind": "article",
+   "tags": [
+    "ballot access",
+    "county affiliates",
+    "legislation"
+   ],
+   "counties": [],
+   "summary": "Catrina Rocco asks county affiliates to meet their state legislators about a minor-party nominating petition and return reports by October 3, 2026.",
+   "title_blocks": [
+    "p2b5",
+    "p2b6"
+   ],
+   "byline_blocks": [
+    "p2b20"
+   ],
+   "body": [
+    {
+     "type": "p",
+     "blocks": [
+      "p2b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b9",
+      "p2b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b12",
+      "p2b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b18"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p2b19"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Election Integrity",
+   "subtitle": null,
+   "author": "Vincent O'Neill",
+   "author_role": "State Committee Member (JD10)",
+   "kind": "article",
+   "tags": [
+    "elections",
+    "policy",
+    "ballot access",
+    "opinion"
+   ],
+   "counties": [],
+   "summary": "Vincent O'Neill lays out a reform agenda: end taxpayer-funded primaries, equalize ballot access, expand debates, require photo ID, restrict absentee voting and change legislative procedure and campaign finance.",
+   "title_blocks": [
+    "p3b1"
+   ],
+   "byline_blocks": [
+    "p3b16"
+   ],
+   "body": [
+    {
+     "type": "quote",
+     "blocks": [
+      "p3b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b3"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b4",
+      "p3b5"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b11",
+      "p3b12"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b13"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p3b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p3b15",
+      "p4b1"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b4"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b9",
+      "p4b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b11"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b12"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b13"
+     ]
+    },
+    {
+     "type": "quote",
+     "blocks": [
+      "p4b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b15"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b18"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b19"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b20"
+     ]
+    },
+    {
+     "type": "quote",
+     "blocks": [
+      "p4b21"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p4b22"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b23"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p4b24",
+      "p5b1"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b2"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b3"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b4"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b5"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b6"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b7"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b8"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b9"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b10"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b11"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b12"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b13"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b14"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b15"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b16"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b17"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b18"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b19"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b20",
+      "p5b21"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p5b22"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b23"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b24"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b25"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b26"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b27"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p5b28"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "30th Annual Long Island Libertarian Cook Out",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "ad",
+   "tags": [
+    "events",
+    "county affiliates"
+   ],
+   "counties": [
+    "Nassau"
+   ],
+   "summary": "Invitation to the 30th annual LILCO cookout on Saturday, August 22, 2026, 3 to 7 pm in Plainview.",
+   "title_blocks": [],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "image",
+     "id": "p3i0",
+     "caption_blocks": []
+    }
+   ]
+  },
+  {
+   "title": "County Affiliate News",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "county-news",
+   "tags": [
+    "county affiliates",
+    "events"
+   ],
+   "counties": [],
+   "summary": "Meeting times, places and contacts for LPNY's county affiliates.",
+   "title_blocks": [
+    "p6b1"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p6b2"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b3",
+      "p6b4",
+      "p6b5",
+      "p6b6",
+      "p6b7",
+      "p6b8",
+      "p6b9"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b10"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b11",
+      "p6b12",
+      "p6b13"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b14"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b15",
+      "p6b16",
+      "p6b17"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b18"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b19",
+      "p6b20",
+      "p6b21",
+      "p6b22",
+      "p6b23",
+      "p6b24"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b25"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b26"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b27"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b28",
+      "p6b29",
+      "p6b30",
+      "p6b31",
+      "p6b32"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b33"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b34",
+      "p6b35"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b36"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b37",
+      "p6b38",
+      "p6b39",
+      "p6b40",
+      "p6b41",
+      "p6b42"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b43"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b44",
+      "p6b45",
+      "p6b46",
+      "p6b47",
+      "p6b48",
+      "p6b49"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b50"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b51",
+      "p6b52",
+      "p6b53"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p6b54"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p6b55",
+      "p6b56"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b1"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b2",
+      "p7b3",
+      "p7b4",
+      "p7b5",
+      "p7b6"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b7"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b8",
+      "p7b9",
+      "p7b10"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b11"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b12",
+      "p7b13",
+      "p7b14",
+      "p7b15",
+      "p7b16",
+      "p7b17"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b18"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b19",
+      "p7b20",
+      "p7b21",
+      "p7b22"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b23"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b24",
+      "p7b25",
+      "p7b26",
+      "p7b27",
+      "p7b28"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b29"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b30",
+      "p7b31"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b32"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b33"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b34"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b35",
+      "p7b36",
+      "p7b37",
+      "p7b38"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b39"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b40",
+      "p7b41",
+      "p7b42",
+      "p7b43",
+      "p7b44"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b45"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b46",
+      "p7b47",
+      "p7b48",
+      "p7b49",
+      "p7b50",
+      "p7b51",
+      "p7b52"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p7b53"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p7b54",
+      "p7b55",
+      "p7b56"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "LPNY Directory",
+   "subtitle": null,
+   "author": null,
+   "author_role": null,
+   "kind": "directory",
+   "tags": [
+    "party business"
+   ],
+   "counties": [],
+   "summary": "LPNY's executive committee, committee chairs and state committee members.",
+   "title_blocks": [
+    "p8b0"
+   ],
+   "byline_blocks": [],
+   "body": [
+    {
+     "type": "h",
+     "blocks": [
+      "p8b3"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b2"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b8"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b7"
+     ]
+    },
+    {
+     "type": "h",
+     "blocks": [
+      "p8b6"
+     ]
+    },
+    {
+     "type": "list",
+     "blocks": [
+      "p8b4",
+      "p8b5"
+     ]
+    },
+    {
+     "type": "p",
+     "blocks": [
+      "p8b9"
+     ]
+    }
+   ]
+  }
+ ],
+ "skip": [
+  "p1b3",
+  "p1b4",
+  "p1b6",
+  "p1b2",
+  "p1b9",
+  "p1b5",
+  "p2b4",
+  "p2b0",
+  "p3b17",
+  "p3b0",
+  "p4b26",
+  "p4b25",
+  "p4b0",
+  "p5b29",
+  "p5b0",
+  "p6b0",
+  "p7b0",
+  "p8b1"
+ ]
+}

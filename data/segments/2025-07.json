@@ -1,0 +1,117 @@
+{
+  "issue": "2025-07", "volume": 54, "number": 7,
+  "articles": [
+    {"title": "Ed Clark 1930–2025", "subtitle": null, "author": null, "author_role": null, "kind": "article",
+     "tags": ["obituary", "party history"], "counties": [],
+     "summary": "LPNY mourns its founding chair Ed Clark, the 1980 Libertarian presidential nominee, who died on June 19, 2025, at age 95.",
+     "title_blocks": ["p1b3", "p1b4"], "byline_blocks": [],
+     "body": [
+      {"type": "image", "id": "p1i0", "caption_blocks": []},
+      {"type": "p", "blocks": ["p1b0", "p1b1"]},
+      {"type": "p", "blocks": ["p1b2", "p1b10"]},
+      {"type": "p", "blocks": ["p1b11", "p2b15"]},
+      {"type": "image", "id": "p2i0", "caption_blocks": []},
+      {"type": "p", "blocks": ["p2b16", "p2b17"]},
+      {"type": "p", "blocks": ["p2b18", "p2b19"]}
+     ]},
+    {"title": "LPNY Updates – July 2025", "subtitle": null, "author": "Andrew Kolstee", "author_role": "LPNY Secretary", "kind": "updates",
+     "tags": ["party business", "candidates", "ballot access", "podcast"], "counties": [],
+     "summary": "Monthly round-up: 2025 candidates, the Liberty Test podcast, the State Fair table, ballot-access bills, a fall event and convention delegates.",
+     "title_blocks": ["p2b24"], "byline_blocks": ["p2b21", "p2b22"],
+     "body": [
+      {"type": "p", "blocks": ["p2b0"]},
+      {"type": "h", "blocks": ["p2b1"]}, {"type": "p", "blocks": ["p2b2"]},
+      {"type": "h", "blocks": ["p2b3"]}, {"type": "p", "blocks": ["p2b4", "p2b5"]},
+      {"type": "h", "blocks": ["p2b6"]}, {"type": "p", "blocks": ["p2b7"]},
+      {"type": "h", "blocks": ["p2b8"]}, {"type": "p", "blocks": ["p2b9", "p2b10"]},
+      {"type": "h", "blocks": ["p2b11"]}, {"type": "p", "blocks": ["p2b12"]},
+      {"type": "h", "blocks": ["p2b13"]}, {"type": "p", "blocks": ["p2b14"]}
+     ]},
+    {"title": "Matthew Morgan Wins Spot on Ballot", "subtitle": null, "author": "Christopher Skelly", "author_role": "Communications Director, Brooklyn Chair", "kind": "article",
+     "tags": ["candidates", "elections", "ballot access"], "counties": ["Kings"],
+     "summary": "A court restored Brooklyn Libertarian Matthew Morgan to the ballot for New York City Council District 39 after an elections board removal.",
+     "title_blocks": ["p3b6", "p3b7"], "byline_blocks": ["p3b8", "p3b9"],
+     "body": [
+      {"type": "image", "id": "p3i0", "caption_blocks": []},
+      {"type": "p", "blocks": ["p3b1", "p3b2"]},
+      {"type": "p", "blocks": ["p3b3"]},
+      {"type": "p", "blocks": ["p3b4", "p3b5"]}
+     ]},
+    {"title": "The Liberty Test Features Thomas Babilon", "subtitle": null, "author": "Daniel Castello", "author_role": "LPNY Vice-Chair, Onondaga County Vice-Chair", "kind": "article",
+     "tags": ["podcast"], "counties": ["Onondaga"],
+     "summary": "The LPNY podcast talks with Syracuse mayoral candidate Thomas Babilon about the city's entertainment permit rules for music venues.",
+     "title_blocks": ["p3b13", "p3b14"], "byline_blocks": ["p3b15", "p3b16"],
+     "body": [
+      {"type": "p", "blocks": ["p3b10", "p3b11"]},
+      {"type": "p", "blocks": ["p3b12"]}
+     ]},
+    {"title": "Monroe LP at Rochester Pride Fest", "subtitle": null, "author": null, "author_role": null, "kind": "article",
+     "tags": ["events", "county affiliates"], "counties": ["Monroe"],
+     "summary": "Photos of the Monroe County Libertarian Party at Rochester Pride Fest.",
+     "title_blocks": ["p4b6"], "byline_blocks": [],
+     "body": [
+      {"type": "image", "id": "p4i2", "caption_blocks": []},
+      {"type": "image", "id": "p4i0", "caption_blocks": []},
+      {"type": "image", "id": "p4i1", "caption_blocks": []}
+     ]},
+    {"title": "Start a County Affiliate", "subtitle": null, "author": null, "author_role": null, "kind": "ad",
+     "tags": ["county affiliates"], "counties": [],
+     "summary": "LPNY is looking for Libertarians to organize new county affiliates.",
+     "title_blocks": [], "byline_blocks": [],
+     "body": [
+      {"type": "p", "blocks": ["p4b1"]}, {"type": "p", "blocks": ["p4b2"]}, {"type": "p", "blocks": ["p4b3"]},
+      {"type": "p", "blocks": ["p4b4", "p4b5"]}
+     ]},
+    {"title": "Help Us Get A02724 and S01870 Passed", "subtitle": null, "author": null, "author_role": null, "kind": "article",
+     "tags": ["ballot access", "legislation"], "counties": [],
+     "summary": "Two state bills would lower the vote and petition-signature thresholds for ballot access; LPNY asks members to contact their legislators.",
+     "title_blocks": ["p5b1", "p5b2"], "byline_blocks": [],
+     "body": [
+      {"type": "p", "blocks": ["p5b3", "p5b4", "p5b5", "p5b6", "p5b7", "p5b8"]},
+      {"type": "p", "blocks": ["p5b9", "p5b10"]},
+      {"type": "p", "blocks": ["p5b11", "p5b12"]}
+     ]},
+    {"title": "County Affiliate News", "subtitle": null, "author": null, "author_role": null, "kind": "county-news",
+     "tags": ["county affiliates", "events"], "counties": [],
+     "summary": "Meeting times, places and contacts for LPNY's county affiliates.",
+     "title_blocks": ["p6b1"], "byline_blocks": [],
+     "body": [
+      {"type": "h", "blocks": ["p6b2"]}, {"type": "list", "blocks": ["p6b3"]},
+      {"type": "h", "blocks": ["p6b4"]}, {"type": "list", "blocks": ["p6b5", "p6b6", "p6b7", "p6b8", "p6b9", "p6b10"]},
+      {"type": "h", "blocks": ["p6b11"]}, {"type": "list", "blocks": ["p6b12", "p6b13", "p6b14"]},
+      {"type": "h", "blocks": ["p6b15"]}, {"type": "list", "blocks": ["p6b16", "p6b17", "p6b18"]},
+      {"type": "h", "blocks": ["p6b19"]}, {"type": "list", "blocks": ["p6b20", "p6b21", "p6b22", "p6b23", "p6b24", "p6b25"]},
+      {"type": "h", "blocks": ["p6b26"]}, {"type": "list", "blocks": ["p6b27"]},
+      {"type": "h", "blocks": ["p6b28"]}, {"type": "list", "blocks": ["p6b29", "p6b30", "p6b31", "p6b32", "p6b33"]},
+      {"type": "h", "blocks": ["p6b34"]}, {"type": "list", "blocks": ["p6b35", "p6b36"]},
+      {"type": "h", "blocks": ["p6b37"]}, {"type": "list", "blocks": ["p6b38", "p6b39", "p6b40", "p6b41", "p6b42", "p6b43"]},
+      {"type": "h", "blocks": ["p6b44"]}, {"type": "list", "blocks": ["p6b45", "p6b46", "p6b47", "p6b48", "p6b49", "p6b50"]},
+      {"type": "h", "blocks": ["p6b51"]}, {"type": "list", "blocks": ["p6b52", "p6b53", "p6b54", "p6b55"]},
+      {"type": "h", "blocks": ["p7b2"]}, {"type": "list", "blocks": ["p7b1", "p7b3", "p7b4"]},
+      {"type": "h", "blocks": ["p7b5"]}, {"type": "list", "blocks": ["p7b6", "p7b7", "p7b8", "p7b9", "p7b10"]},
+      {"type": "h", "blocks": ["p7b11"]}, {"type": "list", "blocks": ["p7b12"]},
+      {"type": "h", "blocks": ["p7b13"]}, {"type": "list", "blocks": ["p7b14", "p7b15", "p7b16"]},
+      {"type": "h", "blocks": ["p7b17"]}, {"type": "list", "blocks": ["p7b18", "p7b19", "p7b20", "p7b21"]},
+      {"type": "h", "blocks": ["p7b22"]}, {"type": "list", "blocks": ["p7b23", "p7b24", "p7b25", "p7b26"]},
+      {"type": "h", "blocks": ["p7b27"]}, {"type": "list", "blocks": ["p7b28", "p7b29", "p7b30", "p7b31"]},
+      {"type": "h", "blocks": ["p7b32"]}, {"type": "list", "blocks": ["p7b33", "p7b34", "p7b35", "p7b36", "p7b37"]},
+      {"type": "h", "blocks": ["p7b38"]}, {"type": "list", "blocks": ["p7b39", "p7b40"]},
+      {"type": "h", "blocks": ["p7b41"]}, {"type": "list", "blocks": ["p7b42"]},
+      {"type": "h", "blocks": ["p7b43"]}, {"type": "list", "blocks": ["p7b44", "p7b45", "p7b46", "p7b47"]},
+      {"type": "h", "blocks": ["p7b48"]}, {"type": "list", "blocks": ["p7b49", "p7b50", "p7b51", "p7b52", "p7b53"]},
+      {"type": "h", "blocks": ["p7b54"]}, {"type": "list", "blocks": ["p7b55", "p7b56", "p7b57", "p7b58", "p7b59", "p7b60", "p7b61"]},
+      {"type": "h", "blocks": ["p7b62"]}, {"type": "list", "blocks": ["p7b63"]}
+     ]},
+    {"title": "LPNY Directory", "subtitle": null, "author": null, "author_role": null, "kind": "directory",
+     "tags": ["party business"], "counties": [],
+     "summary": "LPNY's executive committee, committee chairs and state committee members.",
+     "title_blocks": ["p8b0"], "byline_blocks": [],
+     "body": [
+      {"type": "h", "blocks": ["p8b3"]}, {"type": "list", "blocks": ["p8b2"]},
+      {"type": "h", "blocks": ["p8b8"]}, {"type": "list", "blocks": ["p8b7"]},
+      {"type": "h", "blocks": ["p8b6"]}, {"type": "list", "blocks": ["p8b4", "p8b5"]},
+      {"type": "p", "blocks": ["p8b9"]}
+     ]}
+  ],
+  "skip": ["p1b6", "p1b7", "p1b9", "p1b5", "p1b12", "p1b8", "p2b23", "p2b20", "p3b0", "p4b0", "p5b0", "p6b0", "p7b0", "p8b1"]
+}
