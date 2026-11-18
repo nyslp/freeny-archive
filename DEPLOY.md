@@ -8,7 +8,8 @@ against limits of 20,000 files and 25 MB per file, with no charge for static req
 
 `wrangler.jsonc` names no account, so this public repo doesn't carry one. Choose the account at deploy
 time with `CLOUDFLARE_ACCOUNT_ID` (Cloudflare dashboard → Workers & Pages → Account ID), or pick it when
-wrangler asks. `site.config.json` assumes the address `https://freeny-archive.devin-31f.workers.dev`.
+wrangler asks. It currently runs at `https://freeny.tilden.vote` (a custom domain in `wrangler.jsonc`,
+set as `site_url` in `site.config.json`), with `freeny-archive.devin-31f.workers.dev` as a second address.
 
 1. Rebuild and check:
    ```bash
@@ -24,8 +25,8 @@ wrangler asks. `site.config.json` assumes the address `https://freeny-archive.de
    ```bash
    CLOUDFLARE_ACCOUNT_ID=<account id> npx wrangler@4 deploy
    ```
-   Wrangler prints the live address. If it isn't `freeny-archive.devin-31f.workers.dev`, put the
-   printed address in `site.config.json` → `site_url`, then repeat steps 1 and 3. Canonical links,
+   If the site moves to a different address, put it in `site.config.json` → `site_url` and the
+   `routes` entry in `wrangler.jsonc`, then repeat steps 1 and 3. Canonical links,
    the sitemap, `llms.txt` and the feed all use that address.
 4. Check the live site: open an article, try the search, and confirm `/robots.txt`, `/sitemap.xml`
    and `/llms.txt` load. A made-up address should show the archive's "Page not found" page.
